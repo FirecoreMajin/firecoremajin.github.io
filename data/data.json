@@ -1,0 +1,150 @@
+{
+	"next": [
+		{ 
+			"name" : "Zelnite Dio dei Ladri",
+			"icon" : "http://tinyurl.com/qbfygtv",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Thief_God_Zelnite",
+			"vote" : "Ottima"
+		},
+		{ 
+			"name" : "Lilly Matah la Tiranna",
+			"icon" : "http://tinyurl.com/prt9en2",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Tyrant_Lilly_Matah",
+			"vote" : "Ottima"
+		},
+		{ 
+			"name" : "Exvehl la Belva",
+			"icon" : "http://tinyurl.com/nqjp44s",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Beast_God_Exvehl",
+			"vote" : "Buona"
+		}
+	],
+	"team": [
+		{ "name"  : "BB Spam", "units" : [
+			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" }
+		] }
+	],
+	"groups": [
+		{ "name"  : "Ottime", "units" : [
+			{ "name" : "Darvanshell il guardiano", "icon" : "http://tinyurl.com/nefoxz3" },
+			{ "name" : "Dea Eir", "icon" : "http://tinyurl.com/pev4s9z" },
+			{ "name" : "Zelnite dio dei ladri", "icon" : "http://tinyurl.com/qbfygtv" },
+			{ "name" : "Lilly Matah la tiranna", "icon" : "http://tinyurl.com/prt9en2" },
+			{ "name" : "Maxwell Creatore", "icon" : "http://tinyurl.com/oecdvel" },
+			{ "name" : "LlewxaM sacra", "icon" : "http://tinyurl.com/qz3ypf9" }
+		] },
+		{ "name"  : "Buone", "units" : [
+			{ "name" : "Michele dea ascia", "icon" : "http://tinyurl.com/ogh826o" },
+			{ "name" : "Dea Svafa", "icon" : "http://tinyurl.com/pscsgum" },
+			{ "name" : "Felneus", "icon" : "http://tinyurl.com/nf2glf5" },
+			{ "name" : "Oulu forte gelo", "icon" : "http://tinyurl.com/pjk469e" },
+			{ "name" : "Exvehl la Belva", "icon" : "http://tinyurl.com/nqjp44s" },
+			{ "name" : "Lodin drago", "icon" : "http://tinyurl.com/netxca9" },
+			{ "name" : "Dea Thrud", "icon" : "http://tinyurl.com/qdetb4x" },
+			{ "name" : "Altri Albero alfa", "icon" : "http://tinyurl.com/q85an2n" },
+			{ "name" : "Legatus Melchio", "icon" : "http://tinyurl.com/oeq3e3d" },
+			{ "name" : "Lilith Devastante", "icon" : "http://tinyurl.com/q8aaoc7" },
+			{ "name" : "Duel-SGX ", "icon" : "http://tinyurl.com/nbouk2j" },
+			{ "name" : "Cardes il malvagio", "icon" : "http://tinyurl.com/qaap2l3" },
+			{ "name" : "Grahdens", "icon" : "http://tinyurl.com/o4dhnd3" }
+		] },
+		{ "name"  : "Decenti", "units" : [
+			{ "name" : "Mariudeth dio delle asce", "icon" : "http://tinyurl.com/ojqh4lz" },
+			{ "name" : "Dilma pugno fiero", "icon" : "http://tinyurl.com/ojrkk8b" },
+			{ "name" : "Azael il serafino", "icon" : "http://tinyurl.com/o3qlpff" },
+			{ "name" : "Dea Alvitr", "icon" : "http://tinyurl.com/pfsbfle" },
+			{ "name" : "Selfia Lame Sacre", "icon" : "http://tinyurl.com/po2bj97" },
+			{ "name" : "Kikuri dio morte", "icon" : "http://tinyurl.com/p3jemug" },
+			{ "name" : "Magress empio", "icon" : "http://tinyurl.com/pxfeeef" }
+		] },
+		{ "name"  : "Scarse", "units" : [
+			{ "name" : "Vargas sacrofuoco", "icon" : "http://tinyurl.com/ngdbfor" },
+			{ "name" : "Selena gelo sacro", "icon" : "http://tinyurl.com/pgaqsh7" },
+			{ "name" : "Lance terra sacra", "icon" : "http://tinyurl.com/qfo75vl" },
+			{ "name" : "Eze tuono sacro", "icon" : "http://tinyurl.com/o4mewv2" },
+			{ "name" : "Atro luce sacra", "icon" : "http://tinyurl.com/odc7wfq" },
+			{ "name" : "Alice mietitrice", "icon" : "http://tinyurl.com/osgzep4" },
+			{ "name" : "Zegar Re bestia", "icon" : "http://tinyurl.com/osq9def" },
+			{ "name" : "Edea di Gaia", "icon" : "http://tinyurl.com/o9rrgbf" }
+		] }
+	],
+	"next6eu": [
+		{ "name" : "LlewxaM sacra", "icon" : "http://tinyurl.com/qz3ypf9" },
+		{ "name" : "EtudreV sacro", "icon" : "http://tinyurl.com/ovjqjbv" },
+		{ "name" : "AymarkS sacra", "icon" : "http://tinyurl.com/p2eoolj" },
+		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr" },
+		{ "name" : "Conte Heinrich", "icon" : "http://tinyurl.com/nu32olq" },
+		{ "name" : "Conte Cornelius", "icon" : "http://tinyurl.com/q3dmzzt" },
+		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t" }	], 
+	"global7": [
+		{ "name" : "Dark Legend Magress", "icon" : "http://tinyurl.com/oa44po6" },
+		{ "name" : "Earth Legend Lance", "icon" : "http://tinyurl.com/q4fbxre" },
+		{ "name" : "Flame Legend Vargas", "icon" : "http://tinyurl.com/nzuntbr" },
+		{ "name" : "Light Legend Atro", "icon" : "http://tinyurl.com/q5hueod" },
+		{ "name" : "Ice Legend Selena", "icon" : "http://tinyurl.com/o436mqc" },
+		{ "name" : "Thunder Legend Eze", "icon" : "http://tinyurl.com/pem3mud" },
+		{ "name" : "Angelic Blades Sefia", "icon" : "http://tinyurl.com/q3s5s6y" },
+		{ "name" : "Celestial Archer Loch", "icon" : "http://tinyurl.com/ntmxm8p" },
+		{ "name" : "Demonic Idol Kikuri", "icon" : "http://tinyurl.com/oqd5sq7" },
+		{ "name" : "Flora Aegis Edea", "icon" : "http://tinyurl.com/n9woakb" },
+		{ "name" : "Inferno Princess Alice", "icon" : "http://tinyurl.com/phznj9z" },
+		{ "name" : "Leviathan Sage Elimo", "icon" : "http://tinyurl.com/o4t5qct" },
+		{ "name" : "Phoenix Wings Lava", "icon" : "http://tinyurl.com/ovo4as8" }	
+	], 
+	"unranked": [
+		{ "name" : "Agni eroe magma", "icon" : "http://tinyurl.com/qzjdxun" },
+		{ "name" : "Fenice rinata", "icon" : "http://tinyurl.com/qh4lde2" },
+		{ "name" : "Lava fiamma sacra", "icon" : "http://tinyurl.com/qzrudfx" },
+		{ "name" : "Lancia super chef", "icon" : "http://tinyurl.com/p99rfft" },
+		{ "name" : "Sapiente Lorand", "icon" : "http://tinyurl.com/ont8svz" },
+		{ "name" : "Aisha ang. draghi", "icon" : "http://tinyurl.com/ood28m4" },
+		{ "name" : "Seria Dea spade", "icon" : "http://tinyurl.com/p8nr4zo" },
+		{ "name" : "Freya sib. lame", "icon" : "http://tinyurl.com/o9uyqrc" },
+		{ "name" : "Bordebegia", "icon" : "http://tinyurl.com/nls2pcz" },
+		{ "name" : "Vishra signore", "icon" : "http://tinyurl.com/o999455" },
+		{ "name" : "Reed re delle spade", "icon" : "http://tinyurl.com/ohwssjd" },
+		{ "name" : "Farlon spadarossa", "icon" : "http://tinyurl.com/p8go74d" },
+		{ "name" : "Ramna samba fuoco", "icon" : "http://tinyurl.com/ntmg4cn" },
+		{ "name" : "Dia princ. inferi", "icon" : "http://tinyurl.com/nkx2h3x" },
+		{ "name" : "Luther dio audace", "icon" : "http://tinyurl.com/nkgstqj" },
+		{ "name" : "Perfida Skalmold", "icon" : "http://tinyurl.com/o9tsyu8" },
+		{ "name" : "EtudreV sacro", "icon" : "http://tinyurl.com/ovjqjbv" },
+		{ "name" : "Conte Heinrich", "icon" : "http://tinyurl.com/nu32olq" },
+		{ "name" : "Cayena guerriera", "icon" : "http://tinyurl.com/njx5477" },
+		{ "name" : "Zephu eroe draghi", "icon" : "http://tinyurl.com/pfbhjhp" },
+		{ "name" : "Re del mare Mega", "icon" : "http://tinyurl.com/nrw7vy8" },
+		{ "name" : "Stya madre neve", "icon" : "http://tinyurl.com/o276wga" },
+		{ "name" : "Elimo mago saggio", "icon" : "http://tinyurl.com/q6jxd6r" },
+		{ "name" : "Dean maestro", "icon" : "http://tinyurl.com/orla2b2" },
+		{ "name" : "Rickel due armi", "icon" : "http://tinyurl.com/pqvzfsz" },
+		{ "name" : "Karl guerriero", "icon" : "http://tinyurl.com/p2lnhav" },
+		{ "name" : "Eliza sib. neve", "icon" : "http://tinyurl.com/nzcggjp" },
+		{ "name" : "Tiara definitiva", "icon" : "http://tinyurl.com/pysc9mw" },
+		{ "name" : "Oulu forte gelo", "icon" : "http://tinyurl.com/pjk469e" },
+		{ "name" : "Reeze gigantron", "icon" : "http://tinyurl.com/pspaxjm" },
+		{ "name" : "Rhein dio degli artigli", "icon" : "http://tinyurl.com/op9ybed" },
+		{ "name" : "Raydn re lancia", "icon" : "http://tinyurl.com/oer4sxx" },
+		{ "name" : "Lucina dea blu", "icon" : "http://tinyurl.com/oqc9lgl" },
+		{ "name" : "Phee dea tiranna", "icon" : "http://tinyurl.com/of2rbe4" },
+		{ "name" : "Sergio eroe gelo", "icon" : "http://tinyurl.com/ojzumpn" },
+		{ "name" : "AymarkS sacra", "icon" : "http://tinyurl.com/p2eoolj" },
+		{ "name" : "Conte Cornelius", "icon" : "http://tinyurl.com/q3dmzzt" },
+		{ "name" : "Serin dea armi", "icon" : "http://tinyurl.com/qzyx299" },
+		{ "name" : "Signas reg. neve", "icon" : "http://tinyurl.com/o6ngwbh" },
+		{ "name" : "Sovrana Lidith", "icon" : "http://tinyurl.com/o4e2mal" },
+		{ "name" : "Douglas il Beato", "icon" : "http://tinyurl.com/nvkqe69" },
+		{ "name" : "Leore lord", "icon" : "http://tinyurl.com/osocerx" },
+		{ "name" : "Gaians Il e Mina", "icon" : "http://tinyurl.com/oj7oemj" },
+		{ "name" : "Paula sib. rosa", "icon" : "http://tinyurl.com/npowtl7" },
+		{ "name" : "Zelban imp. spade", "icon" : "http://tinyurl.com/odcr3xz" },
+		{ "name" : "Gravion", "icon" : "http://tinyurl.com/pgsl5oa" },
+		{ "name" : "Aneil dio leale", "icon" : "http://tinyurl.com/osyu4ll" },
+		{ "name" : "Luly dea caos", "icon" : "http://tinyurl.com/ndkxjmw" },
+		{ "name" : "Ofelia reg. lotta", "icon" : "http://tinyurl.com/nt3ofap" },
+		{ "name" : "Darvan impavido", "icon" : "http://tinyurl.com/opqsffs" },
+		{ "name" : "Nalmika dea edera", "icon" : "http://tinyurl.com/nm65tue" },
+		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr" },
+		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t" },
+		{ "name" : "Bayley selvaggia", "icon" : "http://tinyurl.com/pwzt7jv" }
+	] 
+}

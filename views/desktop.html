@@ -1,0 +1,63 @@
+<link rel="stylesheet" type="text/css"  href="css/desktop.css" />
+<div class="container" ng-controller="BFUnitCtrl">
+	<p>
+		Ho cercato un po' in giro informazioni a riguardo ma non ne ho mai trovate molte...se non qualche utente disposto a dare due dritte in merito...come me penso che tanti player che han giocato solo all'EU a volte necessitino di sapere se le prossime unità che usciranno saranno importanti o da cestinare e allo stesso modo se tenere o meno un unità nel proprio "inventario" e livellarle o se buttarle via o semplicemente ignorarle in attesa di modifiche future..
+		L'idea era quella di tenere un elenco delle unità indicando se importante o meno e nel caso sia importante se esiste qualcosa di free o simile che possa farne le veci...e in questo possono aiutare solo i player GL e JP che sanno già cosa muore e cosa va avanti
+	</p>
+	<table border="1" style="width:100%;"><tbody>
+		<tr><td align="center" colspan="{{next.length}}">
+			<h2>NEXT BATCH</h2>
+		</td></tr>		
+		<tr>
+			<td width="{{100/next.length}}%" align="center" ng-repeat="x in next">
+				<a href="{{x.link}}">
+					<img src="{{x.icon}}" style="display:block;" />
+					<span style="display:block;">{{x.name}}</span>
+				</a>
+				<span style="display:block;margin-top:25px;">{{'- ' + x.vote + ' -'}}</span>
+			</td>
+		</tr>
+	</tbody></table>
+
+	<table border="1" style="width:100%;">
+		<tbody ng-repeat="grp in groups | filter:filterGroups">
+			<tr>
+			    <td width="50%" align="center">
+			    	<h3>{{grp.name}}</h3>
+			    </td> 
+			    <td width="50%" align="center">
+			    	<h3>{{groups[grp._index+1].name}}</h3>
+			    </td> 
+			</tr>
+			<tr>
+			    <td width="50%" valign="top">
+			    	<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img src="{{unit.icon}}" /></span>
+			    </td> 
+			    <td width="50%" valign="top">
+			    	<span title="{{unit.name}}" ng-repeat="unit in groups[grp._index+1].units"><img src="{{unit.icon}}" /></span>
+			    </td> 
+			</tr>
+		</tbody><tbody>
+			<tr><td colspan="2" align="center">
+			    <h3>Unit EU con 6* in uscita (annunciate ma data sconosciuta)</h3>
+			</td></tr>
+			<tr><td width="100%" colspan="2">
+		    	<span title="{{unit.name}}" ng-repeat="unit in next6eu"><img src="{{unit.icon}}" /></span>
+			</td></tr>
+		</tbody> <tbody>
+			<tr><td colspan="2" align="center">
+			    <h3>Unit EU con 7* in Global</h3>
+			</td></tr>
+			<tr><td width="100%" colspan="2">
+		    	<span title="{{unit.name}}" ng-repeat="unit in global7"><img src="{{unit.icon}}" /></span>
+			</td></tr>
+		</tbody><tbody>
+			<tr><td colspan="2" align="center">
+			    <h3>Ancora da posizionare</h3>
+			</td></tr>
+			<tr><td width="100%" colspan="2" style="white-space: normal;">
+		    	<span title="{{unit.name}}" ng-repeat="unit in unranked"><img src="{{unit.icon}}" /></span>
+			</td></tr>
+		</tbody>
+	</table>
+</div>

@@ -1,0 +1,11 @@
+<link rel="stylesheet" type="text/css"  href="bootstrap-3.3.5/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css"  href="css/mobile.css" />
+<div ng-controller="BFUnitCtrl"  class="panel panel-default">
+	<div class="panel-heading"><h3 class="panel-title">NEXT BATCH</h3></div>
+	<div class="panel-body">
+		<div class="container-fluid" ng-repeat="x in next">
+			<img src="{{x.icon}}" class="img-rounded" /> {{x.name}} <span class="label label-primary" style="float:right">{{x.vote}}</span>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</div>
