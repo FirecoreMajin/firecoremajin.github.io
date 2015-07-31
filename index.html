@@ -1,16 +1,18 @@
 <!doctype html>
-<html lang="it">
+<html ng-app="BFUnitApp" lang="it" ng-controller="BFUnitMainCtrl">
 	<head>
 		<title>Brave Frontier Unit Europa</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	</head>
-	
-	<body ng-app="BFUnitApp">
-		<div ng-view></div>
 		<script type="text/javascript" src="angular-1.4.1/angular.min.js"></script>
 		<script type="text/javascript" src="angular-1.4.1/angular-route.min.js"></script>
 		<script type="text/javascript" src="js/app.js"></script>
+		
+		<link rel="stylesheet" ng-href="{{_css}}" ng-repeat="_css in css">
+	</head>
+	
+	<body>
+		<div ng-view></div>
 	</body>
 </html>

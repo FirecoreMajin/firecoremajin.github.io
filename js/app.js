@@ -25,10 +25,16 @@ var app = angular.module('BFUnitApp', ['ngRoute']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/', {
-    	templateUrl: !isMobile.any() ? './views/desktop.html' : './views/mobile.html'
+    	templateUrl: !isMobile.any() ? './views/desktop.html' : './views/mobile.html',
+		css: !isMobile.any() ? ['./css/desktop.css'] : ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css']
     });
 }]);
 
+app.controller('BFUnitMainCtrl', function($scope, $route) {
+	$scope.$watch(function() { return $route.current.css; }, function(value) {
+	    $scope.css = value;
+	});
+});
 app.controller('BFUnitCtrl', function($scope, $http) {
 	$http.get("./data/data.json").success(function(response) {
 		$scope.next = response.next;
