@@ -1,4 +1,4 @@
-<div ng-controller="BFUnitMobileCtrl" style="padding-top: 50px">
+<div class="mobileCnt" ng-controller="BFUnitMobileCtrl">
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" ng-click="openCloseMenu();">
@@ -18,7 +18,7 @@
 			</ul>
 		</div>
 	</nav>
-	<div class="panel-group" role="tablist" aria-multiselectable="false">
+	<div id="pageGroup" class="panel-group" role="tablist" aria-multiselectable="false">
 		<div>
 			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='home'}" role="tabpanel">
 				<div>
@@ -158,4 +158,9 @@
 			</div>
 		</div>
 	</div>
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">Aiutaci a complaterla sul <a href="http://bravefrontieritaliafan.forumfree.it/?t=71174256">forum</a></p>
+      </div>
+    </footer>
 </div>
