@@ -14,10 +14,11 @@ body {
 }
 
 .desktopCnt>#pageGroup {
-	position: absolute;
-	width: 100%;
-	top: 50px;
-	bottom: 30px;
+	position: fixed;
+    width: 100%;
+    top: 50px;
+    bottom: 8px;
+    overflow: auto;
 }
 
 .footer {
