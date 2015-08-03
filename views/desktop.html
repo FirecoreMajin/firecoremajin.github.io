@@ -42,18 +42,18 @@
 							<tbody>
 								<tr ng-repeat="x in next | filter:filterGroups3">
 									<td align="center" width="33%" style="padding: 5px;"><a
-										href="{{x.link}}"> <img src="{{x.icon}}"
+										href="{{x.link}}" target="_blank"> <img src="{{x.icon}}"
 											style="display: block;" /> <span style="display: block;">{{x.name}}</span>
 									</a><br /> <span class="label label-primary">{{'- ' +
 											x.vote + ' -'}}</span></td>
 									<td align="center" width="33%" style="padding: 5px;"><a
-										href="{{next[x._index+1].link}}"> <img
+										href="{{next[x._index+1].link}}" target="_blank"> <img
 											src="{{next[x._index+1].icon}}" style="display: block;" /> <span
 											style="display: block;">{{next[x._index+1].name}}</span>
 									</a><br /> <span class="label label-primary">{{'- ' +
 											next[x._index+1].vote + ' -'}}</span></td>
 									<td align="center" width="33%" style="padding: 5px;"><a
-										href="{{next[x._index+2].link}}"> <img
+										href="{{next[x._index+2].link}}" target="_blank"> <img
 											src="{{next[x._index+2].icon}}" style="display: block;" /> <span
 											style="display: block;">{{next[x._index+2].name}}</span>
 									</a><br /> <span class="label label-primary">{{'- ' +
