@@ -1,20 +1,20 @@
 <div ng-controller="BFUnitMobileCtrl" style="padding-top: 50px">
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-collapse">
+			<button type="button" class="navbar-toggle collapsed" ng-click="openMenu();">
 				<span class="sr-only">Toggle navigation</span> 
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" onclick="return false;" ng-click="changeTab('home');" >BFUnitEU</a>
+			<a class="navbar-brand" ng-click="changeTab('home');" >BFUnitEU</a>
 		</div>
-		<div class="collapse navbar-collapse" id="nav-collapse">
+		<div class="navbar-collapse" ng-class="{collapse:menuOpen=='false'}">
 			<ul class="nav navbar-nav">
-				<li ng-class="{active:selectedTab=='home'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('home');">Home</a></li>
-				<li ng-class="{active:selectedTab=='next'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('next');">Next</a></li>
-				<li ng-class="{active:selectedTab=='units'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('units');">Unit</a></li>
-				<li ng-class="{active:selectedTab=='team'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('team');">Team</a></li>
+				<li ng-class="{active:selectedTab=='home'}"><a ng-click="changeTab('home');">Home</a></li>
+				<li ng-class="{active:selectedTab=='next'}"><a ng-click="changeTab('next');">Next</a></li>
+				<li ng-class="{active:selectedTab=='units'}"><a ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}"><a ng-click="changeTab('team');">Team</a></li>
 			</ul>
 		</div>
 	</nav>

@@ -55,8 +55,13 @@ app.controller('BFUnitMobileCtrl', function($scope, $http) {
 	});
 	
 	$scope.selectedTab = 'home';
+	$scope.menuOpen = 'false';
 	$scope.changeTab = function(tab){
 		$scope.selectedTab = tab;
+		$scope.menuOpen = 'false';
+	}
+	$scope.openMenu = function(){
+		$scope.menuOpen = 'true';
 	}
 });
 
