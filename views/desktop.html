@@ -37,14 +37,24 @@
 					<div>
 						<table border="0" style="width: 100%;">
 							<tbody>
-								<tr>
-									<td width="{{100/next.length}}%" align="center"
-										ng-repeat="x in next" style="padding: 5px;"><a
+								<tr ng-repeat="x in next | filter:filterGroups3">
+									<td align="center" width="33%" style="padding: 5px;"><a
 										href="{{x.link}}"> <img src="{{x.icon}}"
 											style="display: block;" /> <span style="display: block;">{{x.name}}</span>
-									</a><br />
-									<span class="label label-primary">{{'- ' + x.vote + '
-											-'}}</span></td>
+									</a><br /> <span class="label label-primary">{{'- ' +
+											x.vote + ' -'}}</span></td>
+									<td align="center" width="33%" style="padding: 5px;"><a
+										href="{{next[x._index+1].link}}"> <img
+											src="{{next[x._index+1].icon}}" style="display: block;" /> <span
+											style="display: block;">{{next[x._index+1].name}}</span>
+									</a><br /> <span class="label label-primary">{{'- ' +
+											next[x._index+1].vote + ' -'}}</span></td>
+									<td align="center" width="33%" style="padding: 5px;"><a
+										href="{{next[x._index+2].link}}"> <img
+											src="{{next[x._index+2].icon}}" style="display: block;" /> <span
+											style="display: block;">{{next[x._index+2].name}}</span>
+									</a><br /> <span class="label label-primary">{{'- ' +
+											next[x._index+2].vote + ' -'}}</span></td>
 								</tr>
 							</tbody>
 						</table>
@@ -71,13 +81,14 @@
 									</div>
 								</div>
 							</td>
-							<td valign="top" width="50%" style="padding:5px;" ng-if="next7eu">
+							<td valign="top" width="50%" style="padding: 5px;"
+								ng-if="next7eu">
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab">
 										<h4 class="panel-title" style="width: 100%;">Unità con 7*
 											in EU</h4>
 									</div>
-									<div style="padding:5px;">
+									<div style="padding: 5px;">
 										<span title="{{unit.name}}" ng-repeat="unit in next7eu"><img
 											src="{{unit.icon}}" /></span>
 									</div>
@@ -85,7 +96,8 @@
 							</td>
 						</tr>
 						<tr>
-							<td valign="top" width="50%" style="padding: 5px;" ng-if="global6">
+							<td valign="top" width="50%" style="padding: 5px;"
+								ng-if="global6">
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab">
 										<h4 class="panel-title" style="width: 100%;">Unità con 6*
@@ -121,7 +133,7 @@
 			<br />
 
 			<table style="width: 100%;">
-				<tbody ng-repeat="grp in groups | filter:filterGroups">
+				<tbody ng-repeat="grp in groups | filter:filterGroups2">
 					<tr>
 						<td valign="top" width="50%" style="padding: 5px;">
 							<div class="panel panel-default">
@@ -134,7 +146,8 @@
 								</div>
 							</div>
 						</td>
-						<td valign="top" width="50%" style="padding: 5px;" ng-if="groups[grp._index+1]">
+						<td valign="top" width="50%" style="padding: 5px;"
+							ng-if="groups[grp._index+1]">
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{groups[grp._index+1].name}}</h4>
@@ -168,11 +181,12 @@
 		</div>
 		<div class="panel-collapse collapse "
 			ng-class="{in:selectedTab=='team'}" role="tabpanel">
-			<p style="margin: 12px 10px 3px;">Questa pagina raccoglie le unità separate per utilità nei vari tipi di team.</p>
+			<p style="margin: 12px 10px 3px;">Questa pagina raccoglie le
+				unità separate per utilità nei vari tipi di team.</p>
 			<br />
 
 			<table style="width: 100%;">
-				<tbody ng-repeat="grp in team | filter:filterGroups">
+				<tbody ng-repeat="grp in team | filter:filterGroups2">
 					<tr>
 						<td valign="top" width="50%" style="padding: 5px;">
 							<div class="panel panel-default">
@@ -185,7 +199,8 @@
 								</div>
 							</div>
 						</td>
-						<td valign="top" width="50%" style="padding: 5px;" ng-if="team[grp._index+1]" >
+						<td valign="top" width="50%" style="padding: 5px;"
+							ng-if="team[grp._index+1]">
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{team[grp._index+1].name}}</h4>

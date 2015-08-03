@@ -1,27 +1,48 @@
 {
 	"next": [
 		{ 
-			"name" : "Zelnite Dio dei Ladri",
-			"icon" : "http://tinyurl.com/qbfygtv",
-			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Thief_God_Zelnite",
-			"vote" : "Ottima"
+			"name" : "God Emperor Orwen",
+			"icon" : "http://tinyurl.com/nsye48j",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/God_Emperor_Orwen",
+			"vote" : "?"
 		},
 		{ 
-			"name" : "Lilly Matah la Tiranna",
-			"icon" : "http://tinyurl.com/prt9en2",
-			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Tyrant_Lilly_Matah",
-			"vote" : "Ottima"
+			"name" : "Ice God Arius",
+			"icon" : "http://tinyurl.com/pso5jsx",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
+			"vote" : "?"
 		},
 		{ 
-			"name" : "Exvehl la Belva",
-			"icon" : "http://tinyurl.com/nqjp44s",
-			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Beast_God_Exvehl",
-			"vote" : "Buona"
+			"name" : "Flora Goddess Faris",
+			"icon" : "http://tinyurl.com/o4detnm",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Flora_Goddess_Faris",
+			"vote" : "?"
+		},
+		{ 
+			"name" : "God Engineer Garnan",
+			"icon" : "http://tinyurl.com/ndv7p5p",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
+			"vote" : "?"
+		},
+		{ 
+			"name" : "Brave God Hogar",
+			"icon" : "http://tinyurl.com/o4emxmb",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
+			"vote" : "?"
+		},
+		{ 
+			"name" : "Inferno Goddess Elza",
+			"icon" : "http://tinyurl.com/odc3bke",
+			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Inferno_Goddess_Elza",
+			"vote" : "Ottima"
 		}
 	],
 	"team": [
 		{ "name"  : "BB Spam", "units" : [
-			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" }
+			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" },
+			{ "name" : "Bordebegia", "icon" : "http://tinyurl.com/nls2pcz" },
+			{ "name" : "Douglas il Beato", "icon" : "http://tinyurl.com/nvkqe69" },
+			{ "name" : "Felneus", "icon" : "http://tinyurl.com/nf2glf5" }
 		] },
 		{ "name"  : "Crit", "units" : [
 			{ "name" : "Maxwell Creatore", "icon" : "http://tinyurl.com/oecdvel" },
@@ -35,7 +56,10 @@
 		] },
 		{ "name"  : "Rainbow", "units" : [
 		] },
+		{ "name"  : "Spark", "units" : [
+		] },
 		{ "name"  : "Arena", "units" : [
+			{ "name" : "Ofelia reg. lotta", "icon" : "http://tinyurl.com/nt3ofap" }
 		] }
 	],
 	"groups": [
@@ -87,9 +111,11 @@
 		{ "name" : "EtudreV sacro", "icon" : "http://tinyurl.com/ovjqjbv", "date" : "N/A" },
 		{ "name" : "AymarkS sacra", "icon" : "http://tinyurl.com/p2eoolj", "date" : "N/A" },
 		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr", "date" : "N/A" },
+		{ "name" : "ArbeZ sacro", "icon" : "http://tinyurl.com/o4ux2kh", "date" : "N/A" },
 		{ "name" : "Conte Heinrich", "icon" : "http://tinyurl.com/nu32olq", "date" : "N/A" },
 		{ "name" : "Conte Cornelius", "icon" : "http://tinyurl.com/q3dmzzt", "date" : "N/A" },
-		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t", "date" : "N/A" }	], 
+		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t", "date" : "N/A" }	
+	], 
 	"global7": [
 		{ "name" : "Dark Legend Magress", "icon" : "http://tinyurl.com/oa44po6" },
 		{ "name" : "Earth Legend Lance", "icon" : "http://tinyurl.com/q4fbxre" },
@@ -159,6 +185,42 @@
 		{ "name" : "Nalmika dea edera", "icon" : "http://tinyurl.com/nm65tue" },
 		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr" },
 		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t" },
-		{ "name" : "Bayley selvaggia", "icon" : "http://tinyurl.com/pwzt7jv" }
+		{ "name" : "Bayley selvaggia", "icon" : "http://tinyurl.com/pwzt7jv" },
+		{ "name" : "Emilia sacra", "icon" : "http://tinyurl.com/qh8eq5y" },
+		{ "name" : "Elulu mazza tesla", "icon" : "http://tinyurl.com/pudcdlf" },
+		{ "name" : "Loch arco celeste", "icon" : "http://tinyurl.com/ojce7f6" },
+		{ "name" : "Amy fulm. celeste", "icon" : "http://tinyurl.com/q6jwabp" },
+		{ "name" : "Ronel angelo caos", "icon" : "http://tinyurl.com/q29o92p" },
+		{ "name" : "Rina regina oro", "icon" : "http://tinyurl.com/nllg556" },
+		{ "name" : "Grybe dio mech", "icon" : "http://tinyurl.com/oqk5g33" },
+		{ "name" : "Bran saggio fuoco", "icon" : "http://tinyurl.com/pkjwgd4" },
+		{ "name" : "Rashil mago cielo", "icon" : "http://tinyurl.com/pfs8gs9" },
+		{ "name" : "Uda dio violento", "icon" : "http://tinyurl.com/q3ms8cu" },
+		{ "name" : "Lucana dea veloce", "icon" : "http://tinyurl.com/p8yz4kl" },
+		{ "name" : "OssoloC sacro", "icon" : "http://tinyurl.com/oat8cvf" },
+		{ "name" : "Fennia fulmine", "icon" : "http://tinyurl.com/pwgeyho" },
+		{ "name" : "Lemia delle anime", "icon" : "http://tinyurl.com/qeajdb4" },
+		{ "name" : "Lira mangia dèi", "icon" : "http://tinyurl.com/ohj6ekt" },
+		{ "name" : "Lunaris loto nero", "icon" : "http://tinyurl.com/p7tbq3s" },
+		{ "name" : "Zefiro sign. nero", "icon" : "http://tinyurl.com/qj86uau" },
+		{ "name" : "Eric assolo tetro", "icon" : "http://tinyurl.com/oeordz9" },
+		{ "name" : "Mare ardente", "icon" : "http://tinyurl.com/ploudvh" },
+		{ "name" : "Logan lame inferi", "icon" : "http://tinyurl.com/nuu3ulo" },
+		{ "name" : "Kajah dio male", "icon" : "http://tinyurl.com/ojlsa8j" },
+		{ "name" : "Zurg dio rovina", "icon" : "http://tinyurl.com/p5g3kk8" },
+		{ "name" : "ArbeZ sacro", "icon" : "http://tinyurl.com/o4ux2kh" },
+		{ "name" : "Dea Geirdriful", "icon" : "http://tinyurl.com/nmytkao" },
+		{ "name" : "Lico spada demon.", "icon" : "http://tinyurl.com/pghkapg" },		
+		{ "name" : "Oboro ombra rossa", "icon" : "http://tinyurl.com/pc3amvq" },
+		{ "name" : "Will guardia", "icon" : "http://tinyurl.com/ohuqde5" },
+		{ "name" : "Aem spadaccino", "icon" : "http://tinyurl.com/pneg2uj" },
+		{ "name" : "Leorone", "icon" : "http://tinyurl.com/okxebvt" },
+		{ "name" : "Sodis capo guard.", "icon" : "http://tinyurl.com/pm4r7wc" },
+		{ "name" : "Alyut luce divina", "icon" : "http://tinyurl.com/pohvmnj" },
+		{ "name" : "Themis eterno", "icon" : "http://tinyurl.com/o6wdoeg" },
+		{ "name" : "Zellha dea rovine", "icon" : "http://tinyurl.com/polkvmz" },
+		{ "name" : "Deemo e la ragazza (Evoluzione)", "icon" : "http://tinyurl.com/pp5wj6h" },
+		{ "name" : "Contessa Magena", "icon" : "http://tinyurl.com/q934axd" },
+		{ "name" : "Vanila angelo", "icon" : "http://tinyurl.com/nh7mlcr" }
 	] 
 }

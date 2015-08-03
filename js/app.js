@@ -75,6 +75,7 @@ app.controller('BFUnitDesktopCtrl', function($scope, $http) {
 		$scope.global7 = response.global7;
 		$scope.unranked = response.unranked;
 		
-		$scope.filterGroups = function(obj, idx) { return !((obj._index = idx) % 2); }
+		$scope.filterGroups2 = function(obj, idx) { return !((obj._index = idx) % 2); }
+		$scope.filterGroups3 = function(obj, idx) { return !((obj._index = idx) % 3); }
 	});
 });
