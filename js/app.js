@@ -27,6 +27,9 @@ app.config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/', {
     	templateUrl: isMobile.any() ? './views/mobile.html' : './views/desktop.html',
 		css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
+    }).when('/next', {
+    	templateUrl: isMobile.any() ? './views/mnext.html' : './views/dnext.html',
+    	css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
     }).when('/unit', {
     	templateUrl: isMobile.any() ? './views/munit.html' : './views/dunit.html',
     	css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
