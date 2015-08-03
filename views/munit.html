@@ -1,4 +1,4 @@
-<div ng-controller="BFUnitMobileCtrl" style="padding-top: 60px">
+<div ng-controller="BFUnitMobileCtrl" style="padding-top: 50px">
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -17,16 +17,28 @@
 			</ul>
 		</div>
 	</nav>
-	<div id="home" class="panel panel-default">
-		<div class="panel-heading"><h3 class="panel-title">NEXT BATCH</h3></div>
-		<div class="panel-body">
-			<table class="table table-striped">
-				<tr ng-repeat="x in next">
-					<td><img src="{{x.icon}}" /></td>
-					<td width="100%">{{x.name}}</td>
-					<td><span class="label label-primary">{{x.vote}}</span></td>
-				</tr>
-			</table>
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+		<div class="panel panel-default" ng-repeat="grp in groups">
+			<div class="panel-heading" role="tab" id="heading{{grp.name}}">
+				<a class="panel-title" role="button" data-toggle="collapse"
+					data-parent="#accordion" href="#collapse{{grp.name}}"
+					aria-expanded="true" aria-controls="collapse{{grp.name}}"
+					onclick="return false;" style="width: 100%;">
+					<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+				</a>
+			</div>
+			<div id="collapse{{grp.name}}" class="panel-collapse collapse"
+				role="tabpanel" aria-labelledby="heading{{grp.name}}">
+				<div class="panel-body">
+					<table class="table table-striped">
+						<!-- Mi serve per partire coi colori invertiti -->
+						<tr ng-repeat="x in grp.units">
+							<td><img src="{{x.icon}}" /></td>
+							<td width="100%">{{x.name}}</td>
+							<td><span class="label label-primary">{{x.vote}}</span></td>
+						</tr>
+					</table>
+				</div>
+			</div>
 		</div>
 	</div>
-</div>
