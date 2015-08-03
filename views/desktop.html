@@ -69,64 +69,110 @@
 					arriveranno in EU</p>
 				<br />
 
-				<table style="width: 100%;">
-					<tbody>
-						<tr>
-							<td colspan="2" valign="top" width="50%" style="padding: 5px;">
-								<div class="panel panel-default">
-									<div class="panel-heading" role="tab">
-										<h4 class="panel-title" style="width: 100%;">Unità con 6*
-											in EU</h4>
-									</div>
-									<div style="padding: 5px;">
-										<span title="{{unit.name}}" ng-repeat="unit in next6eu"><img
-											src="{{unit.icon}}" /></span>
-									</div>
-								</div>
-							</td>
-							<td valign="top" width="50%" style="padding: 5px;"
-								ng-if="next7eu">
-								<div class="panel panel-default">
-									<div class="panel-heading" role="tab">
-										<h4 class="panel-title" style="width: 100%;">Unità con 7*
-											in EU</h4>
-									</div>
-									<div style="padding: 5px;">
-										<span title="{{unit.name}}" ng-repeat="unit in next7eu"><img
-											src="{{unit.icon}}" /></span>
-									</div>
-								</div>
-							</td>
-						</tr>
-						<tr>
-							<td valign="top" width="50%" style="padding: 5px;"
-								ng-if="global6">
-								<div class="panel panel-default">
-									<div class="panel-heading" role="tab">
-										<h4 class="panel-title" style="width: 100%;">Unità con 6*
+				<div class="panel-group" id="unitNext" role="tablist" aria-multiselectable="false">
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="hnexteu6">
+							<a class="panel-title" role="button" data-toggle="collapse"
+								data-parent="#unitNext" href="#cnexteu6"
+								aria-expanded="true" aria-controls="cnexteu6"
+								onclick="return false;" style="width: 100%;">
+								<h4 class="panel-title" style="width: 100%;">Unità con 6*
+												in EU</h4>
+							</a>
+						</div>
+						<div id="cnexteu6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hnexteu6">
+							<div>
+								<table class="table table-striped">
+									<tr />
+									<!-- Mi serve per partire coi colori invertiti -->
+									<tr ng-repeat="x in next6eu | filter:filterGroups2">
+										<td valign="top"><img src="{{x.icon}}" /></td>
+										<td width="50%"><b>{{x.name}}</b>
+											<p>{{x.text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{x.vote}}</span>
+										</div></td>
+										<td ng-if="next6eu[x._index+1]"><img
+											src="{{next6eu[x._index+1].icon}}" /></td>
+										<td ng-if="next6eu[x._index+1]" width="50%"><b>{{next6eu[x._index+1].name}}</b>
+											<p>{{next6eu[x._index+1].text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{next6eu[x._index+1].vote}}</span>
+										</div></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="hglobal6">
+							<a class="panel-title" role="button" data-toggle="collapse"
+								data-parent="#unitNext" href="#cglobal6"
+								aria-expanded="true" aria-controls="cglobal6"
+								onclick="return false;" style="width: 100%;">
+								<h4 class="panel-title" style="width: 100%;">Unità con 6*
 											in GL</h4>
-									</div>
-									<div style="padding: 5px;">
-										<span title="{{unit.name}}" ng-repeat="unit in global6"><img
-											src="{{unit.icon}}" /></span>
-									</div>
-								</div>
-							</td>
-							<td valign="top" width="50%" style="padding: 5px;">
-								<div class="panel panel-default">
-									<div class="panel-heading" role="tab">
-										<h4 class="panel-title" style="width: 100%;">Unità con 7*
+							</a>
+						</div>
+						<div id="cglobal6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hglobal6">
+							<div>
+								<table class="table table-striped">
+									<tr />
+									<!-- Mi serve per partire coi colori invertiti -->
+									<tr ng-repeat="x in global6 | filter:filterGroups2">
+										<td valign="top"><img src="{{x.icon}}" /></td>
+										<td width="50%"><b>{{x.name}}</b>
+											<p>{{x.text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{x.vote}}</span>
+										</div></td>
+										<td ng-if="global6[x._index+1]"><img
+											src="{{global6[x._index+1].icon}}" /></td>
+										<td ng-if="global6[x._index+1]" width="50%"><b>{{global6[x._index+1].name}}</b>
+											<p>{{global6[x._index+1].text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{global6[x._index+1].vote}}</span>
+										</div></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="hglobal7">
+							<a class="panel-title" role="button" data-toggle="collapse"
+								data-parent="#unitNext" href="#cglobal7"
+								aria-expanded="true" aria-controls="cglobal7"
+								onclick="return false;" style="width: 100%;">
+								<h4 class="panel-title" style="width: 100%;">Unità con 7*
 											in GL</h4>
-									</div>
-									<div style="padding: 5px;">
-										<span title="{{unit.name}}" ng-repeat="unit in global7"><img
-											src="{{unit.icon}}" /></span>
-									</div>
-								</div>
-							</td>
-						</tr>
-					</tbody>
-				</table>
+							</a>
+						</div>
+						<div id="cglobal7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hglobal7">
+							<div>
+								<table class="table table-striped">
+									<tr />
+									<!-- Mi serve per partire coi colori invertiti -->
+									<tr ng-repeat="x in global7 | filter:filterGroups2">
+										<td valign="top"><img src="{{x.icon}}" /></td>
+										<td width="50%"><b>{{x.name}}</b>
+											<p>{{x.text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{x.vote}}</span>
+										</div></td>
+										<td ng-if="global7[x._index+1]"><img
+											src="{{global7[x._index+1].icon}}" /></td>
+										<td ng-if="global7[x._index+1]" width="50%"><b>{{global7[x._index+1].name}}</b>
+											<p>{{global7[x._index+1].text}}</p></td>
+										<td valign="top"><div style="width: 100%; text-align: right;">
+											<span class="label label-primary">{{global7[x._index+1].vote}}</span>
+										</div></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div class="panel-collapse collapse "
