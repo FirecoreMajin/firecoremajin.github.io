@@ -11,10 +11,10 @@
 		</div>
 		<div class="collapse navbar-collapse" id="nav-collapse">
 			<ul class="nav navbar-nav">
-				<li ng-class="{active:selectedTab=='home'}"><a href="#" onclick="return false;" ng-click="changeTab('home');">Home</a></li>
-				<li ng-class="{active:selectedTab=='next'}"><a href="#" onclick="return false;" ng-click="changeTab('next');">Next</a></li>
-				<li ng-class="{active:selectedTab=='units'}"><a href="#" onclick="return false;" ng-click="changeTab('units');">Unit</a></li>
-				<li ng-class="{active:selectedTab=='team'}"><a href="#" onclick="return false;" ng-click="changeTab('team');">Team</a></li>
+				<li ng-class="{active:selectedTab=='home'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('home');">Home</a></li>
+				<li ng-class="{active:selectedTab=='next'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('next');">Next</a></li>
+				<li ng-class="{active:selectedTab=='units'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}"><a href="#" onclick="$('#nav-collapse').toggle('collapse');return false;" ng-click="changeTab('team');">Team</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -22,18 +22,11 @@
 		<div>
 			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='home'}" role="tabpanel">
 				<div class="panel-body">
-					<p style="margin: 2px 10px;">Ho cercato un po' in giro
-						informazioni a riguardo ma non ne ho mai trovate molte...se non
-						qualche utente disposto a dare due dritte in merito...come me penso
-						che tanti player che han giocato solo all'EU a volte necessitino di
-						sapere se le prossime unità che usciranno saranno importanti o da
-						cestinare e allo stesso modo se tenere o meno un unità nel proprio
-						"inventario" e livellarle o se buttarle via o semplicemente
-						ignorarle in attesa di modifiche future.. L'idea era quella di
-						tenere un elenco delle unità indicando se importante o meno e nel
-						caso sia importante se esiste qualcosa di free o simile che possa
-						farne le veci...e in questo possono aiutare solo i player GL e JP
-						che sanno già cosa muore e cosa va avanti</p>
+					<p style="margin: 2px 10px;">
+						Queste pagine raccolgono le opinioni dell'utenza del nostro forum 
+						<a href="http://bravefrontieritaliafan.forumfree.it/">http://bravefrontieritaliafan.forumfree.it/</a>
+						riguardo le unità Eu, i prossimi batch e le unità che verranno potenziate in futuro.
+					</p>
 					<br/>
 					<p style="margin: 2px 10px;">Queste solo le unità presenti nell'ultimo batch</p>
 					<br/>
@@ -52,10 +45,7 @@
 			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='next'}" role="tabpanel">
 				<div class="panel-body">
 					<p style="margin: 2px 10px;">
-						Qui vengono elencate le unità che in futuro verranno potenziate
-						separandole tra 6* e 7*.<br /> Le unità presenti solo in GL o solo
-						annunciate in EU non avranno alcuna data visibile, in caso
-						contrario verrà resa disponible anche la data di rilascio
+						Questo è l'elenco dei prossimi upgrade delle unità e quelli già presenti in GL che prima o poi arriveranno in EU
 					</p>
 					<br/>
 					<div class="panel-group" id="accordionNext" role="tablist" aria-multiselectable="false">
@@ -73,8 +63,10 @@
 										<tr ng-repeat="x in next6eu">
 											<td><img src="{{x.icon}}" /></td>
 											<td width="100%">{{x.name}}</td>
-											<td><span class="label label-primary">{{x.vote}}</span></td>
-											<td><span class="label label-success">Uscita: {{x.date}}</span></td>
+											<td>
+												<div style="width:100%; text-align:right;"><span class="label label-primary">{{x.vote}}</span></div>
+												<div style="width:100%; text-align:right;"><span class="label label-success" style="width:100%;text-align:right;">Uscita: {{x.date}}</span></div>
+											</td>
 										</tr>
 									</table>
 								</div>
