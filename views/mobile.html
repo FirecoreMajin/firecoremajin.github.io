@@ -152,12 +152,12 @@
 			<div id="unitsPanel" class="panel-collapse collapse "
 				ng-class="{in:selectedTab=='units'}" role="tabpanel">
 				<div class="panel-body">
-					<div class="panel-group" id="accordion" role="tablist"
+					<div class="panel-group" id="unitAccordion" role="tablist"
 						aria-multiselectable="false">
 						<div class="panel panel-default" ng-repeat="grp in groups">
 							<div class="panel-heading" role="tab" id="hunits{{$index}}">
 								<a class="panel-title" role="button" data-toggle="collapse"
-									data-parent="#accordion" href="#cunits{{$index}}"
+									data-parent="#unitAccordion" href="#cunits{{$index}}"
 									aria-expanded="true" aria-controls="cunits{{$index}}"
 									onclick="return false;" style="width: 100%;">
 									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
@@ -186,12 +186,12 @@
 			<div class="panel-collapse collapse "
 				ng-class="{in:selectedTab=='team'}" role="tabpanel">
 				<div class="panel-body">
-					<div class="panel-group" id="accordion" role="tablist"
+					<div class="panel-group" id="teamAccordion" role="tablist"
 						aria-multiselectable="false">
 						<div class="panel panel-default" ng-repeat="grp in team">
 							<div class="panel-heading" role="tab" id="hteam{{$index}}">
 								<a class="panel-title" role="button" data-toggle="collapse"
-									data-parent="#accordion" href="#cteam{{$index}}"
+									data-parent="#teamAccordion" href="#cteam{{$index}}"
 									aria-expanded="true" aria-controls="cteam{{$index}}"
 									onclick="return false;" style="width: 100%;">
 									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
