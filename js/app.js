@@ -60,8 +60,8 @@ app.controller('BFUnitMobileCtrl', function($scope, $http) {
 		$scope.selectedTab = tab;
 		$scope.menuOpen = 'false';
 	}
-	$scope.openMenu = function(){
-		$scope.menuOpen = 'true';
+	$scope.openCloseMenu = function(){
+		$scope.menuOpen = ($scope.menuOpen == 'true') ? 'false' : 'true';
 	}
 });
 
