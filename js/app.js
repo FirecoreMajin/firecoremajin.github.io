@@ -61,6 +61,7 @@ app.controller('BFUnitMobileCtrl', function($scope, $http) {
 		$scope.team = response.team;
 		$scope.groups = response.groups;
 		$scope.next6eu = response.next6eu;
+		$scope.global6 = response.global6;
 		$scope.global7 = response.global7;
 		$scope.unranked = response.unranked;
 	});
@@ -72,6 +73,7 @@ app.controller('BFUnitDesktopCtrl', function($scope, $http) {
 		$scope.team = response.team;
 		$scope.groups = response.groups;
 		$scope.next6eu = response.next6eu;
+		$scope.global6 = response.global6;
 		$scope.global7 = response.global7;
 		$scope.unranked = response.unranked;
 		
