@@ -1,62 +1,77 @@
 <div class="mobileCnt" ng-controller="BFUnitMobileCtrl">
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" ng-click="openCloseMenu();">
-				<span class="sr-only">Toggle navigation</span> 
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
+			<button type="button" class="navbar-toggle collapsed"
+				ng-click="openCloseMenu();">
+				<span class="sr-only">Toggle navigation</span> <span
+					class="icon-bar"></span> <span class="icon-bar"></span> <span
+					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" ng-click="changeTab('home');" >BFUnitEU</a>
+			<a class="navbar-brand" ng-click="changeTab('home');">BFUnitEU</a>
 		</div>
 		<div class="navbar-collapse" ng-class="{collapse:menuOpen=='false'}">
 			<ul class="nav navbar-nav">
-				<li ng-class="{active:selectedTab=='home'}"><a ng-click="changeTab('home');">Home</a></li>
-				<li ng-class="{active:selectedTab=='next'}"><a ng-click="changeTab('next');">Next</a></li>
-				<li ng-class="{active:selectedTab=='units'}"><a ng-click="changeTab('units');">Unit</a></li>
-				<li ng-class="{active:selectedTab=='team'}"><a ng-click="changeTab('team');">Team</a></li>
+				<li ng-class="{active:selectedTab=='home'}"><a
+					ng-click="changeTab('home');">Home</a></li>
+				<li ng-class="{active:selectedTab=='next'}"><a
+					ng-click="changeTab('next');">Next</a></li>
+				<li ng-class="{active:selectedTab=='units'}"><a
+					ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}"><a
+					ng-click="changeTab('team');">Team</a></li>
 			</ul>
 		</div>
 	</nav>
-	<div id="pageGroup" class="panel-group" role="tablist" aria-multiselectable="false">
+	<div id="pageGroup" class="panel-group" role="tablist"
+		aria-multiselectable="false">
 		<div>
-			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='home'}" role="tabpanel">
+			<div class="panel-collapse collapse "
+				ng-class="{in:selectedTab=='home'}" role="tabpanel">
 				<div>
-					<p style="margin: 2px 10px;">
-						Queste pagine raccolgono le opinioni dell'utenza del nostro forum 
-						<a href="http://bravefrontieritaliafan.forumfree.it/">http://bravefrontieritaliafan.forumfree.it/</a>
-						riguardo le unità Eu, i prossimi batch e le unità che verranno potenziate in futuro.
-					</p>
-					<br/>
-					<p style="margin: 2px 10px;">Queste solo le unità presenti nell'ultimo batch</p>
-					<br/>
-					<table class="table table-striped">
-						<!-- Mi serve per partire coi colori invertiti -->
-						<tr ng-repeat="x in next">
-							<td><img src="{{x.icon}}" /></td>
-							<td width="100%">{{x.name}}</td>
-							<td><span class="label label-primary">{{x.vote}}</span></td>
-						</tr>
-					</table>
+					<p style="margin: 2px 10px;">Queste pagine raccolgono le
+						opinioni raccolte nel nostro forum riguardo le unità Eu, i
+						prossimi batch e le unità che verranno potenziate in futuro.</p><br />
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab">
+							<h4 class="panel-title" style="width: 100%;">Ultimo Batch</h4>
+						</div>
+						<div>
+							<table class="table table-striped">
+								<tr />
+								<!-- Mi serve per partire coi colori invertiti -->
+								<tr ng-repeat="x in next">
+									<td><img src="{{x.icon}}" /></td>
+									<td width="100%">{{x.name}}</td>
+									<td><span class="label label-primary">{{x.vote}}</span></td>
+								</tr>
+							</table>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 		<div>
-			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='next'}" role="tabpanel">
+			<div class="panel-collapse collapse "
+				ng-class="{in:selectedTab=='next'}" role="tabpanel">
 				<div class="panel-body">
-					<p style="margin: 2px 10px;">
-						Questo è l'elenco dei prossimi upgrade delle unità e quelli già presenti in GL che prima o poi arriveranno in EU
-					</p>
-					<br/>
-					<div class="panel-group" id="accordionNext" role="tablist" aria-multiselectable="false">
+					<p style="margin: 2px 10px;">Questo è l'elenco dei prossimi
+						upgrade delle unità e quelli già presenti in GL che prima o poi
+						arriveranno in EU</p>
+					<br />
+					<div class="panel-group" id="accordionNext" role="tablist"
+						aria-multiselectable="false">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="accordionNext6">
-								<a class="panel-title" role="button" data-toggle="collapse" data-parent="#accordionNext" href="#collapseNext6"
-									aria-expanded="true" aria-controls="collapseNext6" onclick="return false;" style="width: 100%;">
-									<h4 class="panel-title" style="width: 100%;">Unità con 6* in EU</h4>
+								<a class="panel-title" role="button" data-toggle="collapse"
+									data-parent="#accordionNext" href="#collapseNext6"
+									aria-expanded="true" aria-controls="collapseNext6"
+									onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 6*
+										in EU</h4>
 								</a>
 							</div>
-							<div id="collapseNext6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionNext6">
+							<div id="collapseNext6" class="panel-collapse collapse"
+								role="tabpanel" aria-labelledby="accordionNext6">
 								<div>
 									<table class="table table-striped">
 										<tr />
@@ -65,8 +80,14 @@
 											<td><img src="{{x.icon}}" /></td>
 											<td width="100%">{{x.name}}</td>
 											<td>
-												<div style="width:100%; text-align:right;"><span class="label label-primary">{{x.vote}}</span></div>
-												<div style="width:100%; text-align:right;"><span class="label label-success" style="width:100%;text-align:right;">Uscita: {{x.date}}</span></div>
+												<div style="width: 100%; text-align: right;">
+													<span class="label label-primary">{{x.vote}}</span>
+												</div>
+												<div style="width: 100%; text-align: right;">
+													<span class="label label-success"
+														style="width: 100%; text-align: right;">Uscita:
+														{{x.date}}</span>
+												</div>
 											</td>
 										</tr>
 									</table>
@@ -75,12 +96,16 @@
 						</div>
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="accordionGL6">
-								<a class="panel-title" role="button" data-toggle="collapse"	data-parent="#accordionNext" href="#collapseGL6"
-									aria-expanded="true" aria-controls="collapseGL6" onclick="return false;" style="width: 100%;">
-									<h4 class="panel-title" style="width: 100%;">Unità con 6* in GL</h4>
+								<a class="panel-title" role="button" data-toggle="collapse"
+									data-parent="#accordionNext" href="#collapseGL6"
+									aria-expanded="true" aria-controls="collapseGL6"
+									onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 6*
+										in GL</h4>
 								</a>
 							</div>
-							<div id="collapseGL6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionGL6">
+							<div id="collapseGL6" class="panel-collapse collapse"
+								role="tabpanel" aria-labelledby="accordionGL6">
 								<div>
 									<table class="table table-striped">
 										<tr />
@@ -96,12 +121,16 @@
 						</div>
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="accordionGL7">
-								<a class="panel-title" role="button" data-toggle="collapse"	data-parent="#accordionNext" href="#collapseGL7"
-									aria-expanded="true" aria-controls="collapseGL7" onclick="return false;" style="width: 100%;">
-									<h4 class="panel-title" style="width: 100%;">Unità con 7* in GL</h4>
+								<a class="panel-title" role="button" data-toggle="collapse"
+									data-parent="#accordionNext" href="#collapseGL7"
+									aria-expanded="true" aria-controls="collapseGL7"
+									onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 7*
+										in GL</h4>
 								</a>
 							</div>
-							<div id="collapseGL7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionGL7">
+							<div id="collapseGL7" class="panel-collapse collapse"
+								role="tabpanel" aria-labelledby="accordionGL7">
 								<div>
 									<table class="table table-striped">
 										<tr />
@@ -120,9 +149,11 @@
 			</div>
 		</div>
 		<div>
-			<div id="unitsPanel" class="panel-collapse collapse " ng-class="{in:selectedTab=='units'}" role="tabpanel">
+			<div id="unitsPanel" class="panel-collapse collapse "
+				ng-class="{in:selectedTab=='units'}" role="tabpanel">
 				<div class="panel-body">
-					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+					<div class="panel-group" id="accordion" role="tablist"
+						aria-multiselectable="false">
 						<div class="panel panel-default" ng-repeat="grp in groups">
 							<div class="panel-heading" role="tab" id="heading{{grp.name}}">
 								<a class="panel-title" role="button" data-toggle="collapse"
@@ -132,10 +163,11 @@
 									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
 								</a>
 							</div>
-							<div id="collapse{{grp.name}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{grp.name}}">
+							<div id="collapse{{grp.name}}" class="panel-collapse collapse"
+								role="tabpanel" aria-labelledby="heading{{grp.name}}">
 								<div>
 									<table class="table table-striped">
-										<tr /> 
+										<tr />
 										<!-- Mi serve per partire coi colori invertiti -->
 										<tr ng-repeat="x in grp.units">
 											<td><img src="{{x.icon}}" /></td>
@@ -146,21 +178,25 @@
 								</div>
 							</div>
 						</div>
-					</div>				
+					</div>
 				</div>
 			</div>
 		</div>
 		<div>
-			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='team'}" role="tabpanel">
+			<div class="panel-collapse collapse "
+				ng-class="{in:selectedTab=='team'}" role="tabpanel">
 				<div class="panel-body">
 					<p>Work in progress!!!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-    <footer class="footer">
-      <div class="container">
-        <p class="text-muted">Aiutaci a complaterla sul <a href="http://bravefrontieritaliafan.forumfree.it/?t=71174256">forum</a></p>
-      </div>
-    </footer>
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted">
+				Aiutaci a complaterla sul <a
+					href="http://bravefrontieritaliafan.forumfree.it/?t=71174256">forum</a>
+			</p>
+		</div>
+	</footer>
 </div>
