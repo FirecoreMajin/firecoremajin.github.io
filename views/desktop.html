@@ -1,62 +1,268 @@
-<div class="container" ng-controller="BFUnitDesktopCtrl">
-	<p>
-		Ho cercato un po' in giro informazioni a riguardo ma non ne ho mai trovate molte...se non qualche utente disposto a dare due dritte in merito...come me penso che tanti player che han giocato solo all'EU a volte necessitino di sapere se le prossime unità che usciranno saranno importanti o da cestinare e allo stesso modo se tenere o meno un unità nel proprio "inventario" e livellarle o se buttarle via o semplicemente ignorarle in attesa di modifiche future..
-		L'idea era quella di tenere un elenco delle unità indicando se importante o meno e nel caso sia importante se esiste qualcosa di free o simile che possa farne le veci...e in questo possono aiutare solo i player GL e JP che sanno già cosa muore e cosa va avanti
-	</p>
-	<table border="1" style="width:100%;"><tbody>
-		<tr><td align="center" colspan="{{next.length}}">
-			<h2>NEXT BATCH</h2>
-		</td></tr>		
-		<tr>
-			<td width="{{100/next.length}}%" align="center" ng-repeat="x in next">
-				<a href="{{x.link}}">
-					<img src="{{x.icon}}" style="display:block;" />
-					<span style="display:block;">{{x.name}}</span>
-				</a>
-				<span style="display:block;margin-top:25px;">{{'- ' + x.vote + ' -'}}</span>
-			</td>
-		</tr>
-	</tbody></table>
+<div class="desktopCnt" ng-controller="BFUnitDesktopCtrl">
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed"
+				ng-click="openCloseMenu();">
+				<span class="sr-only">Toggle navigation</span> <span
+					class="icon-bar"></span> <span class="icon-bar"></span> <span
+					class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" ng-click="changeTab('home');">BFUnitEU</a>
+		</div>
+		<div class="navbar-collapse" ng-class="{collapse:menuOpen=='false'}">
+			<ul class="nav navbar-nav">
+				<li ng-class="{active:selectedTab=='home'}"><a
+					ng-click="changeTab('home');">Home</a></li>
+				<li ng-class="{active:selectedTab=='units'}"><a
+					ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}"><a
+					ng-click="changeTab('team');">Team</a></li>
+			</ul>
+		</div>
+	</nav>
+	<div id="pageGroup" class="panel-group" role="tablist"
+		aria-multiselectable="false">
+		<div>
+			<div class="panel-collapse collapse "
+				ng-class="{in:selectedTab=='home'}" role="tabpanel">
+				<p style="margin: 12px 10px 3px;">Queste pagine raccolgono le
+					opinioni raccolte nel nostro forum riguardo le unità Eu, i prossimi
+					batch e le unità che verranno potenziate in futuro.</p>
+				<br />
 
-	<table border="1" style="width:100%;">
+				<div class="panel panel-default" style="margin: 5px;">
+					<div class="panel-heading" role="tab">
+						<h4 class="panel-title" style="width: 100%;">Ultimo Batch</h4>
+					</div>
+					<div>
+						<table border="0" style="width: 100%;">
+							<tbody>
+								<tr>
+									<td width="{{100/next.length}}%" align="center"
+										ng-repeat="x in next" style="padding: 5px;"><a
+										href="{{x.link}}"> <img src="{{x.icon}}"
+											style="display: block;" /> <span style="display: block;">{{x.name}}</span>
+									</a><br />
+									<span class="label label-primary">{{'- ' + x.vote + '
+											-'}}</span></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<br />
+				<p style="margin: 2px 10px;">Questo è l'elenco dei prossimi
+					upgrade delle unità e quelli già presenti in GL che prima o poi
+					arriveranno in EU</p>
+				<br />
+
+				<table style="width: 100%;">
+					<tbody>
+						<tr>
+							<td colspan="2" valign="top" width="50%" style="padding: 5px;">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab">
+										<h4 class="panel-title" style="width: 100%;">Unità con 6*
+											in EU</h4>
+									</div>
+									<div style="padding: 5px;">
+										<span title="{{unit.name}}" ng-repeat="unit in next6eu"><img
+											src="{{unit.icon}}" /></span>
+									</div>
+								</div>
+							</td>
+							<!-- td valign="top" width="50%" style="padding:5px;">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab">
+										<h4 class="panel-title" style="width: 100%;">Unità con 7*
+											in EU</h4>
+									</div>
+									<div style="padding:5px;">
+										<span title="{{unit.name}}" ng-repeat="unit in next7eu"><img
+											src="{{unit.icon}}" /></span>
+									</div>
+								</div>
+							</td-->
+						</tr>
+						<tr>
+							<td valign="top" width="50%" style="padding: 5px;">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab">
+										<h4 class="panel-title" style="width: 100%;">Unità con 6*
+											in GL</h4>
+									</div>
+									<div style="padding: 5px;">
+										<span title="{{unit.name}}" ng-repeat="unit in global6"><img
+											src="{{unit.icon}}" /></span>
+									</div>
+								</div>
+							</td>
+							<td valign="top" width="50%" style="padding: 5px;">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab">
+										<h4 class="panel-title" style="width: 100%;">Unità con 7*
+											in GL</h4>
+									</div>
+									<div style="padding: 5px;">
+										<span title="{{unit.name}}" ng-repeat="unit in global7"><img
+											src="{{unit.icon}}" /></span>
+									</div>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div class="panel-collapse collapse "
+			ng-class="{in:selectedTab=='units'}" role="tabpanel">
+			<p style="margin: 12px 10px 3px;">Questa pagina raccoglie le
+				opinioni raccolte nel nostro forum riguardo le unità Eu.</p>
+			<br />
+
+			<table style="width: 100%;">
+				<tbody ng-repeat="grp in groups | filter:filterGroups">
+					<tr>
+						<td width="50%" style="padding: 5px;">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab">
+									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+								</div>
+								<div style="padding: 5px;">
+									<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img
+										src="{{unit.icon}}" /></span>
+								</div>
+							</div>
+						</td>
+						<td width="50%" style="padding: 5px;" ng-if="groups[grp._index+1]">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab">
+									<h4 class="panel-title" style="width: 100%;">{{groups[grp._index+1].name}}</h4>
+								</div>
+								<div style="padding: 5px;">
+									<span title="{{unit.name}}"
+										ng-repeat="unit in groups[grp._index+1].units"><img
+										src="{{unit.icon}}" /></span>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td colspan="2" style="padding: 5px;">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab">
+									<h4 class="panel-title" style="width: 100%;">Non ancora
+										categorizzate</h4>
+								</div>
+								<div style="padding: 5px;">
+									<span title="{{unit.name}}" ng-repeat="unit in unranked"><img
+										src="{{unit.icon}}" /></span>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="panel-collapse collapse "
+			ng-class="{in:selectedTab=='team'}" role="tabpanel">
+			<p style="margin: 12px 10px 3px;">Questa pagina raccoglie le unità separate per utilità nei vari tipi di team.</p>
+			<br />
+
+			<table style="width: 100%;">
+				<tbody ng-repeat="grp in team | filter:filterGroups">
+					<tr>
+						<td width="50%" style="padding: 5px;">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab">
+									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+								</div>
+								<div style="padding: 5px;">
+									<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img
+										src="{{unit.icon}}" /></span>
+								</div>
+							</div>
+						</td>
+						<td width="50%" style="padding: 5px;" ng-if="team[grp._index+1]" >
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab">
+									<h4 class="panel-title" style="width: 100%;">{{team[grp._index+1].name}}</h4>
+								</div>
+								<div style="padding: 5px;">
+									<span title="{{unit.name}}"
+										ng-repeat="unit in team[grp._index+1].units"><img
+										src="{{unit.icon}}" /></span>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<!-- 
+	<table border="1" style="width: 100%;">
 		<tbody ng-repeat="grp in groups | filter:filterGroups">
 			<tr>
-			    <td width="50%" align="center">
-			    	<h3>{{grp.name}}</h3>
-			    </td> 
-			    <td width="50%" align="center">
-			    	<h3>{{groups[grp._index+1].name}}</h3>
-			    </td> 
+				<td width="50%" align="center">
+					<h3>{{grp.name}}</h3>
+				</td>
+				<td width="50%" align="center">
+					<h3>{{groups[grp._index+1].name}}</h3>
+				</td>
 			</tr>
 			<tr>
-			    <td width="50%" valign="top">
-			    	<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img src="{{unit.icon}}" /></span>
-			    </td> 
-			    <td width="50%" valign="top">
-			    	<span title="{{unit.name}}" ng-repeat="unit in groups[grp._index+1].units"><img src="{{unit.icon}}" /></span>
-			    </td> 
+				<td width="50%" valign="top"><span title="{{unit.name}}"
+					ng-repeat="unit in grp.units"><img src="{{unit.icon}}" /></span></td>
+				<td width="50%" valign="top"><span title="{{unit.name}}"
+					ng-repeat="unit in groups[grp._index+1].units"><img
+						src="{{unit.icon}}" /></span></td>
 			</tr>
-		</tbody><tbody>
-			<tr><td colspan="2" align="center">
-			    <h3>Unit EU con 6* in uscita (annunciate ma data sconosciuta)</h3>
-			</td></tr>
-			<tr><td width="100%" colspan="2">
-		    	<span title="{{unit.name}}" ng-repeat="unit in next6eu"><img src="{{unit.icon}}" /></span>
-			</td></tr>
-		</tbody> <tbody>
-			<tr><td colspan="2" align="center">
-			    <h3>Unit EU con 7* in Global</h3>
-			</td></tr>
-			<tr><td width="100%" colspan="2">
-		    	<span title="{{unit.name}}" ng-repeat="unit in global7"><img src="{{unit.icon}}" /></span>
-			</td></tr>
-		</tbody><tbody>
-			<tr><td colspan="2" align="center">
-			    <h3>Ancora da posizionare</h3>
-			</td></tr>
-			<tr><td width="100%" colspan="2" style="white-space: normal;">
-		    	<span title="{{unit.name}}" ng-repeat="unit in unranked"><img src="{{unit.icon}}" /></span>
-			</td></tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<td colspan="2" align="center">
+					<h3>Unit EU con 6* in uscita (annunciate ma data sconosciuta)</h3>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" colspan="2"><span title="{{unit.name}}"
+					ng-repeat="unit in next6eu"><img src="{{unit.icon}}" /></span></td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<td colspan="2" align="center">
+					<h3>Unit EU con 7* in Global</h3>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" colspan="2"><span title="{{unit.name}}"
+					ng-repeat="unit in global7"><img src="{{unit.icon}}" /></span></td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<td colspan="2" align="center">
+					<h3>Ancora da posizionare</h3>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" colspan="2" style="white-space: normal;"><span
+					title="{{unit.name}}" ng-repeat="unit in unranked"><img
+						src="{{unit.icon}}" /></span></td>
+			</tr>
 		</tbody>
 	</table>
+ -->
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted">
+				Aiutaci a complaterla sul <a
+					href="http://bravefrontieritaliafan.forumfree.it/?t=71174256">forum</a>
+			</p>
+		</div>
+	</footer>
 </div>
