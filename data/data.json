@@ -182,6 +182,11 @@
                "text":"Aumenta la crit chance del 35%, ma è proprio l'ultima spiaggia. (in sostituzione a Duel-SGX)"
             },
             {
+               "name":"Michele dea ascia (Attack Boost)	",
+               "icon":"http://tinyurl.com/ogh826o",
+               "text":"L'SBB aumenta l’attacco del 115%"
+            },
+            {
                "name":"Generale Weiss (Attack Boost)",
                "icon":"http://tinyurl.com/ojg36gd",
                "text":"Col BB10 aumenta l'attacco delle unità dell 100%"
@@ -247,27 +252,32 @@
                "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%."
             },
             {
-               "name":"Celestial Archer Loch",
+               "name":"Gravion (AoE BB)",
+               "icon":"http://tinyurl.com/pgsl5oa",
+               "text":"Duro da caricare, ma il suo SBB è il più potente mai visto. Il moltiplicatore dei danni dell'SBB e del 750%";
+            },
+            {
+               "name":"Celestial Archer Loch (AoE BB)",
                "icon":"http://tinyurl.com/ntmxm8p",
                "text":"Un altro che picchia forte, il moltiplicatore del suo SBB è attorno al 700%"
             },
             {
-               "name":"Angelic Blades Sefia",
+               "name":"Angelic Blades Sefia (AoE BB)",
                "icon":"http://tinyurl.com/q3s5s6y",
                "text":"L'SBB piccha forte"
             },
             {
-               "name":"Kikuri dio morte",
+               "name":"Kikuri dio morte (AoE BB)",
                "icon":"http://tinyurl.com/p3jemug",
                "text":"L'SBB piccha forte"
             },
             {
-               "name":"Kajah dio male",
+               "name":"Kajah dio male (AoE BB)",
                "icon":"http://tinyurl.com/ojlsa8j",
                "text":"Possiede le statistiche d’attacco più alte del gioco ed il suo SBB è il secondo per potenza con un moltiplicare del 720% e visto che è diabolico aggiunge pure ferita all’attacco"
             },
             {
-               "name":"Luther dio audace",
+               "name":"Luther dio audace (AoE BB)",
                "icon":"http://tinyurl.com/nkgstqj",
                "text":"SBB colpisce 28 volte ed aumenta i danni da spark per 3 turni"
             }
