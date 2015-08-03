@@ -39,11 +39,19 @@
 	],
 	"team": [
 		{ "name"  : "BB Spam", "units" : [
-			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" },
+			{ "name" : "Dia princ. inferi", "icon" : "http://tinyurl.com/nkx2h3x" },
+			{ "name" : "Lancia super chef", "icon" : "http://tinyurl.com/p99rfft" },
 			{ "name" : "Bordebegia", "icon" : "http://tinyurl.com/nls2pcz" },
-			{ "name" : "Douglas il Beato", "icon" : "http://tinyurl.com/nvkqe69" },
+			{ "name" : "Felneus", "icon" : "http://tinyurl.com/nf2glf5" },
+			{ "name" : "Phee dea tiranna", "icon" : "http://tinyurl.com/of2rbe4" },
 			{ "name" : "Serin dea armi", "icon" : "http://tinyurl.com/qzyx299" },
-			{ "name" : "Felneus", "icon" : "http://tinyurl.com/nf2glf5" }
+			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" },
+			{ "name" : "Douglas il Beato", "icon" : "http://tinyurl.com/nvkqe69" },
+			{ "name" : "Lodin drago", "icon" : "http://tinyurl.com/netxca9" },
+			{ "name" : "Uda dio violento", "icon" : "http://tinyurl.com/q3ms8cu" },
+			{ "name" : "Zellha dea rovine", "icon" : "http://tinyurl.com/polkvmz" },
+			{ "name" : "Deemo e la ragazza (Evoluzione)", "icon" : "http://tinyurl.com/pp5wj6h" },
+			{ "name" : "Cardes il malvagio", "icon" : "http://tinyurl.com/qaap2l3" }
 		] },
 		{ "name"  : "Crit", "units" : [
 			{ "name" : "Maxwell Creatore", "icon" : "http://tinyurl.com/oecdvel" },
