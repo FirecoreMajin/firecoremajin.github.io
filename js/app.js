@@ -25,8 +25,14 @@ var app = angular.module('BFUnitApp', ['ngRoute']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/', {
-    	templateUrl: !isMobile.any() ? './views/desktop.html' : './views/mobile.html',
-		css: !isMobile.any() ? ['./css/desktop.css'] : ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css']
+    	templateUrl: isMobile.any() ? './views/mobile.html' : './views/desktop.html',
+		css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
+    }).when('/unit', {
+    	templateUrl: isMobile.any() ? './views/munit.html' : './views/dunit.html',
+    	css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
+    }).when('/team', {
+    	templateUrl: isMobile.any() ? './views/mteam.html' : './views/dteam.html',
+    	css: isMobile.any() ? ['bootstrap-3.3.5/css/bootstrap.min.css','./css/mobile.css'] : ['./css/desktop.css']
     });
 }]);
 
@@ -35,7 +41,22 @@ app.controller('BFUnitMainCtrl', function($scope, $route) {
 	    $scope.css = value;
 	});
 });
-app.controller('BFUnitCtrl', function($scope, $http) {
+
+app.controller('BFUnitMobileCtrl', function($scope, $http) {
+	$http.get("./data/data.json").success(function(response) {
+		$scope.next = response.next;
+		$scope.groups = response.groups;
+		$scope.next6eu = response.next6eu;
+		$scope.global7 = response.global7;
+		$scope.unranked = response.unranked;
+	
+		$scope.isActive = function (viewLocation) { 
+	        return viewLocation === $location.path();
+	    };
+	});
+});
+
+app.controller('BFUnitDesktopCtrl', function($scope, $http) {
 	$http.get("./data/data.json").success(function(response) {
 		$scope.next = response.next;
 		$scope.groups = response.groups;
