@@ -208,9 +208,16 @@
 										<tr />
 										<!-- Mi serve per partire coi colori invertiti -->
 										<tr ng-repeat="x in grp.units">
+											<td valign="top"><img src="{{x.icon}}" /></td>
+											<td width="100%">
+												<b>{{x.name}}</b>
+												<p>{{x.text}}</p>
+											</td>
+											<!-- 
 											<td><img src="{{x.icon}}" /></td>
 											<td width="100%">{{x.name}}</td>
 											<td><span class="label label-primary">{{x.vote}}</span></td>
+											 -->
 										</tr>
 									</table>
 								</div>

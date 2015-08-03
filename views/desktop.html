@@ -135,52 +135,63 @@
 				opinioni raccolte nel nostro forum riguardo le unità Eu.</p>
 			<br />
 
-			<table style="width: 100%;">
-				<tbody ng-repeat="grp in groups | filter:filterGroups2">
-					<tr>
-						<td valign="top" width="50%" style="padding: 5px;">
-							<div class="panel panel-default">
-								<div class="panel-heading" role="tab">
-									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
-								</div>
-								<div style="padding: 5px;">
-									<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img
-										src="{{unit.icon}}" /></span>
-								</div>
-							</div>
-						</td>
-						<td valign="top" width="50%" style="padding: 5px;"
-							ng-if="groups[grp._index+1]">
-							<div class="panel panel-default">
-								<div class="panel-heading" role="tab">
-									<h4 class="panel-title" style="width: 100%;">{{groups[grp._index+1].name}}</h4>
-								</div>
-								<div style="padding: 5px;">
-									<span title="{{unit.name}}"
-										ng-repeat="unit in groups[grp._index+1].units"><img
-										src="{{unit.icon}}" /></span>
-								</div>
-							</div>
-						</td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
-						<td colspan="2" style="padding: 5px;">
-							<div class="panel panel-default">
-								<div class="panel-heading" role="tab">
-									<h4 class="panel-title" style="width: 100%;">Non ancora
-										categorizzate</h4>
-								</div>
-								<div style="padding: 5px;">
-									<span title="{{unit.name}}" ng-repeat="unit in unranked"><img
-										src="{{unit.icon}}" /></span>
-								</div>
-							</div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
+			<div class="panel-group" id="unitAccordion" role="tablist"
+				aria-multiselectable="false">
+				<div class="panel panel-default" ng-repeat="grp in groups">
+					<div class="panel-heading" role="tab" id="hunits{{$index}}">
+						<a class="panel-title" role="button" data-toggle="collapse"
+							data-parent="#unitAccordion" href="#cunits{{$index}}"
+							aria-expanded="true" aria-controls="cunits{{$index}}"
+							onclick="return false;" style="width: 100%;">
+							<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+						</a>
+					</div>
+					<div id="cunits{{$index}}" class="panel-collapse collapse"
+						role="tabpanel" aria-labelledby="hunits{{$index}}">
+						<div>
+							<table class="table table-striped">
+								<tr />
+								<!-- Mi serve per partire coi colori invertiti -->
+								<tr ng-repeat="x in grp.units | filter:filterGroups3" >
+									<td><img src="{{x.icon}}" /></td>
+									<td width="33%">{{x.name}}</td>
+									<td ng-if="grp.units[x._index+1]"><img src="{{grp.units[x._index+1].icon}}" /></td>
+									<td ng-if="grp.units[x._index+1]" width="33%">{{grp.units[x._index+1].name}}</td>
+									<td ng-if="grp.units[x._index+2]"><img src="{{grp.units[x._index+2].icon}}" /></td>
+									<td ng-if="grp.units[x._index+2]" width="33%">{{grp.units[x._index+2].name}}</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading" role="tab" id="hunitsURnk">
+						<a class="panel-title" role="button" data-toggle="collapse"
+							data-parent="#unitAccordion" href="#cunitsURnk"
+							aria-expanded="true" aria-controls="cunitsURnk"
+							onclick="return false;" style="width: 100%;">
+							<h4 class="panel-title" style="width: 100%;">Non ancora categorizzate</h4>
+						</a>
+					</div>
+					<div id="cunitsURnk" class="panel-collapse collapse"
+						role="tabpanel" aria-labelledby="hunitsURnk">
+						<div>
+							<table class="table table-striped">
+								<tr />
+								<!-- Mi serve per partire coi colori invertiti -->
+								<tr ng-repeat="x in unranked | filter:filterGroups3">
+									<td><img src="{{x.icon}}" /></td>
+									<td width="33%">{{x.name}}</td>
+									<td ng-if="unranked[x._index+1]"><img src="{{unranked[x._index+1].icon}}" /></td>
+									<td ng-if="unranked[x._index+1]" width="33%">{{unranked[x._index+1].name}}</td>
+									<td ng-if="unranked[x._index+2]"><img src="{{unranked[x._index+2].icon}}" /></td>
+									<td ng-if="unranked[x._index+24]" width="33%">{{unranked[x._index+2].name}}</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<div class="panel-collapse collapse "
 			ng-class="{in:selectedTab=='team'}" role="tabpanel">
@@ -188,36 +199,42 @@
 				unità separate per utilità nei vari tipi di team.</p>
 			<br />
 
-			<table style="width: 100%;">
-				<tbody ng-repeat="grp in team | filter:filterGroups2">
-					<tr>
-						<td valign="top" width="50%" style="padding: 5px;">
-							<div class="panel panel-default">
-								<div class="panel-heading" role="tab">
-									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
-								</div>
-								<div style="padding: 5px;">
-									<span title="{{unit.name}}" ng-repeat="unit in grp.units"><img
-										src="{{unit.icon}}" /></span>
-								</div>
+			<div class="panel-body">
+				<div class="panel-group" id="teamAccordion" role="tablist"
+					aria-multiselectable="false">
+					<div class="panel panel-default" ng-repeat="grp in team">
+						<div class="panel-heading" role="tab" id="hteam{{$index}}">
+							<a class="panel-title" role="button" data-toggle="collapse"
+								data-parent="#teamAccordion" href="#cteam{{$index}}"
+								aria-expanded="true" aria-controls="cteam{{$index}}"
+								onclick="return false;" style="width: 100%;">
+								<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+							</a>
+						</div>
+						<div id="cteam{{$index}}" class="panel-collapse collapse"
+							role="tabpanel" aria-labelledby="hteam{{$index}}">
+							<div>
+								<table class="table table-striped">
+									<tr />
+									<!-- Mi serve per partire coi colori invertiti -->
+									<tr ng-repeat="x in grp.units | filter:filterGroups2">
+										<td valign="top"><img src="{{x.icon}}" /></td>
+										<td width="50%">
+											<b>{{x.name}}</b>
+											<p>{{x.text}}</p>
+										</td>
+										<td ng-if="grp.units[x._index+1]" valign="top"><img src="{{grp.units[x._index+1].icon}}" /></td>
+										<td ng-if="grp.units[x._index+1]" width="50%">
+											<b>{{grp.units[x._index+1].name}}</b>
+											<p>{{grp.units[x._index+1].text}}</p>
+										</td>
+									</tr>
+								</table>
 							</div>
-						</td>
-						<td valign="top" width="50%" style="padding: 5px;"
-							ng-if="team[grp._index+1]">
-							<div class="panel panel-default">
-								<div class="panel-heading" role="tab">
-									<h4 class="panel-title" style="width: 100%;">{{team[grp._index+1].name}}</h4>
-								</div>
-								<div style="padding: 5px;">
-									<span title="{{unit.name}}"
-										ng-repeat="unit in team[grp._index+1].units"><img
-										src="{{unit.icon}}" /></span>
-								</div>
-							</div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<footer class="footer">
