@@ -1,4 +1,4 @@
-<div ng-controller="BFUnitMobileCtrl" style="padding-top: 60px">
+<div ng-controller="BFUnitMobileCtrl" style="padding-top: 50px">
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -17,16 +17,12 @@
 			</ul>
 		</div>
 	</nav>
-	<div id="home" class="panel panel-default">
-		<div class="panel-heading"><h3 class="panel-title">NEXT BATCH</h3></div>
-		<div class="panel-body">
-			<table class="table table-striped">
-				<tr ng-repeat="x in next">
-					<td><img src="{{x.icon}}" /></td>
-					<td width="100%">{{x.name}}</td>
-					<td><span class="label label-primary">{{x.vote}}</span></td>
-				</tr>
-			</table>
-		</div>
-	</div>
+	<table class="table table-striped">
+		<tr /> <!-- Mi serve per partire coi colori invertiti -->
+		<tr ng-repeat="x in next">
+			<td><img src="{{x.icon}}" /></td>
+			<td width="100%">{{x.name}}</td>
+			<td><span class="label label-primary">{{x.vote}}</span></td>
+		</tr>
+	</table>
 </div>
