@@ -53,6 +53,11 @@ app.controller('BFUnitMobileCtrl', function($scope, $http) {
 		$scope.global7 = response.global7;
 		$scope.unranked = response.unranked;
 	});
+	
+	$scope.selectedTab = 'home';
+	$scope.changeTab = function(tab){
+		$scope.selectedTab = tab;
+	}
 });
 
 app.controller('BFUnitDesktopCtrl', function($scope, $http) {

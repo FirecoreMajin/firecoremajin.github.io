@@ -69,13 +69,13 @@
 		] }
 	],
 	"next6eu": [
-		{ "name" : "LlewxaM sacra", "icon" : "http://tinyurl.com/qz3ypf9" },
-		{ "name" : "EtudreV sacro", "icon" : "http://tinyurl.com/ovjqjbv" },
-		{ "name" : "AymarkS sacra", "icon" : "http://tinyurl.com/p2eoolj" },
-		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr" },
-		{ "name" : "Conte Heinrich", "icon" : "http://tinyurl.com/nu32olq" },
-		{ "name" : "Conte Cornelius", "icon" : "http://tinyurl.com/q3dmzzt" },
-		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t" }	], 
+		{ "name" : "LlewxaM sacra", "icon" : "http://tinyurl.com/qz3ypf9", "date" : "N/A" },
+		{ "name" : "EtudreV sacro", "icon" : "http://tinyurl.com/ovjqjbv", "date" : "N/A" },
+		{ "name" : "AymarkS sacra", "icon" : "http://tinyurl.com/p2eoolj", "date" : "N/A" },
+		{ "name" : "SotnarG sacro", "icon" : "http://tinyurl.com/neuxcnr", "date" : "N/A" },
+		{ "name" : "Conte Heinrich", "icon" : "http://tinyurl.com/nu32olq", "date" : "N/A" },
+		{ "name" : "Conte Cornelius", "icon" : "http://tinyurl.com/q3dmzzt", "date" : "N/A" },
+		{ "name" : "Contessa Jade", "icon" : "http://tinyurl.com/pv6bz9t", "date" : "N/A" }	], 
 	"global7": [
 		{ "name" : "Dark Legend Magress", "icon" : "http://tinyurl.com/oa44po6" },
 		{ "name" : "Earth Legend Lance", "icon" : "http://tinyurl.com/q4fbxre" },

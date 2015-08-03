@@ -7,19 +7,160 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#/">BFUnitEU</a>
+			<a class="navbar-brand" onclick="return false;" ng-click="changeTab('home');" >BFUnitEU</a>
 		</div>
 		<div class="collapse navbar-collapse" id="nav-collapse">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#/">Home</a></li>
-				<li><a href="#/next">Next Batch</a></li>
-				<li><a href="#/unit">Unit</a></li>
-				<li><a href="#/team">Team</a></li>
+				<li ng-class="{active:selectedTab=='home'}"><a href="#" onclick="return false;" ng-click="changeTab('home');">Home</a></li>
+				<li ng-class="{active:selectedTab=='next'}"><a href="#" onclick="return false;" ng-click="changeTab('next');">Next</a></li>
+				<li ng-class="{active:selectedTab=='units'}"><a href="#" onclick="return false;" ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}"><a href="#" onclick="return false;" ng-click="changeTab('team');">Team</a></li>
 			</ul>
 		</div>
 	</nav>
-	<p style="margin: 2px 10px;">
-		Ho cercato un po' in giro informazioni a riguardo ma non ne ho mai trovate molte...se non qualche utente disposto a dare due dritte in merito...come me penso che tanti player che han giocato solo all'EU a volte necessitino di sapere se le prossime unità che usciranno saranno importanti o da cestinare e allo stesso modo se tenere o meno un unità nel proprio "inventario" e livellarle o se buttarle via o semplicemente ignorarle in attesa di modifiche future..
-		L'idea era quella di tenere un elenco delle unità indicando se importante o meno e nel caso sia importante se esiste qualcosa di free o simile che possa farne le veci...e in questo possono aiutare solo i player GL e JP che sanno già cosa muore e cosa va avanti
-	</p>
+	<div class="panel-group" role="tablist" aria-multiselectable="false">
+		<div>
+			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='home'}" role="tabpanel">
+				<div class="panel-body">
+					<p style="margin: 2px 10px;">Ho cercato un po' in giro
+						informazioni a riguardo ma non ne ho mai trovate molte...se non
+						qualche utente disposto a dare due dritte in merito...come me penso
+						che tanti player che han giocato solo all'EU a volte necessitino di
+						sapere se le prossime unità che usciranno saranno importanti o da
+						cestinare e allo stesso modo se tenere o meno un unità nel proprio
+						"inventario" e livellarle o se buttarle via o semplicemente
+						ignorarle in attesa di modifiche future.. L'idea era quella di
+						tenere un elenco delle unità indicando se importante o meno e nel
+						caso sia importante se esiste qualcosa di free o simile che possa
+						farne le veci...e in questo possono aiutare solo i player GL e JP
+						che sanno già cosa muore e cosa va avanti</p>
+					<br/>
+					<p style="margin: 2px 10px;">Queste solo le unità presenti nell'ultimo batch</p>
+					<br/>
+					<table class="table table-striped">
+						<!-- Mi serve per partire coi colori invertiti -->
+						<tr ng-repeat="x in next">
+							<td><img src="{{x.icon}}" /></td>
+							<td width="100%">{{x.name}}</td>
+							<td><span class="label label-primary">{{x.vote}}</span></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='next'}" role="tabpanel">
+				<div class="panel-body">
+					<p style="margin: 2px 10px;">
+						Qui vengono elencate le unità che in futuro verranno potenziate
+						separandole tra 6* e 7*.<br /> Le unità presenti solo in GL o solo
+						annunciate in EU non avranno alcuna data visibile, in caso
+						contrario verrà resa disponible anche la data di rilascio
+					</p>
+					<br/>
+					<div class="panel-group" id="accordionNext" role="tablist" aria-multiselectable="false">
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="accordionNext6">
+								<a class="panel-title" role="button" data-toggle="collapse" data-parent="#accordionNext" href="#collapseNext6"
+									aria-expanded="true" aria-controls="collapseNext6" onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 6* in EU</h4>
+								</a>
+							</div>
+							<div id="collapseNext6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionNext6">
+								<div class="panel-body">
+									<table class="table table-striped">
+										<!-- Mi serve per partire coi colori invertiti -->
+										<tr ng-repeat="x in next6eu">
+											<td><img src="{{x.icon}}" /></td>
+											<td width="100%">{{x.name}}</td>
+											<td><span class="label label-primary">{{x.vote}}</span></td>
+											<td><span class="label label-success">Uscita: {{x.date}}</span></td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="accordionGL6">
+								<a class="panel-title" role="button" data-toggle="collapse"	data-parent="#accordionNext" href="#collapseGL6"
+									aria-expanded="true" aria-controls="collapseGL6" onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 6* in GL</h4>
+								</a>
+							</div>
+							<div id="collapseGL6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionGL6">
+								<div class="panel-body">
+									<table class="table table-striped">
+										<!-- Mi serve per partire coi colori invertiti -->
+										<tr ng-repeat="x in global6">
+											<td><img src="{{x.icon}}" /></td>
+											<td width="100%">{{x.name}}</td>
+											<td><span class="label label-primary">{{x.vote}}</span></td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="accordionGL7">
+								<a class="panel-title" role="button" data-toggle="collapse"	data-parent="#accordionNext" href="#collapseGL7"
+									aria-expanded="true" aria-controls="collapseGL7" onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">Unità con 7* in GL</h4>
+								</a>
+							</div>
+							<div id="collapseGL7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordionGL7">
+								<div class="panel-body">
+									<table class="table table-striped">
+										<!-- Mi serve per partire coi colori invertiti -->
+										<tr ng-repeat="x in global7">
+											<td><img src="{{x.icon}}" /></td>
+											<td width="100%">{{x.name}}</td>
+											<td><span class="label label-primary">{{x.vote}}</span></td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div id="unitsPanel" class="panel-collapse collapse " ng-class="{in:selectedTab=='units'}" role="tabpanel">
+				<div class="panel-body">
+					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+						<div class="panel panel-default" ng-repeat="grp in groups">
+							<div class="panel-heading" role="tab" id="heading{{grp.name}}">
+								<a class="panel-title" role="button" data-toggle="collapse"
+									data-parent="#accordion" href="#collapse{{grp.name}}"
+									aria-expanded="true" aria-controls="collapse{{grp.name}}"
+									onclick="return false;" style="width: 100%;">
+									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
+								</a>
+							</div>
+							<div id="collapse{{grp.name}}" class="panel-collapse collapse"
+								role="tabpanel" aria-labelledby="heading{{grp.name}}">
+								<div class="panel-body">
+									<table class="table table-striped">
+										<!-- Mi serve per partire coi colori invertiti -->
+										<tr ng-repeat="x in grp.units">
+											<td><img src="{{x.icon}}" /></td>
+											<td width="100%">{{x.name}}</td>
+											<td><span class="label label-primary">{{x.vote}}</span></td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>				
+				</div>
+			</div>
+		</div>
+		<div>
+			<div class="panel-collapse collapse " ng-class="{in:selectedTab=='team'}" role="tabpanel">
+				<div class="panel-body">
+					<p>Work in progress!!!</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
