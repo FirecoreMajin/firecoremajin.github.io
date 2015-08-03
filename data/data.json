@@ -4,31 +4,31 @@
 			"name" : "God Emperor Orwen",
 			"icon" : "http://tinyurl.com/nsye48j",
 			"url"  : "http://bravefrontierglobal.wikia.com/wiki/God_Emperor_Orwen",
-			"vote" : "?"
+			"vote" : "Scarsa"
 		},
 		{ 
 			"name" : "Ice God Arius",
 			"icon" : "http://tinyurl.com/pso5jsx",
 			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
-			"vote" : "?"
+			"vote" : "Buona"
 		},
 		{ 
 			"name" : "Flora Goddess Faris",
 			"icon" : "http://tinyurl.com/o4detnm",
 			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Flora_Goddess_Faris",
-			"vote" : "?"
+			"vote" : "Buona"
 		},
 		{ 
 			"name" : "God Engineer Garnan",
 			"icon" : "http://tinyurl.com/ndv7p5p",
 			"url"  : "http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
-			"vote" : "?"
+			"vote" : "Decente"
 		},
 		{ 
 			"name" : "Brave God Hogar",
 			"icon" : "http://tinyurl.com/o4emxmb",
 			"url"  : "http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
-			"vote" : "?"
+			"vote" : "Ottima"
 		},
 		{ 
 			"name" : "Inferno Goddess Elza",
@@ -52,7 +52,9 @@
 		] },
 		{ "name"  : "Tank", "units" : [
 			{ "name" : "Darvanshell il guardiano", "icon" : "http://tinyurl.com/nefoxz3" },
-			{ "name" : "Oulu forte gelo", "icon" : "http://tinyurl.com/pjk469e" }
+			{ "name" : "Elimo mago saggio", "icon" : "http://tinyurl.com/q6jxd6r" },
+			{ "name" : "Oulu forte gelo", "icon" : "http://tinyurl.com/pjk469e" },
+			{ "name" : "Edea di Gaia", "icon" : "http://tinyurl.com/o9rrgbf" }
 		] },
 		{ "name"  : "Rainbow", "units" : [
 		] },
