@@ -152,12 +152,14 @@
 							<table class="table table-striped">
 								<tr />
 								<!-- Mi serve per partire coi colori invertiti -->
-								<tr ng-repeat="x in grp.units | filter:filterGroups3" >
+								<tr ng-repeat="x in grp.units | filter:filterGroups3">
 									<td><img src="{{x.icon}}" /></td>
 									<td width="33%">{{x.name}}</td>
-									<td ng-if="grp.units[x._index+1]"><img src="{{grp.units[x._index+1].icon}}" /></td>
+									<td ng-if="grp.units[x._index+1]"><img
+										src="{{grp.units[x._index+1].icon}}" /></td>
 									<td ng-if="grp.units[x._index+1]" width="33%">{{grp.units[x._index+1].name}}</td>
-									<td ng-if="grp.units[x._index+2]"><img src="{{grp.units[x._index+2].icon}}" /></td>
+									<td ng-if="grp.units[x._index+2]"><img
+										src="{{grp.units[x._index+2].icon}}" /></td>
 									<td ng-if="grp.units[x._index+2]" width="33%">{{grp.units[x._index+2].name}}</td>
 								</tr>
 							</table>
@@ -170,7 +172,8 @@
 							data-parent="#unitAccordion" href="#cunitsURnk"
 							aria-expanded="true" aria-controls="cunitsURnk"
 							onclick="return false;" style="width: 100%;">
-							<h4 class="panel-title" style="width: 100%;">Non ancora categorizzate</h4>
+							<h4 class="panel-title" style="width: 100%;">Non ancora
+								categorizzate</h4>
 						</a>
 					</div>
 					<div id="cunitsURnk" class="panel-collapse collapse"
@@ -182,9 +185,11 @@
 								<tr ng-repeat="x in unranked | filter:filterGroups3">
 									<td><img src="{{x.icon}}" /></td>
 									<td width="33%">{{x.name}}</td>
-									<td ng-if="unranked[x._index+1]"><img src="{{unranked[x._index+1].icon}}" /></td>
+									<td ng-if="unranked[x._index+1]"><img
+										src="{{unranked[x._index+1].icon}}" /></td>
 									<td ng-if="unranked[x._index+1]" width="33%">{{unranked[x._index+1].name}}</td>
-									<td ng-if="unranked[x._index+2]"><img src="{{unranked[x._index+2].icon}}" /></td>
+									<td ng-if="unranked[x._index+2]"><img
+										src="{{unranked[x._index+2].icon}}" /></td>
 									<td ng-if="unranked[x._index+24]" width="33%">{{unranked[x._index+2].name}}</td>
 								</tr>
 							</table>
@@ -219,15 +224,12 @@
 									<!-- Mi serve per partire coi colori invertiti -->
 									<tr ng-repeat="x in grp.units | filter:filterGroups2">
 										<td valign="top"><img src="{{x.icon}}" /></td>
-										<td width="50%">
-											<b>{{x.name}}</b>
-											<p>{{x.text}}</p>
-										</td>
-										<td ng-if="grp.units[x._index+1]" valign="top"><img src="{{grp.units[x._index+1].icon}}" /></td>
-										<td ng-if="grp.units[x._index+1]" width="50%">
-											<b>{{grp.units[x._index+1].name}}</b>
-											<p>{{grp.units[x._index+1].text}}</p>
-										</td>
+										<td width="50%"><b>{{x.name}}</b>
+											<p>{{x.text}}</p></td>
+										<td ng-if="grp.units[x._index+1]" valign="top"><img
+											src="{{grp.units[x._index+1].icon}}" /></td>
+										<td ng-if="grp.units[x._index+1]" width="50%"><b>{{grp.units[x._index+1].name}}</b>
+											<p>{{grp.units[x._index+1].text}}</p></td>
 									</tr>
 								</table>
 							</div>
