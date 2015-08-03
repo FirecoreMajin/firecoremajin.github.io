@@ -115,7 +115,17 @@
                "name":"Duel-SGX ",
                "icon":"http://tinyurl.com/nbouk2j",
                "text":"SBB AoE da 20 colpi aumenta il critical rate del 60%"
-            },            
+            },
+            {
+               "name":"Dilma pugno fiero",
+               "icon":"http://tinyurl.com/ojrkk8b",
+               "text":"SBB che, oltre che ad essere uno dei più potenti nel gioco, produce 24 CB e toglie le difese nemiche e si cura completamente per 3 turni"
+            },
+            {
+               "name":"Ronel angelo caos",
+               "icon":"http://tinyurl.com/q29o92p",
+               "text":"SBB AoE colpisce 14 volte ed aumenta produzione di CC e CB del 25%"
+            },
             {
                "name":"Serin dea armi",
                "icon":"http://tinyurl.com/qzyx299"
