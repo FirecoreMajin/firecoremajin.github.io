@@ -49,10 +49,6 @@ app.controller('BFUnitMobileCtrl', function($scope, $http) {
 		$scope.next6eu = response.next6eu;
 		$scope.global7 = response.global7;
 		$scope.unranked = response.unranked;
-	
-		$scope.isActive = function (viewLocation) { 
-	        return viewLocation === $location.path();
-	    };
 	});
 });
 
