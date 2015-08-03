@@ -22,6 +22,20 @@
 	"team": [
 		{ "name"  : "BB Spam", "units" : [
 			{ "name" : "Zelnite Dio dei Ladri", "icon" : "http://tinyurl.com/qbfygtv" }
+		] },
+		{ "name"  : "Crit", "units" : [
+			{ "name" : "Maxwell Creatore", "icon" : "http://tinyurl.com/oecdvel" },
+			{ "name" : "LlewxaM sacra", "icon" : "http://tinyurl.com/qz3ypf9" },
+			{ "name" : "Dilma pugno fiero", "icon" : "http://tinyurl.com/ojrkk8b" },
+			{ "name" : "Duel-SGX ", "icon" : "http://tinyurl.com/nbouk2j" }
+		] },
+		{ "name"  : "Tank", "units" : [
+			{ "name" : "Darvanshell il guardiano", "icon" : "http://tinyurl.com/nefoxz3" },
+			{ "name" : "Oulu forte gelo", "icon" : "http://tinyurl.com/pjk469e" }
+		] },
+		{ "name"  : "Rainbow", "units" : [
+		] },
+		{ "name"  : "Arena", "units" : [
 		] }
 	],
 	"groups": [

@@ -123,7 +123,7 @@
 			<table style="width: 100%;">
 				<tbody ng-repeat="grp in groups | filter:filterGroups">
 					<tr>
-						<td width="50%" style="padding: 5px;">
+						<td valign="top" width="50%" style="padding: 5px;">
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
@@ -134,7 +134,7 @@
 								</div>
 							</div>
 						</td>
-						<td width="50%" style="padding: 5px;" ng-if="groups[grp._index+1]">
+						<td valign="top" width="50%" style="padding: 5px;" ng-if="groups[grp._index+1]">
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{groups[grp._index+1].name}}</h4>
@@ -174,7 +174,7 @@
 			<table style="width: 100%;">
 				<tbody ng-repeat="grp in team | filter:filterGroups">
 					<tr>
-						<td width="50%" style="padding: 5px;">
+						<td valign="top" width="50%" style="padding: 5px;">
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{grp.name}}</h4>
@@ -185,7 +185,7 @@
 								</div>
 							</div>
 						</td>
-						<td width="50%" style="padding: 5px;" ng-if="team[grp._index+1]" >
+						<td valign="top" width="50%" style="padding: 5px;" ng-if="team[grp._index+1]" >
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title" style="width: 100%;">{{team[grp._index+1].name}}</h4>
@@ -202,61 +202,6 @@
 			</table>
 		</div>
 	</div>
-	<!-- 
-	<table border="1" style="width: 100%;">
-		<tbody ng-repeat="grp in groups | filter:filterGroups">
-			<tr>
-				<td width="50%" align="center">
-					<h3>{{grp.name}}</h3>
-				</td>
-				<td width="50%" align="center">
-					<h3>{{groups[grp._index+1].name}}</h3>
-				</td>
-			</tr>
-			<tr>
-				<td width="50%" valign="top"><span title="{{unit.name}}"
-					ng-repeat="unit in grp.units"><img src="{{unit.icon}}" /></span></td>
-				<td width="50%" valign="top"><span title="{{unit.name}}"
-					ng-repeat="unit in groups[grp._index+1].units"><img
-						src="{{unit.icon}}" /></span></td>
-			</tr>
-		</tbody>
-		<tbody>
-			<tr>
-				<td colspan="2" align="center">
-					<h3>Unit EU con 6* in uscita (annunciate ma data sconosciuta)</h3>
-				</td>
-			</tr>
-			<tr>
-				<td width="100%" colspan="2"><span title="{{unit.name}}"
-					ng-repeat="unit in next6eu"><img src="{{unit.icon}}" /></span></td>
-			</tr>
-		</tbody>
-		<tbody>
-			<tr>
-				<td colspan="2" align="center">
-					<h3>Unit EU con 7* in Global</h3>
-				</td>
-			</tr>
-			<tr>
-				<td width="100%" colspan="2"><span title="{{unit.name}}"
-					ng-repeat="unit in global7"><img src="{{unit.icon}}" /></span></td>
-			</tr>
-		</tbody>
-		<tbody>
-			<tr>
-				<td colspan="2" align="center">
-					<h3>Ancora da posizionare</h3>
-				</td>
-			</tr>
-			<tr>
-				<td width="100%" colspan="2" style="white-space: normal;"><span
-					title="{{unit.name}}" ng-repeat="unit in unranked"><img
-						src="{{unit.icon}}" /></span></td>
-			</tr>
-		</tbody>
-	</table>
- -->
 	<footer class="footer">
 		<div class="container">
 			<p class="text-muted">
