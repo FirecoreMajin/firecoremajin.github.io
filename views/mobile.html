@@ -189,6 +189,9 @@
 										<tr ng-repeat="x in grp.units">
 											<td><img src="{{x.icon}}" /></td>
 											<td width="100%">{{x.name}}</td>
+											<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
+												<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+											</div></td>									
 										</tr>
 									</table>
 								</div>
@@ -225,6 +228,9 @@
 												<b>{{x.name}}</b>
 												<p>{{x.text}}</p>
 											</td>
+											<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
+												<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+											</div></td>									
 										</tr>
 									</table>
 								</div>

@@ -201,12 +201,21 @@
 								<tr ng-repeat="x in grp.units | filter:filterGroups3">
 									<td><img src="{{x.icon}}" /></td>
 									<td width="33%">{{x.name}}</td>
+									<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
+										<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+									</div></td>									
 									<td ng-if="grp.units[x._index+1]"><img
 										src="{{grp.units[x._index+1].icon}}" /></td>
 									<td ng-if="grp.units[x._index+1]" width="33%">{{grp.units[x._index+1].name}}</td>
+									<td valign="top"><div ng-if="grp.units[x._index+1].card" style="width: 100%; text-align: right;">
+										<a href="{{grp.units[x._index+1].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+									</div></td>									
 									<td ng-if="grp.units[x._index+2]"><img
 										src="{{grp.units[x._index+2].icon}}" /></td>
 									<td ng-if="grp.units[x._index+2]" width="33%">{{grp.units[x._index+2].name}}</td>
+									<td valign="top"><div ng-if="grp.units[x._index+2].card" style="width: 100%; text-align: right;">
+										<a href="{{grp.units[x._index+2].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+									</div></td>									
 								</tr>
 							</table>
 						</div>
@@ -272,10 +281,16 @@
 										<td valign="top"><img src="{{x.icon}}" /></td>
 										<td width="50%"><b>{{x.name}}</b>
 											<p>{{x.text}}</p></td>
+										<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
+											<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+										</div></td>									
 										<td ng-if="grp.units[x._index+1]" valign="top"><img
 											src="{{grp.units[x._index+1].icon}}" /></td>
 										<td ng-if="grp.units[x._index+1]" width="50%"><b>{{grp.units[x._index+1].name}}</b>
 											<p>{{grp.units[x._index+1].text}}</p></td>
+										<td valign="top"><div ng-if="grp.units[x._index+1].card" style="width: 100%; text-align: right;">
+											<a href="{{grp.units[x._index+1].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
+										</div></td>									
 									</tr>
 								</table>
 							</div>

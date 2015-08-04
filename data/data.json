@@ -49,7 +49,8 @@
             {
                "name":"Lancia super chef (Leader)",
                "icon":"http://tinyurl.com/p99rfft",
-               "text":"LS che aumenta il drop dei CC (50%) e CB(30%) durante lo spark e SBB cura in un turno, cura in 3 turni ed aumenta l’attacco del 50% per 3 turni"
+               "text":"LS che aumenta il drop dei CC (50%) e CB(30%) durante lo spark e SBB cura in un turno, cura in 3 turni ed aumenta l’attacco del 50% per 3 turni",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819"
             },
             {
                "name":"Bordebegia (Leader)",
@@ -74,12 +75,14 @@
             {
                "name":"Zellha dea rovine (Leadere non)",
                "icon":"http://tinyurl.com/polkvmz",
-               "text":"LS che riduce il costo di attivazione dei BB del team del 20% e SBB AoE colpisce 30 volte con possibilità di ferita e debolezza"
+               "text":"LS che riduce il costo di attivazione dei BB del team del 20% e SBB AoE colpisce 30 volte con possibilità di ferita e debolezza",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
             },
             {
                "name":"Cardes il malvagio (Leader e non)",
                "icon":"http://tinyurl.com/qaap2l3",
-               "text":"LS che diminuisce diminuisce del 30% l’utilizzo della BB una volta attivata e SBB AoE massive colpisce 33 volte ed aumenta la difesa del team del 50%"
+               "text":"LS che diminuisce diminuisce del 30% l’utilizzo della BB una volta attivata e SBB AoE massive colpisce 33 volte ed aumenta la difesa del team del 50%",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
             },
             {
                "name":"Felneus (Leader e non)",
@@ -129,12 +132,14 @@
             {
                "name":"Maxwell Creatore",
                "icon":"http://tinyurl.com/oecdvel",
-               "text":"SBB AoE da 33 colpi massivi e aumenta il critil rate del 30%!"
+               "text":"SBB AoE da 33 colpi massivi e aumenta il critil rate del 30%!",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
             },
             {
                "name":"Luther dio audace",
                "icon":"http://tinyurl.com/nkgstqj",
-               "text":"SBB AoE da 28 colpi che aumenta di danni da spark del 50%"
+               "text":"SBB AoE da 28 colpi che aumenta di danni da spark del 50%",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
             }
          ]
       },
@@ -144,7 +149,8 @@
             {
                "name":"Maxwell Creatore (Leader - Crit Boost)",
                "icon":"http://tinyurl.com/oecdvel",
-               "text":"L'SBB aumenta il crit chance del 30%, l'LS aumenta il danno critico del 125% e il 100% di danno agli elementi deboli."
+               "text":"L'SBB aumenta il crit chance del 30%, l'LS aumenta il danno critico del 125% e il 100% di danno agli elementi deboli.",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
             },
             {
                "name":"LlewxaM sacra (Leader - Crit Dmg Boost)",
@@ -229,7 +235,8 @@
             {
                "name":"Lilith Devastante (Hitter)",
                "icon":"http://tinyurl.com/q8aaoc7",
-               "text":"L'SBB le ricarica la barra BB/SBB! Il moltiplicatore d’attacco del suo SBB è inoltre attorno al 600%."
+               "text":"L'SBB le ricarica la barra BB/SBB! Il moltiplicatore d’attacco del suo SBB è inoltre attorno al 600%.",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71057194"
             },
             {
                "name":"Logan lame inferi (Hitter)",
@@ -279,7 +286,8 @@
             {
                "name":"Luther dio audace (AoE BB)",
                "icon":"http://tinyurl.com/nkgstqj",
-               "text":"SBB colpisce 28 volte ed aumenta i danni da spark per 3 turni"
+               "text":"SBB colpisce 28 volte ed aumenta i danni da spark per 3 turni",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
             }
          ]
       },
@@ -292,7 +300,8 @@
             },
             {
                "name":"Elimo mago saggio",
-               "icon":"http://tinyurl.com/q6jxd6r"
+               "icon":"http://tinyurl.com/q6jxd6r",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123"
             },
             {
                "name":"Oulu forte gelo",
@@ -344,7 +353,8 @@
             },
             {
                "name":"Cardes il malvagio",
-               "icon":"http://tinyurl.com/qaap2l3"
+               "icon":"http://tinyurl.com/qaap2l3",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
             },
             {
                "name":"Lilly Matah la tiranna",
@@ -356,7 +366,8 @@
             },
             {
                "name":"Maxwell Creatore",
-               "icon":"http://tinyurl.com/oecdvel"
+               "icon":"http://tinyurl.com/oecdvel",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
             },
             {
                "name":"LlewxaM sacra",
@@ -385,7 +396,8 @@
             },
             {
                "name":"Elimo mago saggio",
-               "icon":"http://tinyurl.com/q6jxd6r"
+               "icon":"http://tinyurl.com/q6jxd6r",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123"
             },
             {
                "name":"Exvehl la Belva",
@@ -413,7 +425,8 @@
             },
             {
                "name":"Lilith Devastante",
-               "icon":"http://tinyurl.com/q8aaoc7"
+               "icon":"http://tinyurl.com/q8aaoc7",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71057194"
             },
             {
                "name":"Zebra Dio folle",
@@ -462,11 +475,13 @@
             },
             {
                "name":"Luther dio audace",
-               "icon":"http://tinyurl.com/nkgstqj"
+               "icon":"http://tinyurl.com/nkgstqj",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
             },
             {
                "name":"Lancia super chef",
-               "icon":"http://tinyurl.com/p99rfft"
+               "icon":"http://tinyurl.com/p99rfft",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819"
             },
             {
                "name":"Rickel due armi",
@@ -575,7 +590,8 @@
             },
             {
                "name":"Alice mietitrice",
-               "icon":"http://tinyurl.com/osgzep4"
+               "icon":"http://tinyurl.com/osgzep4",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70412574"
             },
             {
                "name":"Zegar Re bestia",
@@ -1245,7 +1261,8 @@
       },
       {
          "name":"Zellha dea rovine",
-         "icon":"http://tinyurl.com/polkvmz"
+         "icon":"http://tinyurl.com/polkvmz",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
       },
       {
          "name":"Deemo e la ragazza (Evoluzione)",
