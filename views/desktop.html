@@ -7,15 +7,16 @@
 					class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" ng-click="changeTab('home');" style="cursor:pointer;">BFUnitEU</a>
+			<a class="navbar-brand" ng-click="changeTab('home');"
+				style="cursor: pointer;">BFUnitEU</a>
 		</div>
 		<div class="navbar-collapse" ng-class="{collapse:menuOpen=='false'}">
 			<ul class="nav navbar-nav">
-				<li ng-class="{active:selectedTab=='home'}" style="cursor:pointer;"><a
+				<li ng-class="{active:selectedTab=='home'}" style="cursor: pointer;"><a
 					ng-click="changeTab('home');">Home</a></li>
-				<li ng-class="{active:selectedTab=='units'}" style="cursor:pointer;"><a
-					ng-click="changeTab('units');">Unit</a></li>
-				<li ng-class="{active:selectedTab=='team'}" style="cursor:pointer;"><a
+				<li ng-class="{active:selectedTab=='units'}"
+					style="cursor: pointer;"><a ng-click="changeTab('units');">Unit</a></li>
+				<li ng-class="{active:selectedTab=='team'}" style="cursor: pointer;"><a
 					ng-click="changeTab('team');">Team</a></li>
 			</ul>
 		</div>
@@ -41,23 +42,25 @@
 						<table border="0" style="width: 100%;">
 							<tbody>
 								<tr ng-repeat="x in next | filter:filterGroups3">
-									<td align="center" width="33%" style="padding: 5px;"><a
+									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
 										href="{{x.link}}" target="_blank"> <img src="{{x.icon}}"
 											style="display: block;" /> <span style="display: block;">{{x.name}}</span>
-									</a><br /> <span class="label label-primary">{{'- ' +
-											x.vote + ' -'}}</span></td>
-									<td align="center" width="33%" style="padding: 5px;"><a
+									</a><span class="label label-primary">{{'- ' +
+											x.vote + ' -'}}</span><br /> <br /> <span style="display: block;">{{x.reason}}</span></td>
+									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
 										href="{{next[x._index+1].link}}" target="_blank"> <img
 											src="{{next[x._index+1].icon}}" style="display: block;" /> <span
 											style="display: block;">{{next[x._index+1].name}}</span>
-									</a><br /> <span class="label label-primary">{{'- ' +
-											next[x._index+1].vote + ' -'}}</span></td>
-									<td align="center" width="33%" style="padding: 5px;"><a
+									</a><span class="label label-primary">{{'- ' +
+											next[x._index+1].vote + ' -'}}</span><br /> <br /> <span
+										style="display: block;">{{next[x._index+1].reason}}</span></td>
+									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
 										href="{{next[x._index+2].link}}" target="_blank"> <img
 											src="{{next[x._index+2].icon}}" style="display: block;" /> <span
 											style="display: block;">{{next[x._index+2].name}}</span>
-									</a><br /> <span class="label label-primary">{{'- ' +
-											next[x._index+2].vote + ' -'}}</span></td>
+									</a><span class="label label-primary">{{'- ' +
+											next[x._index+2].vote + ' -'}}</span><br /> <br /> <span
+										style="display: block;">{{next[x._index+2].reason}}</span></td>
 								</tr>
 							</tbody>
 						</table>
