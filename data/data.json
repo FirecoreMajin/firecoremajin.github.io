@@ -55,7 +55,8 @@
             {
                "name":"Bordebegia (Leader)",
                "icon":"http://tinyurl.com/nls2pcz",
-               "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 15 volte ed aumenta i danni da spark ed il crit rate del team per 3 turni (70% e 30%)"
+               "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 15 volte ed aumenta i danni da spark ed il crit rate del team per 3 turni (70% e 30%)",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
             },
             {
                "name":"Lodin drago (Leader)",
@@ -87,7 +88,8 @@
             {
                "name":"Felneus (Leader e non)",
                "icon":"http://tinyurl.com/nf2glf5",
-               "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 10 volte ed aumenta la produzione di CB del 30% per 3 turni"
+               "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 10 volte ed aumenta la produzione di CB del 30% per 3 turni",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
             },
             {
                "name":"Zelnite Dio dei Ladri (Leader e non)",
@@ -102,7 +104,8 @@
             {
                "name":"Douglas il Beato",
                "icon":"http://tinyurl.com/nvkqe69",
-               "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%."
+               "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%.",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
             },
             {
                "name":"Michele dea ascia",
@@ -127,7 +130,8 @@
             {
                "name":"Ronel angelo caos",
                "icon":"http://tinyurl.com/q29o92p",
-               "text":"SBB AoE colpisce 14 volte ed aumenta produzione di CC e CB del 25%"
+               "text":"SBB AoE colpisce 14 volte ed aumenta produzione di CC e CB del 25%",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765273"
             },
             {
                "name":"Maxwell Creatore",
@@ -175,7 +179,8 @@
             {
                "name":"Bordebegia (Crit Boost)",
                "icon":"http://tinyurl.com/nls2pcz",
-               "text":"SBB aumenta i danni da spark ed i critici del 40%. (in sostituzione a Duel-SGX)"
+               "text":"SBB aumenta i danni da spark ed i critici del 40%. (in sostituzione a Duel-SGX)",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
             },
             {
                "name":"Meltia (Crit Boost)",
@@ -225,7 +230,8 @@
             {
                "name":"Lava fiamma sacra (Defense Debuf)",
                "icon":"http://tinyurl.com/qzrudfx",
-               "text":"L'SBB oltre ad avere un AoE BB toglierà anche le difese avversarie per 2 turni"
+               "text":"L'SBB oltre ad avere un AoE BB toglierà anche le difese avversarie per 2 turni",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70435453"
             },
             {
                "name":"Edea di Gaia (Hitter)",
@@ -256,7 +262,8 @@
             {
                "name":"Douglas il Beato (AoE BB)",
                "icon":"http://tinyurl.com/nvkqe69",
-               "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%."
+               "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%.",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
             },
             {
                "name":"Gravion (AoE BB)",
@@ -264,19 +271,21 @@
                "text":"Duro da caricare, ma il suo SBB è il più potente mai visto. Il moltiplicatore dei danni dell'SBB e del 750%"
             },
             {
-               "name":"Celestial Archer Loch (AoE BB)",
+               "name":"Loch arco celeste (AoE BB)",
                "icon":"http://tinyurl.com/ntmxm8p",
                "text":"Un altro che picchia forte, il moltiplicatore del suo SBB è attorno al 700%"
             },
             {
-               "name":"Angelic Blades Sefia (AoE BB)",
+               "name":"Selfia Lame Sacre (AoE BB)",
                "icon":"http://tinyurl.com/q3s5s6y",
-               "text":"L'SBB piccha forte"
+               "text":"L'SBB piccha forte",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
             },
             {
                "name":"Kikuri dio morte (AoE BB)",
                "icon":"http://tinyurl.com/p3jemug",
-               "text":"L'SBB piccha forte"
+               "text":"L'SBB piccha forte",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
             },
             {
                "name":"Kajah dio male (AoE BB)",
@@ -388,7 +397,8 @@
             },
             {
                "name":"Felneus",
-               "icon":"http://tinyurl.com/nf2glf5"
+               "icon":"http://tinyurl.com/nf2glf5",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
             },
             {
                "name":"Oulu forte gelo",
@@ -413,11 +423,13 @@
             },
             {
                "name":"Altri Albero alfa",
-               "icon":"http://tinyurl.com/q85an2n"
+               "icon":"http://tinyurl.com/q85an2n",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69984744"
             },
             {
                "name":"Douglas il Beato",
-               "icon":"http://tinyurl.com/nvkqe69"
+               "icon":"http://tinyurl.com/nvkqe69",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
             },
             {
                "name":"Legatus Melchio",
@@ -459,7 +471,8 @@
             },
             {
                "name":"Lava fiamma sacra",
-               "icon":"http://tinyurl.com/qzrudfx"
+               "icon":"http://tinyurl.com/qzrudfx",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70435453"
             },
             {
                "name":"Aisha ang. draghi",
@@ -467,7 +480,8 @@
             },
             {
                "name":"Bordebegia",
-               "icon":"http://tinyurl.com/nls2pcz"
+               "icon":"http://tinyurl.com/nls2pcz",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
             },
             {
                "name":"Dia princ. inferi",
@@ -505,15 +519,18 @@
             },
             {
                "name":"Selfia Lame Sacre",
-               "icon":"http://tinyurl.com/po2bj97"
+               "icon":"http://tinyurl.com/po2bj97",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
             },
             {
                "name":"Kikuri dio morte",
-               "icon":"http://tinyurl.com/p3jemug"
+               "icon":"http://tinyurl.com/p3jemug",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
             },
             {
                "name":"Magress empio",
-               "icon":"http://tinyurl.com/pxfeeef"
+               "icon":"http://tinyurl.com/pxfeeef",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69828700"
             }
          ]
       },
@@ -538,7 +555,8 @@
             },
             {
                "name":"Fenice rinata",
-               "icon":"http://tinyurl.com/qh4lde2"
+               "icon":"http://tinyurl.com/qh4lde2",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70019778"
             },
             {
                "name":"Galant supremo",
@@ -586,7 +604,8 @@
             },
             {
                "name":"Atro luce sacra",
-               "icon":"http://tinyurl.com/odc7wfq"
+               "icon":"http://tinyurl.com/odc7wfq",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69831206"
             },
             {
                "name":"Alice mietitrice",
@@ -619,7 +638,8 @@
             },
             {
                "name":"Duelmex",
-               "icon":"http://tinyurl.com/o2xuwx9"
+               "icon":"http://tinyurl.com/o2xuwx9",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69997916"
             },
             {
                "name":"Sola sib. raggio",
@@ -667,7 +687,8 @@
             },
             {
                "name":"Dilias infernale",
-               "icon":"http://tinyurl.com/pcqn3eq"
+               "icon":"http://tinyurl.com/pcqn3eq",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70059581"
             },
             {
                "name":"Madia sib. notte",
@@ -946,7 +967,7 @@
          "icon":"http://tinyurl.com/pem3mud"
       },
       {
-         "name":"Angelic Blades Sefia",
+         "name":"Angelic Blades Selfia",
          "icon":"http://tinyurl.com/q3s5s6y"
       },
       {
@@ -989,7 +1010,8 @@
       },
       {
          "name":"Re del mare Mega",
-         "icon":"http://tinyurl.com/nrw7vy8"
+         "icon":"http://tinyurl.com/nrw7vy8",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70451050"
       },
       {
          "name":"Tiara definitiva",
@@ -1145,7 +1167,8 @@
       },
       {
          "name":"Behemoth omega",
-         "icon":"http://tinyurl.com/qgdgg46"
+         "icon":"http://tinyurl.com/qgdgg46",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70030086"
       },
       {
          "name":"Zele sib. lampo",
@@ -1173,7 +1196,8 @@
       },
       {
          "name":"Ronel angelo caos",
-         "icon":"http://tinyurl.com/q29o92p"
+         "icon":"http://tinyurl.com/q29o92p",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765273"
       },
       {
          "name":"Rina regina oro",
