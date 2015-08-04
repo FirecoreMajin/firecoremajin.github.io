@@ -69,18 +69,20 @@
 					arriveranno in EU</p>
 				<br />
 
-				<div class="panel-group" id="unitNext" role="tablist" aria-multiselectable="false">
+				<div class="panel-group" id="unitNext" role="tablist"
+					aria-multiselectable="false">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="hnexteu6">
 							<a class="panel-title" role="button" data-toggle="collapse"
-								data-parent="#unitNext" href="#cnexteu6"
-								aria-expanded="true" aria-controls="cnexteu6"
-								onclick="return false;" style="width: 100%;">
+								data-parent="#unitNext" href="#cnexteu6" aria-expanded="true"
+								aria-controls="cnexteu6" onclick="return false;"
+								style="width: 100%;">
 								<h4 class="panel-title" style="width: 100%;">Unità con 6*
-												in EU</h4>
+									in EU</h4>
 							</a>
 						</div>
-						<div id="cnexteu6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hnexteu6">
+						<div id="cnexteu6" class="panel-collapse collapse" role="tabpanel"
+							aria-labelledby="hnexteu6">
 							<div>
 								<table class="table table-striped">
 									<tr />
@@ -89,16 +91,20 @@
 										<td valign="top"><img src="{{x.icon}}" /></td>
 										<td width="50%"><b>{{x.name}}</b>
 											<p>{{x.text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{x.vote}}</span>
-										</div></td>
-										<td ng-if="next6eu[x._index+1]"><img
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{x.vote}}</span>
+											</div></td>
+										<td><img ng-if="next6eu[x._index+1]"
 											src="{{next6eu[x._index+1].icon}}" /></td>
-										<td ng-if="next6eu[x._index+1]" width="50%"><b>{{next6eu[x._index+1].name}}</b>
-											<p>{{next6eu[x._index+1].text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{next6eu[x._index+1].vote}}</span>
-										</div></td>
+										<td width="50%"><div ng-if="next6eu[x._index+1]">
+												<b>{{next6eu[x._index+1].name}}</b>
+												<p>{{next6eu[x._index+1].text}}</p>
+											</div></td>
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{next6eu[x._index+1].vote}}</span>
+											</div></td>
 									</tr>
 								</table>
 							</div>
@@ -107,14 +113,15 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="hglobal6">
 							<a class="panel-title" role="button" data-toggle="collapse"
-								data-parent="#unitNext" href="#cglobal6"
-								aria-expanded="true" aria-controls="cglobal6"
-								onclick="return false;" style="width: 100%;">
+								data-parent="#unitNext" href="#cglobal6" aria-expanded="true"
+								aria-controls="cglobal6" onclick="return false;"
+								style="width: 100%;">
 								<h4 class="panel-title" style="width: 100%;">Unità con 6*
-											in GL</h4>
+									in GL</h4>
 							</a>
 						</div>
-						<div id="cglobal6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hglobal6">
+						<div id="cglobal6" class="panel-collapse collapse" role="tabpanel"
+							aria-labelledby="hglobal6">
 							<div>
 								<table class="table table-striped">
 									<tr />
@@ -123,16 +130,20 @@
 										<td valign="top"><img src="{{x.icon}}" /></td>
 										<td width="50%"><b>{{x.name}}</b>
 											<p>{{x.text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{x.vote}}</span>
-										</div></td>
-										<td ng-if="global6[x._index+1]"><img
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{x.vote}}</span>
+											</div></td>
+										<td><img ng-if="global6[x._index+1]"
 											src="{{global6[x._index+1].icon}}" /></td>
-										<td ng-if="global6[x._index+1]" width="50%"><b>{{global6[x._index+1].name}}</b>
-											<p>{{global6[x._index+1].text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{global6[x._index+1].vote}}</span>
-										</div></td>
+										<td width="50%"><div ng-if="global6[x._index+1]">
+												<b>{{global6[x._index+1].name}}</b>
+												<p>{{global6[x._index+1].text}}</p>
+											</div></td>
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{global6[x._index+1].vote}}</span>
+											</div></td>
 									</tr>
 								</table>
 							</div>
@@ -141,14 +152,15 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="hglobal7">
 							<a class="panel-title" role="button" data-toggle="collapse"
-								data-parent="#unitNext" href="#cglobal7"
-								aria-expanded="true" aria-controls="cglobal7"
-								onclick="return false;" style="width: 100%;">
+								data-parent="#unitNext" href="#cglobal7" aria-expanded="true"
+								aria-controls="cglobal7" onclick="return false;"
+								style="width: 100%;">
 								<h4 class="panel-title" style="width: 100%;">Unità con 7*
-											in GL</h4>
+									in GL</h4>
 							</a>
 						</div>
-						<div id="cglobal7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hglobal7">
+						<div id="cglobal7" class="panel-collapse collapse" role="tabpanel"
+							aria-labelledby="hglobal7">
 							<div>
 								<table class="table table-striped">
 									<tr />
@@ -157,16 +169,20 @@
 										<td valign="top"><img src="{{x.icon}}" /></td>
 										<td width="50%"><b>{{x.name}}</b>
 											<p>{{x.text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{x.vote}}</span>
-										</div></td>
-										<td ng-if="global7[x._index+1]"><img
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{x.vote}}</span>
+											</div></td>
+										<td><img ng-if="global7[x._index+1]"
 											src="{{global7[x._index+1].icon}}" /></td>
-										<td ng-if="global7[x._index+1]" width="50%"><b>{{global7[x._index+1].name}}</b>
-											<p>{{global7[x._index+1].text}}</p></td>
-										<td valign="top"><div style="width: 100%; text-align: right;">
-											<span class="label label-primary">{{global7[x._index+1].vote}}</span>
-										</div></td>
+										<td width="50%"><div ng-if="global7[x._index+1]">
+												<b>{{global7[x._index+1].name}}</b>
+												<p>{{global7[x._index+1].text}}</p>
+											</div></td>
+										<td valign="top"><div
+												style="width: 100%; text-align: right;">
+												<span class="label label-primary">{{global7[x._index+1].vote}}</span>
+											</div></td>
 									</tr>
 								</table>
 							</div>
@@ -201,21 +217,27 @@
 								<tr ng-repeat="x in grp.units | filter:filterGroups3">
 									<td><img src="{{x.icon}}" /></td>
 									<td width="33%">{{x.name}}</td>
-									<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
-										<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
-									</div></td>									
-									<td ng-if="grp.units[x._index+1]"><img
+									<td valign="top"><div ng-if="x.card"
+											style="width: 100%; text-align: right;">
+											<a href="{{x.card}}" target="_blank"><span
+												class="label label-primary">Scheda</span></a>
+										</div></td>
+									<td><img ng-if="grp.units[x._index+1]"
 										src="{{grp.units[x._index+1].icon}}" /></td>
-									<td ng-if="grp.units[x._index+1]" width="33%">{{grp.units[x._index+1].name}}</td>
-									<td valign="top"><div ng-if="grp.units[x._index+1].card" style="width: 100%; text-align: right;">
-										<a href="{{grp.units[x._index+1].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
-									</div></td>									
-									<td ng-if="grp.units[x._index+2]"><img
+									<td width="33%"><div ng-if="grp.units[x._index+1]">{{grp.units[x._index+1].name}}</div></td>
+									<td valign="top"><div ng-if="grp.units[x._index+1].card"
+											style="width: 100%; text-align: right;">
+											<a href="{{grp.units[x._index+1].card}}" target="_blank"><span
+												class="label label-primary">Scheda</span></a>
+										</div></td>
+									<td><img ng-if="grp.units[x._index+2]"
 										src="{{grp.units[x._index+2].icon}}" /></td>
-									<td ng-if="grp.units[x._index+2]" width="33%">{{grp.units[x._index+2].name}}</td>
-									<td valign="top"><div ng-if="grp.units[x._index+2].card" style="width: 100%; text-align: right;">
-										<a href="{{grp.units[x._index+2].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
-									</div></td>									
+									<td width="33%"><div ng-if="grp.units[x._index+2]">{{grp.units[x._index+2].name}}</div></td>
+									<td valign="top"><div ng-if="grp.units[x._index+2].card"
+											style="width: 100%; text-align: right;">
+											<a href="{{grp.units[x._index+2].card}}" target="_blank"><span
+												class="label label-primary">Scheda</span></a>
+										</div></td>
 								</tr>
 							</table>
 						</div>
@@ -240,12 +262,12 @@
 								<tr ng-repeat="x in unranked | filter:filterGroups3">
 									<td><img src="{{x.icon}}" /></td>
 									<td width="33%">{{x.name}}</td>
-									<td ng-if="unranked[x._index+1]"><img
+									<td><img ng-if="unranked[x._index+1]"
 										src="{{unranked[x._index+1].icon}}" /></td>
-									<td ng-if="unranked[x._index+1]" width="33%">{{unranked[x._index+1].name}}</td>
-									<td ng-if="unranked[x._index+2]"><img
+									<td width="33%"><div ng-if="unranked[x._index+1]">{{unranked[x._index+1].name}}</div></td>
+									<td><img ng-if="unranked[x._index+2]"
 										src="{{unranked[x._index+2].icon}}" /></td>
-									<td ng-if="unranked[x._index+24]" width="33%">{{unranked[x._index+2].name}}</td>
+									<td width="33%"><div ng-if="unranked[x._index+2]">{{unranked[x._index+2].name}}</div></td>
 								</tr>
 							</table>
 						</div>
@@ -281,16 +303,22 @@
 										<td valign="top"><img src="{{x.icon}}" /></td>
 										<td width="50%"><b>{{x.name}}</b>
 											<p>{{x.text}}</p></td>
-										<td valign="top"><div ng-if="x.card" style="width: 100%; text-align: right;">
-											<a href="{{x.card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
-										</div></td>									
-										<td ng-if="grp.units[x._index+1]" valign="top"><img
+										<td valign="top"><div ng-if="x.card"
+												style="width: 100%; text-align: right;">
+												<a href="{{x.card}}" target="_blank"><span
+													class="label label-primary">Scheda</span></a>
+											</div></td>
+										<td valign="top"><img ng-if="grp.units[x._index+1]"
 											src="{{grp.units[x._index+1].icon}}" /></td>
-										<td ng-if="grp.units[x._index+1]" width="50%"><b>{{grp.units[x._index+1].name}}</b>
-											<p>{{grp.units[x._index+1].text}}</p></td>
-										<td valign="top"><div ng-if="grp.units[x._index+1].card" style="width: 100%; text-align: right;">
-											<a href="{{grp.units[x._index+1].card}}" target="_blank"><span class="label label-primary">Scheda</span></a>
-										</div></td>									
+										<td width="50%"><div ng-if="grp.units[x._index+1]">
+												<b>{{grp.units[x._index+1].name}}</b>
+												<p>{{grp.units[x._index+1].text}}</p>
+											</div></td>
+										<td valign="top"><div ng-if="grp.units[x._index+1].card"
+												style="width: 100%; text-align: right;">
+												<a href="{{grp.units[x._index+1].card}}" target="_blank"><span
+													class="label label-primary">Scheda</span></a>
+											</div></td>
 									</tr>
 								</table>
 							</div>
