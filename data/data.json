@@ -782,7 +782,7 @@
       {
          "name":"Shadow Ronin Mifune",
          "icon":"http://img1.wikia.nocookie.net/__cb20141215170839/bravefrontierglobal/images/thumb/1/13/Unit_ills_thum_60025.png/42px-Unit_ills_thum_60025.png",
-         "text":"BB con 8 colpi di tenebra a tutti i nemici e SBB con combo massiva di tenebra a tutti i nemici",
+         "text":"BB con 8 colpi di tenebra su tutti i nemici e SBB con combo massiva di tenebra su tutti i nemici",
          "vote":"?"
       },
       {
@@ -818,7 +818,7 @@
       {
          "name":"Death God Shida",
          "icon":"http://img1.wikia.nocookie.net/__cb20141014175850/bravefrontierglobal/images/thumb/0/0b/Unit_ills_thum_60095.png/42px-Unit_ills_thum_60095.png",
-         "text":"BB con 25 colpi di tenebra a tutti i nemici e SBB che aggiunge tutti gli elementi agli alleati per 3 turni e incrementa il guadagno di BB",
+         "text":"BB con 25 colpi di tenebra su tutti i nemici e SBB che aggiunge tutti gli elementi agli alleati per 3 turni e incrementa il guadagno di BB",
          "vote":"?"
       },
       {
@@ -986,7 +986,9 @@
       },
       {
          "name":"Flora Aegis Edea",
-         "icon":"http://tinyurl.com/n9woakb"
+         "icon":"http://tinyurl.com/n9woakb",
+         "text":"Sentendo in giro diventerà un'unità quasi essenziale, utile in molte occasioni",
+         "vote":"Ottima"
       },
       {
          "name":"Inferno Princess Alice",
