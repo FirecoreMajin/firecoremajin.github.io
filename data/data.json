@@ -100,7 +100,8 @@
             {
                "name":"Zelnite Dio dei Ladri (Leader e non)",
                "icon":"http://tinyurl.com/qbfygtv",
-               "text":"LS che aumenta il drop di CB, CC, zel, karma e oggetti e SBB colpisce 17 volte, aumenta di 8 i CB del team ed aumenta il drop di CB, CC ed oggetti del 15% per 3 turni."
+               "text":"LS che aumenta il drop di CB, CC, zel, karma e oggetti e SBB colpisce 17 volte, aumenta di 8 i CB del team ed aumenta il drop di CB, CC ed oggetti del 15% per 3 turni.",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
             },
             {
                "name":"Phee dea tiranna (Leader e non)",
@@ -364,7 +365,8 @@
             },
             {
                "name":"Zelnite dio dei ladri",
-               "icon":"http://tinyurl.com/qbfygtv"
+               "icon":"http://tinyurl.com/qbfygtv",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
             },
             {
                "name":"Cardes il malvagio",
