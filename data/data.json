@@ -530,16 +530,18 @@
       "name":"Echo Sibyl Zele",
       "icon":"http://img2.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/5/53/Unit_ills_thum_40245.png/42px-Unit_ills_thum_40245.png",
       "vote":"?",
-      "text":"LS che aumenta del 65% l'attacco delle creature di Tuono e Luce e recupera HP ogni turno e un SBB con 18 colpi di tuono e luce che attacca tutti i nemici, aggiunge gli elementi fuoco, tuono e luce per 3 turni e aumenta il danno durante gli Spark"    },
+      "text":"LS che aumenta del 65% l'attacco delle creature di Tuono e Luce & recupera HP ogni turno e un SBB con 18 colpi di tuono e luce che attacca tutti i nemici, aggiunge gli elementi fuoco, tuono e luce per 3 turni & aumenta il danno durante gli Spark"    },
     {  
       "name":"Beauty Sibyl Paula",
       "icon":"http://img3.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_30245.png/42px-Unit_ills_thum_30245.png",
-      "vote":"Buona"
+      "vote":"Buona",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Terra e Oscurità & aumenta la produzione di HC e la loro efficacia e un SBB con 18 colpi di Terra e Oscurità che attacca tutti i nemici, aggiunge gli elementi Acqua, Terra e Oscurità per 3 turni & aumenta la produzione di BC e HC"
     },
     {  
       "name":"Sorrow Sibyl Eliza",
       "icon":"http://img3.wikia.nocookie.net/__cb20150129082126/bravefrontierglobal/images/thumb/c/c9/Unit_ills_thum_20245.png/42px-Unit_ills_thum_20245.png",
-      "vote":"Buona"
+      "vote":"Buona",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Acqua e Oscurità & aumenta il danno durante lo Spark e un SBB con 18 colpi di Acqua e Oscurità che attacca tutti i nemici, aggiunge gli elementi Acqua, Terra e Oscurità per 3 turni & aumenta l'attacco e la percentuale di colpi critici"
     },
     {  
       "name":"Passion Sibyl Freya",
