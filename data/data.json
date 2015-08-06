@@ -596,7 +596,8 @@
   "global7":[  
     {  
       "name":"Dark Legend Magress",
-      "icon":"http://tinyurl.com/oa44po6"
+      "icon":"http://tinyurl.com/oa44po6",
+      "vote":"Buona"
     },
     {  
       "name":"Earth Legend Lance",
@@ -608,7 +609,8 @@
     },
     {  
       "name":"Light Legend Atro",
-      "icon":"http://tinyurl.com/q5hueod"
+      "icon":"http://tinyurl.com/q5hueod",
+      "vote":"Buona"
     },
     {  
       "name":"Ice Legend Selena",
