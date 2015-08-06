@@ -442,7 +442,7 @@
     {  
       "name":"Gaia Bow Lario",
       "icon":"http://img2.wikia.nocookie.net/__cb20141215170837/bravefrontierglobal/images/thumb/0/0d/Unit_ills_thum_30025.png/42px-Unit_ills_thum_30025.png",
-      "text":"Diventerà molto utile per i FH..",
+      "text":"Diventerà molto utile per i FH...LS che riduce i BB per ricaricare la barra e aumenta il drop di BC durante gli Spark e una SBB con 40 colpi di terra su tutti i nemici con l'aumento di BC per 3 turni a tutti",
       "vote":"Ottima"
     },
     {  
@@ -529,8 +529,8 @@
     {  
       "name":"Echo Sibyl Zele",
       "icon":"http://img2.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/5/53/Unit_ills_thum_40245.png/42px-Unit_ills_thum_40245.png",
-      "vote":"?"
-    },
+      "vote":"?",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Tuono e Luce e recupera HP ogni turno e un SBB con 18 colpi di tuono e luce che attacca tutti i nemici, aggiunge gli elementi fuoco, tuono e luce per 3 turni e aumenta il danno durante gli Spark"    },
     {  
       "name":"Beauty Sibyl Paula",
       "icon":"http://img3.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_30245.png/42px-Unit_ills_thum_30245.png",
@@ -584,7 +584,7 @@
     {  
       "name":"Twilight God Grahdens",
       "icon":"http://img1.wikia.nocookie.net/__cb20141228174353/bravefrontierglobal/images/thumb/6/6d/Unit_ills_thum_60325.png/42px-Unit_ills_thum_60325.png",
-      "text":"LS che potenzia del 35% tutti i parametri e una riduzione del 15% dei danni di Luce e Oscurità, un SBB con 25 colpi di Luce e Oscurità a tutti i nemici, aggiunge gli elementi Luce e Oscurità agli attacchi degli alleati e +6 BC a tutti gli alleati per 3 turni",
+      "text":"LS che potenzia del 35% tutti i parametri e riduce del 15% dei danni di Luce e Oscurità, un SBB con 25 colpi di Luce e Oscurità a tutti i nemici che aggiunge gli elementi Luce e Oscurità agli attacchi degli alleati e da +6 BC a tutti gli alleati per 3 turni",
       "vote":"Ottimo"
     },
     {  
