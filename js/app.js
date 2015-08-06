@@ -56,28 +56,36 @@ app.controller('BFUnitMainCtrl', function($scope, $route) {
 });
 
 app.controller('BFUnitMobileCtrl', function($scope, $http) {
-	$http.get("./data/data.json").success(function(response) {
+	$http.get("./data/next.json").success(function(response) {
 		$scope.next = response.next;
-		$scope.team = response.team;
-		$scope.groups = response.groups;
 		$scope.next6eu = response.next6eu;
 		$scope.global6 = response.global6;
 		$scope.global7 = response.global7;
+	});
+	$http.get("./data/team.json").success(function(response) {
+		$scope.team = response.team;
+	});
+	$http.get("./data/unit.json").success(function(response) {
+		$scope.groups = response.groups;
 		$scope.unranked = response.unranked;
 	});
 });
 
 app.controller('BFUnitDesktopCtrl', function($scope, $http) {
-	$http.get("./data/data.json").success(function(response) {
+	$http.get("./data/next.json").success(function(response) {
 		$scope.next = response.next;
-		$scope.team = response.team;
-		$scope.groups = response.groups;
 		$scope.next6eu = response.next6eu;
 		$scope.global6 = response.global6;
 		$scope.global7 = response.global7;
-		$scope.unranked = response.unranked;
-		
-		$scope.filterGroups2 = function(obj, idx) { return !((obj._index = idx) % 2); }
-		$scope.filterGroups3 = function(obj, idx) { return !((obj._index = idx) % 3); }
 	});
+	$http.get("./data/team.json").success(function(response) {
+		$scope.team = response.team;
+	});
+	$http.get("./data/unit.json").success(function(response) {
+		$scope.groups = response.groups;
+		$scope.unranked = response.unranked;
+	});
+		
+	$scope.filterGroups2 = function(obj, idx) { return !((obj._index = idx) % 2); }
+	$scope.filterGroups3 = function(obj, idx) { return !((obj._index = idx) % 3); }
 });

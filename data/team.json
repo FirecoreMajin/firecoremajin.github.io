@@ -1,0 +1,310 @@
+{  
+  "team":[  
+    {  
+      "name":"BB Spam",
+      "units":[  
+        {  
+          "name":"Dia princ. inferi (Leader)",
+          "icon":"http://tinyurl.com/nkx2h3x",
+          "text":"LS che aumenta la velocità di riempimento della barra BB del 30% e SBB AoE colpisce 16 volte ed aumenta la produzione di CB del 22%"
+        },
+        {  
+          "name":"Lancia super chef (Leader)",
+          "icon":"http://tinyurl.com/p99rfft",
+          "text":"LS che aumenta il drop dei CC (50%) e CB(30%) durante lo spark e SBB cura in un turno, cura in 3 turni ed aumenta l’attacco del 50% per 3 turni",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819"
+        },
+        {  
+          "name":"Bordebegia (Leader)",
+          "icon":"http://tinyurl.com/nls2pcz",
+          "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 15 volte ed aumenta i danni da spark ed il crit rate del team per 3 turni (70% e 30%)",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
+        },
+        {  
+          "name":"Lodin drago (Leader)",
+          "icon":"http://tinyurl.com/netxca9",
+          "text":"LS che aumenta la velocità di riempimento della barra BB del 30% e SBB AoE colpisce 14 volte ad aumenta il BB del team di 5 CB a turno"
+        },
+        {  
+          "name":"Uda dio violento (Leader)",
+          "icon":"http://tinyurl.com/q3ms8cu",
+          "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 15 volte ed aumenta la produzione di CB del 25% per 3 turni"
+        },
+        {  
+          "name":"Deemo e la ragazza (Leader)",
+          "icon":"http://tinyurl.com/pp5wj6h",
+          "text":"LS che riempie la bb del team quando fai spark e BB AoE colpisce 20 volte e aumenta il danno da spark del 50%. Grandissima unità se non fosse che si fermi solo a 5*."
+        },
+        {  
+          "name":"Zellha dea rovine (Leadere non)",
+          "icon":"http://tinyurl.com/polkvmz",
+          "text":"LS che riduce il costo di attivazione dei BB del team del 20% e SBB AoE colpisce 30 volte con possibilità di ferita e debolezza",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
+        },
+        {  
+          "name":"Cardes il malvagio (Leader e non)",
+          "icon":"http://tinyurl.com/qaap2l3",
+          "text":"LS che diminuisce diminuisce del 30% l’utilizzo della BB una volta attivata e SBB AoE massive colpisce 33 volte ed aumenta la difesa del team del 50%",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
+        },
+        {  
+          "name":"Felneus (Leader e non)",
+          "icon":"http://tinyurl.com/nf2glf5",
+          "text":"LS che aumenta la velocità di riempimento della barra BB del 50% e SBB AoE colpisce 10 volte ed aumenta la produzione di CB del 30% per 3 turni",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
+        },
+        {  
+          "name":"Zelnite Dio dei Ladri (Leader e non)",
+          "icon":"http://tinyurl.com/qbfygtv",
+          "text":"LS che aumenta il drop di CB, CC, zel, karma e oggetti e SBB colpisce 17 volte, aumenta di 8 i CB del team ed aumenta il drop di CB, CC ed oggetti del 15% per 3 turni.",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
+        },
+        {  
+          "name":"Phee dea tiranna (Leader e non)",
+          "icon":"http://tinyurl.com/of2rbe4",
+          "text":"LS che riduce il costo di attivazione dei BB del team del 20% e SBB AoE colpisce 15 volte ed aumenta la produzione di CC del 25% per 3 turni"
+        },
+        {  
+          "name":"Douglas il Beato",
+          "icon":"http://tinyurl.com/nvkqe69",
+          "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%.",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
+        },
+        {  
+          "name":"Michele dea ascia",
+          "icon":"http://tinyurl.com/ogh826o",
+          "text":"SBB AoE da 18 colpi aumenta pure l’attacco del 115%"
+        },
+        {  
+          "name":"Legatus Melchio",
+          "icon":"http://tinyurl.com/oeq3e3d",
+          "text":"SBB AoE da 15 colpi con tutti gli elementi, nega le alterazioni di stato per 3 turni"
+        },
+        {  
+          "name":"Duel-SGX ",
+          "icon":"http://tinyurl.com/nbouk2j",
+          "text":"SBB AoE da 20 colpi aumenta il critical rate del 60%"
+        },
+        {  
+          "name":"Dilma pugno fiero",
+          "icon":"http://tinyurl.com/ojrkk8b",
+          "text":"SBB che, oltre che ad essere uno dei più potenti nel gioco, produce 24 CB e toglie le difese nemiche e si cura completamente per 3 turni"
+        },
+        {  
+          "name":"Ronel angelo caos",
+          "icon":"http://tinyurl.com/q29o92p",
+          "text":"SBB AoE colpisce 14 volte ed aumenta produzione di CC e CB del 25%",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765273"
+        },
+        {  
+          "name":"Maxwell Creatore",
+          "icon":"http://tinyurl.com/oecdvel",
+          "text":"SBB AoE da 33 colpi massivi e aumenta il critil rate del 30%!",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
+        },
+        {  
+          "name":"Luther dio audace",
+          "icon":"http://tinyurl.com/nkgstqj",
+          "text":"SBB AoE da 28 colpi che aumenta di danni da spark del 50%",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+        }
+      ]
+    },
+    {  
+      "name":"Crit",
+      "units":[  
+        {  
+          "name":"Maxwell Creatore (Leader - Crit Boost)",
+          "icon":"http://tinyurl.com/oecdvel",
+          "text":"L'SBB aumenta il crit chance del 30%, l'LS aumenta il danno critico del 125% e il 100% di danno agli elementi deboli.",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
+        },
+        {  
+          "name":"LlewxaM sacra (Leader - Crit Dmg Boost)",
+          "icon":"http://tinyurl.com/qz3ypf9",
+          "text":"L'LS aumenta del 300% il danno critico"
+        },
+        {  
+          "name":"Zebra Dio folle (Leader Crit Boost)",
+          "icon":"http://tinyurl.com/p76bkq2",
+          "text":"L'LS aumenta del 300% il danno critico"
+        },
+        {  
+          "name":"Duel-SGX (Crit Boost)",
+          "icon":"http://tinyurl.com/nbouk2j",
+          "text":"Duel-GX è l’unità con il BB/SBB per quanto riguarda l’aumento della possibilità di fare critici più potente, infatti aumenta del 60% la probabilità di crittare e se si considera la possibilità base (10%) arrivi al 70% di possibilità in più per fare i critici. Inoltre aggiunge l’elemento dark all’attacco e la versione 6* hitta pure 20 volte tanto per non scontentare nessuno."
+        },
+        {  
+          "name":"Aisha ang. draghi (Crit Boost)",
+          "icon":"http://tinyurl.com/ood28m4",
+          "text":"L'SBB aggiunge la possibilità di fare critici del 40% al liv 1 e del 60% al livello 10. (in sostituzione a Duel-SGX)"
+        },
+        {  
+          "name":"Bordebegia (Crit Boost)",
+          "icon":"http://tinyurl.com/nls2pcz",
+          "text":"SBB aumenta i danni da spark ed i critici del 40%. (in sostituzione a Duel-SGX)",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
+        },
+        {  
+          "name":"Meltia (Crit Boost)",
+          "icon":"http://tinyurl.com/q9qpbww",
+          "text":"In mancanza di altri critical boost può essere una buona alternativa, ma solo se il BB è a livello 10, che da +80% def e è 45% crit chance. (in sostituzione a Duel-SGX)"
+        },
+        {  
+          "name":"Rashil mago cielo (Crit Boost)",
+          "icon":"http://tinyurl.com/pfs8gs9",
+          "text":"Aumenta la crit chance del 35%, ma è proprio l'ultima spiaggia. (in sostituzione a Duel-SGX)"
+        },
+        {  
+          "name":"Michele dea ascia (Attack Boost)",
+          "icon":"http://tinyurl.com/ogh826o",
+          "text":"L'SBB aumenta l’attacco del 115%"
+        },
+        {  
+          "name":"Generale Weiss (Attack Boost)",
+          "icon":"http://tinyurl.com/ojg36gd",
+          "text":"Col BB10 aumenta l'attacco delle unità dell 100%"
+        },
+        {  
+          "name":"Leorone (Attack Boost)",
+          "icon":"http://tinyurl.com/okxebvt",
+          "text":"Il BB aumenta del 50% l’att, dif e rec. Il suo SBB del 70%"
+        },
+        {  
+          "name":"Vargas sacrofuoco (Attack Boost)",
+          "icon":"http://tinyurl.com/ngdbfor",
+          "text":"L'SBB aumenta l’attacco del 40%"
+        },
+        {  
+          "name":"Eze tuono sacro (Attack Boost)",
+          "icon":"http://tinyurl.com/o4mewv2",
+          "text":"L'SBB aumenta l’attacco del 40%"
+        },
+        {  
+          "name":"Raydn re lancia (Attack Boost)",
+          "icon":"http://tinyurl.com/oer4sxx",
+          "text":"L'SBB oltre a togliere le difese aumenta notevolmente i danni da spark"
+        },
+        {  
+          "name":"Dilma pugno fiero (Defense Debuf)",
+          "icon":"http://tinyurl.com/ojrkk8b",
+          "text":"Il BB aumenta i danni da spark del 30% ed il suo SBB aumenta la possibilità di crittare del 20% e aumenta la produzione di CB del 20%"
+        },
+        {  
+          "name":"Lava fiamma sacra (Defense Debuf)",
+          "icon":"http://tinyurl.com/qzrudfx",
+          "text":"L'SBB oltre ad avere un AoE BB toglierà anche le difese avversarie per 2 turni",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70435453"
+        },
+        {  
+          "name":"Edea di Gaia (Hitter)",
+          "icon":"http://tinyurl.com/o9rrgbf",
+          "text":"Il suo SBB hitta 12 volte e aggiunge veleno e malattia, inoltre diminuisce i danni ricevuti da tutto il team per un team"
+        },
+        {  
+          "name":"Lilith Devastante (Hitter)",
+          "icon":"http://tinyurl.com/q8aaoc7",
+          "text":"L'SBB le ricarica la barra BB/SBB! Il moltiplicatore d’attacco del suo SBB è inoltre attorno al 600%.",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71057194"
+        },
+        {  
+          "name":"Logan lame inferi (Hitter)",
+          "icon":"http://tinyurl.com/nuu3ulo",
+          "text":"Il BB attacca fortissimo e gli fa recuperare vita, l'SBB ha un AoE da 16 hit e si dimezza la difesa per un buff d’attacco del 300% per 3 turni"
+        },
+        {  
+          "name":"Rickel due armi (Hitter)",
+          "icon":"http://tinyurl.com/pqvzfsz",
+          "text":"Tantissimi danni con un SBB da 20 hit count"
+        },
+        {  
+          "name":"Amy fulm. celeste (Hitter)",
+          "icon":"http://tinyurl.com/q6jwabp",
+          "text":"Picchia forte ed il suo SBB è una versione AoE del suo BB"
+        },
+        {  
+          "name":"Douglas il Beato (AoE BB)",
+          "icon":"http://tinyurl.com/nvkqe69",
+          "text":"SBB AoE da 30 colpi con un aumento dei danni da spark del 50%.",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
+        },
+        {  
+          "name":"Gravion (AoE BB)",
+          "icon":"http://tinyurl.com/pgsl5oa",
+          "text":"Duro da caricare, ma il suo SBB è il più potente mai visto. Il moltiplicatore dei danni dell'SBB e del 750%"
+        },
+        {  
+          "name":"Loch arco celeste (AoE BB)",
+          "icon":"http://tinyurl.com/ntmxm8p",
+          "text":"Un altro che picchia forte, il moltiplicatore del suo SBB è attorno al 700%"
+        },
+        {  
+          "name":"Selfia Lame Sacre (AoE BB)",
+          "icon":"http://tinyurl.com/q3s5s6y",
+          "text":"L'SBB piccha forte",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
+        },
+        {  
+          "name":"Kikuri dio morte (AoE BB)",
+          "icon":"http://tinyurl.com/p3jemug",
+          "text":"L'SBB piccha forte",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
+        },
+        {  
+          "name":"Kajah dio male (AoE BB)",
+          "icon":"http://tinyurl.com/ojlsa8j",
+          "text":"Possiede le statistiche d’attacco più alte del gioco ed il suo SBB è il secondo per potenza con un moltiplicare del 720% e visto che è diabolico aggiunge pure ferita all’attacco"
+        },
+        {  
+          "name":"Luther dio audace (AoE BB)",
+          "icon":"http://tinyurl.com/nkgstqj",
+          "text":"SBB colpisce 28 volte ed aumenta i danni da spark per 3 turni",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+        }
+      ]
+    },
+    {  
+      "name":"Tank",
+      "units":[  
+        {  
+          "name":"Darvanshell il guardiano",
+          "icon":"http://tinyurl.com/nefoxz3"
+        },
+        {  
+          "name":"Elimo mago saggio",
+          "icon":"http://tinyurl.com/q6jxd6r",
+          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123"
+        },
+        {  
+          "name":"Oulu forte gelo",
+          "icon":"http://tinyurl.com/pjk469e"
+        },
+        {  
+          "name":"Edea di Gaia",
+          "icon":"http://tinyurl.com/o9rrgbf"
+        }
+      ]
+    },
+    {  
+      "name":"Rainbow",
+      "units":[  
+
+      ]
+    },
+    {  
+      "name":"Spark",
+      "units":[  
+
+      ]
+    },
+    {  
+      "name":"Arena",
+      "units":[  
+        {  
+          "name":"Ofelia reg. lotta",
+          "icon":"http://tinyurl.com/nt3ofap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{  
+  "next6eu":[  
+    {  
+      "name":"LlewxaM sacra",
+      "icon":"http://tinyurl.com/qz3ypf9",
+      "vote":"?",
+      "date":"N/A",
+      "text":"30 powerful Light and Dark attack on all enemies and possible injury and poison effect"
+    },
+    {  
+      "name":"EtudreV sacro",
+      "icon":"http://tinyurl.com/ovjqjbv",
+      "vote":"?",
+      "date":"N/A",
+      "text":"18 combo Fire attack on all enemies & Reduces damage taken for 1 turns& adds Fire elements to attack for 3 turns"
+    },
+    {  
+      "name":"AymarkS sacra",
+      "icon":"http://tinyurl.com/p2eoolj",
+      "vote":"?",
+      "date":"N/A",
+      "text":"20 combo Water Attack on all enemies & Boosts critical hit rate & Probable Paralysis effect"
+    },
+    {  
+      "name":"SotnarG sacro",
+      "icon":"http://tinyurl.com/neuxcnr",
+      "vote":"?",
+      "date":"N/A",
+      "text":"13 combo massive Earth attack on all enemies & own Def decreased by half and massive boost to Atk power for 3 turns"
+    },
+    {  
+      "name":"OssoloC sacro",
+      "icon":"http://tinyurl.com/oat8cvf",
+      "vote":"?",
+      "date":"N/A",
+      "text":"17 combo Thunder powerful attack on all enemies, adds Thunder and Light elements to attack for 3 turns & increase in damage dealt during Spark for 3 turns"
+    },
+    {  
+      "name":"ArbeZ sacro",
+      "icon":"http://tinyurl.com/o4ux2kh",
+      "vote":"?",
+      "date":"N/A",
+      "text":"16 combo massive Dark attack on single enemy & fills own BB gauge to max​"
+    },
+    {  
+      "name":"Re Heinrich",
+      "icon":"http://tinyurl.com/nu32olq",
+      "vote":"?",
+      "date":"N/A",
+      "text":"Combo di 24 attacchi di fuoco su tutti i nemici, recupero dei propri PS per 3 turni e bonus DIF agli alleati per 3 turni (100%)"
+    },
+    {  
+      "name":"Re Cornelius",
+      "icon":"http://tinyurl.com/q3dmzzt",
+      "vote":"?",
+      "date":"N/A",
+      "text":"Combo di 24 attacchi di elemento Acqua ed Oscurità su tutti i nemici, aumento dell'attacco per le unità Acqua ed Oscurità per 3 turni (80%) e probabile Ferita sui nemici (60%)"
+    },
+    {  
+      "name":"Regina Magena",
+      "icon":"http://tinyurl.com/q934axd",
+      "vote":"?",
+      "date":"N/A",
+      "text":"Rimuove e nega gli status alterati, rigenera gradualmente la barra BB per 3 turni (5 BC/turno) e aumenta il REC (70%) di tutta la squadra per 3 turni"
+    }
+  ],
+  "global6":[  
+    {  
+      "name":"Quake God Lugina",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150222162450/bravefrontierglobal/images/thumb/c/ca/Unit_ills_thum_30235.png/42px-Unit_ills_thum_30235.png",
+      "text":"BB con 16 colpi di terra su tutti i nemici e SBB con 21 colpi di terra su un singolo nemico, aggiunge ignora difesa a tutti gli alleati per 2 turni e riempie la barra BB",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Shadow Ronin Mifune",
+      "icon":"http://img1.wikia.nocookie.net/__cb20141215170839/bravefrontierglobal/images/thumb/1/13/Unit_ills_thum_60025.png/42px-Unit_ills_thum_60025.png",
+      "text":"BB con 8 colpi di tenebra su tutti i nemici e SBB con combo massiva di tenebra su tutti i nemici",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Radiant Goddess Luna",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141215170838/bravefrontierglobal/images/thumb/a/a2/Unit_ills_thum_50025.png/42px-Unit_ills_thum_50025.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Gilded General Weiss",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141215170837/bravefrontierglobal/images/thumb/9/9c/Unit_ills_thum_40025.png/42px-Unit_ills_thum_40025.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Gaia Bow Lario",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141215170837/bravefrontierglobal/images/thumb/0/0d/Unit_ills_thum_30025.png/42px-Unit_ills_thum_30025.png",
+      "text":"Diventerà molto utile per i FH...LS che riduce i BB per ricaricare la barra e aumenta il drop di BC durante gli Spark e una SBB con 40 colpi di terra su tutti i nemici con l'aumento di BC per 3 turni a tutti",
+      "vote":"Ottima"
+    },
+    {  
+      "name":"Tidal Dragoon Zephu",
+      "icon":"http://img3.wikia.nocookie.net/__cb20141215170836/bravefrontierglobal/images/thumb/4/4f/Unit_ills_thum_20025.png/42px-Unit_ills_thum_20025.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Inferno Beast Zegar",
+      "icon":"http://img3.wikia.nocookie.net/__cb20141215170836/bravefrontierglobal/images/thumb/a/a6/Unit_ills_thum_10025.png/42px-Unit_ills_thum_10025.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Blizzard God Karl",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141112183935/bravefrontierglobal/images/thumb/a/a8/Unit_ills_thum_20235.png/42px-Unit_ills_thum_20235.png",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Death God Shida",
+      "icon":"http://img1.wikia.nocookie.net/__cb20141014175850/bravefrontierglobal/images/thumb/0/0b/Unit_ills_thum_60095.png/42px-Unit_ills_thum_60095.png",
+      "text":"Diventerà molto utile per i FH...BB con 25 colpi di tenebra su tutti i nemici e SBB che aggiunge tutti gli elementi agli alleati per 3 turni e incrementa il guadagno di BB",
+      "vote":"Ottima"
+    },
+    {  
+      "name":"Sacred Gunner Heidt",
+      "icon":"http://img4.wikia.nocookie.net/__cb20141014175849/bravefrontierglobal/images/thumb/c/c8/Unit_ills_thum_50095.png/42px-Unit_ills_thum_50095.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Sky God Falma",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141014175848/bravefrontierglobal/images/thumb/c/c5/Unit_ills_thum_40105.png/42px-Unit_ills_thum_40105.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Goddess Lidith",
+      "icon":"http://img1.wikia.nocookie.net/__cb20141014175846/bravefrontierglobal/images/thumb/1/1e/Unit_ills_thum_30105.png/42px-Unit_ills_thum_30105.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Ice Angel Sergio",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141014175846/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_20105.png/42px-Unit_ills_thum_20105.png",
+      "vote":"Discreta"
+    },
+    {  
+      "name":"Blazing Knight Agni",
+      "icon":"http://img2.wikia.nocookie.net/__cb20141014175845/bravefrontierglobal/images/thumb/0/03/Unit_ills_thum_10105.png/42px-Unit_ills_thum_10105.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Lightning Speed Lucana",
+      "icon":"http://img1.wikia.nocookie.net/__cb20150211162903/bravefrontierglobal/images/thumb/d/d8/Unit_ills_thum_40295.png/42px-Unit_ills_thum_40295.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Sacred Armor Nevsky",
+      "icon":"http://img3.wikia.nocookie.net/__cb20150211162904/bravefrontierglobal/images/thumb/b/b6/Unit_ills_thum_50325.png/42px-Unit_ills_thum_50325.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Supreme Lawmaker Aneil",
+      "icon":"http://img4.wikia.nocookie.net/__cb20150211162903/bravefrontierglobal/images/thumb/e/e6/Unit_ills_thum_30295.png/42px-Unit_ills_thum_30295.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Mystical Talon Rhein",
+      "icon":"http://img4.wikia.nocookie.net/__cb20150211162902/bravefrontierglobal/images/thumb/c/c3/Unit_ills_thum_20295.png/42px-Unit_ills_thum_20295.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Scorching Sword Reed",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150211162902/bravefrontierglobal/images/thumb/0/0c/Unit_ills_thum_10295.png/42px-Unit_ills_thum_10295.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Eclipse Sibyl Madia",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150129082128/bravefrontierglobal/images/thumb/9/91/Unit_ills_thum_60245.png/42px-Unit_ills_thum_60245.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Radiance Sibyl Sola",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150129082128/bravefrontierglobal/images/thumb/0/00/Unit_ills_thum_50265.png/42px-Unit_ills_thum_50265.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Echo Sibyl Zele",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/5/53/Unit_ills_thum_40245.png/42px-Unit_ills_thum_40245.png",
+      "vote":"?",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Tuono e Luce & recupera HP ogni turno e un SBB con 18 colpi di tuono e luce che attacca tutti i nemici, aggiunge gli elementi fuoco, tuono e luce per 3 turni & aumenta il danno durante gli Spark"    },
+    {  
+      "name":"Beauty Sibyl Paula",
+      "icon":"http://img3.wikia.nocookie.net/__cb20150129082127/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_30245.png/42px-Unit_ills_thum_30245.png",
+      "vote":"Buona",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Terra e Oscurità & aumenta la produzione di HC e la loro efficacia e un SBB con 18 colpi di Terra e Oscurità che attacca tutti i nemici, aggiunge gli elementi Acqua, Terra e Oscurità per 3 turni & aumenta la produzione di BC e HC"
+    },
+    {  
+      "name":"Sorrow Sibyl Eliza",
+      "icon":"http://img3.wikia.nocookie.net/__cb20150129082126/bravefrontierglobal/images/thumb/c/c9/Unit_ills_thum_20245.png/42px-Unit_ills_thum_20245.png",
+      "vote":"Buona",
+      "text":"LS che aumenta del 65% l'attacco delle creature di Acqua e Oscurità & aumenta il danno durante lo Spark e un SBB con 18 colpi di Acqua e Oscurità che attacca tutti i nemici, aggiunge gli elementi Acqua, Terra e Oscurità per 3 turni & aumenta l'attacco e la percentuale di colpi critici"
+    },
+    {  
+      "name":"Passion Sibyl Freya",
+      "icon":"http://img1.wikia.nocookie.net/__cb20150129082126/bravefrontierglobal/images/thumb/3/35/Unit_ills_thum_10245.png/42px-Unit_ills_thum_10245.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Storm Goddess Paris",
+      "icon":"http://img4.wikia.nocookie.net/__cb20150122173700/bravefrontierglobal/images/thumb/1/1f/Unit_ills_thum_40235.png/42px-Unit_ills_thum_40235.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Shadow Chakra Oboro",
+      "icon":"http://img4.wikia.nocookie.net/__cb20150114171743/bravefrontierglobal/images/thumb/d/dd/Unit_ills_thum_60155.png/42px-Unit_ills_thum_60155.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Courageous Heart Alma",
+      "icon":"http://img1.wikia.nocookie.net/__cb20150114171743/bravefrontierglobal/images/thumb/1/15/Unit_ills_thum_50145.png/42px-Unit_ills_thum_50145.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Storm Roundhouse Zeln",
+      "icon":"http://img3.wikia.nocookie.net/__cb20150114171742/bravefrontierglobal/images/thumb/2/23/Unit_ills_thum_40145.png/42px-Unit_ills_thum_40145.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Dahlia Fist Nemia",
+      "icon":"http://img2.wikia.nocookie.net/__cb20150114171741/bravefrontierglobal/images/thumb/4/44/Unit_ills_thum_30145.png/42px-Unit_ills_thum_30145.png",
+      "vote":"Discreta"
+    },
+    {  
+      "name":"Arctic Rose Stya",
+      "icon":"http://img1.wikia.nocookie.net/__cb20150114171741/bravefrontierglobal/images/thumb/6/66/Unit_ills_thum_20145.png/42px-Unit_ills_thum_20145.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Imperial Smith Galant",
+      "icon":"http://img4.wikia.nocookie.net/__cb20150114171740/bravefrontierglobal/images/thumb/0/03/Unit_ills_thum_10145.png/42px-Unit_ills_thum_10145.png",
+      "vote":"?"
+    },
+    {  
+      "name":"Twilight God Grahdens",
+      "icon":"http://img1.wikia.nocookie.net/__cb20141228174353/bravefrontierglobal/images/thumb/6/6d/Unit_ills_thum_60325.png/42px-Unit_ills_thum_60325.png",
+      "text":"LS che potenzia del 35% tutti i parametri e riduce del 15% dei danni di Luce e Oscurità, un SBB con 25 colpi di Luce e Oscurità a tutti i nemici che aggiunge gli elementi Luce e Oscurità agli attacchi degli alleati e da +6 BC a tutti gli alleati per 3 turni",
+      "vote":"Ottimo"
+    },
+    {  
+      "name":"Flare Goddess Seria",
+      "icon":"http://img1.wikia.nocookie.net/__cb20141218181350/bravefrontierglobal/images/thumb/8/83/Unit_ills_thum_10235.png/42px-Unit_ills_thum_10235.png",
+      "vote":"?"
+    }
+  ],
+  "global7":[  
+    {  
+      "name":"Dark Legend Magress",
+      "icon":"http://tinyurl.com/oa44po6",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Earth Legend Lance",
+      "icon":"http://tinyurl.com/q4fbxre",
+      "vote":"Decente"
+    },
+    {  
+      "name":"Flame Legend Vargas",
+      "icon":"http://tinyurl.com/nzuntbr",
+      "vote":"Decente"
+    },
+    {  
+      "name":"Light Legend Atro",
+      "icon":"http://tinyurl.com/q5hueod",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Ice Legend Selena",
+      "icon":"http://tinyurl.com/o436mqc",
+      "vote":"Ottima",
+      "text":"Guadagna il voto di ottima solo per l'utilità in arena"
+    },
+    {  
+      "name":"Thunder Legend Eze",
+      "icon":"http://tinyurl.com/pem3mud",
+      "vote":"Scarsa"
+    },
+    {  
+      "name":"Angelic Blades Selfia",
+      "icon":"http://tinyurl.com/q3s5s6y"
+    },
+    {  
+      "name":"Celestial Archer Loch",
+      "icon":"http://tinyurl.com/ntmxm8p"
+    },
+    {  
+      "name":"Demonic Idol Kikuri",
+      "icon":"http://tinyurl.com/oqd5sq7"
+    },
+    {  
+      "name":"Flora Aegis Edea",
+      "icon":"http://tinyurl.com/n9woakb",
+      "text":"Sentendo in giro diventerà un'unità quasi essenziale, utile in molte occasioni",
+      "vote":"Ottima"
+    },
+    {  
+      "name":"Inferno Princess Alice",
+      "icon":"http://tinyurl.com/phznj9z"
+    },
+    {  
+      "name":"Leviathan Sage Elimo",
+      "icon":"http://tinyurl.com/o4t5qct",
+      "text":"Fa da healer, DM, Def Buff e Ails Remover tutto in uno. Senza contare che la UBB mitiga il 75% per 3 turni",
+      "vote":"Eccezionale"
+    },
+    {  
+      "name":"Phoenix Wings Lava",
+      "icon":"http://tinyurl.com/ovo4as8"
+    }
+  ]
+}
