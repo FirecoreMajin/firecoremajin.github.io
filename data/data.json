@@ -421,7 +421,7 @@
       "name":"Quake God Lugina",
       "icon":"http://img2.wikia.nocookie.net/__cb20150222162450/bravefrontierglobal/images/thumb/c/ca/Unit_ills_thum_30235.png/42px-Unit_ills_thum_30235.png",
       "text":"BB con 16 colpi di terra su tutti i nemici e SBB con 21 colpi di terra su un singolo nemico, aggiunge ignora difesa a tutti gli alleati per 2 turni e riempie la barra BB",
-      "vote":"?"
+      "vote":"Buona"
     },
     {  
       "name":"Shadow Ronin Mifune",
@@ -484,7 +484,7 @@
     {  
       "name":"Ice Angel Sergio",
       "icon":"http://img2.wikia.nocookie.net/__cb20141014175846/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_20105.png/42px-Unit_ills_thum_20105.png",
-      "vote":"?"
+      "vote":"Discreta"
     },
     {  
       "name":"Blazing Knight Agni",
@@ -569,7 +569,7 @@
     {  
       "name":"Dahlia Fist Nemia",
       "icon":"http://img2.wikia.nocookie.net/__cb20150114171741/bravefrontierglobal/images/thumb/4/44/Unit_ills_thum_30145.png/42px-Unit_ills_thum_30145.png",
-      "vote":"?"
+      "vote":"Discreta"
     },
     {  
       "name":"Arctic Rose Stya",
@@ -584,7 +584,7 @@
     {  
       "name":"Twilight God Grahdens",
       "icon":"http://img1.wikia.nocookie.net/__cb20141228174353/bravefrontierglobal/images/thumb/6/6d/Unit_ills_thum_60325.png/42px-Unit_ills_thum_60325.png",
-      "text":"Diventerà molto utile per i FH..",
+      "text":"LS che potenzia del 35% tutti i parametri e una riduzione del 15% dei danni di Luce e Oscurità, un SBB con 25 colpi di Luce e Oscurità a tutti i nemici, aggiunge gli elementi Luce e Oscurità agli attacchi degli alleati e +6 BC a tutti gli alleati per 3 turni",
       "vote":"Ottimo"
     },
     {  
@@ -612,7 +612,9 @@
     },
     {  
       "name":"Ice Legend Selena",
-      "icon":"http://tinyurl.com/o436mqc"
+      "icon":"http://tinyurl.com/o436mqc",
+      "vote":"Ottima",
+      "text":"Guadagna il voto di ottima esclusivamente per le arene"
     },
     {  
       "name":"Thunder Legend Eze",
@@ -642,7 +644,8 @@
     },
     {  
       "name":"Leviathan Sage Elimo",
-      "icon":"http://tinyurl.com/o4t5qct"
+      "icon":"http://tinyurl.com/o4t5qct",
+      "vote":"Ottima"
     },
     {  
       "name":"Phoenix Wings Lava",
