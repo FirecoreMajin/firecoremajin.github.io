@@ -1,48 +1,4 @@
 {
-   "next":[
-      {
-         "name":"God Emperor Orwen",
-         "icon":"http://tinyurl.com/nsye48j",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/God_Emperor_Orwen",
-         "vote":"Scarsa",
-         "reason":"Summon if you like his looks, but you can do better"
-      },
-      {
-         "name":"Ice God Arius",
-         "icon":"http://tinyurl.com/pso5jsx",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
-         "vote":"Decente",
-         "reason":"He's not bad but you don't need him for anything"
-      },
-      {
-         "name":"Flora Goddess Faris",
-         "icon":"http://tinyurl.com/o4detnm",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Flora_Goddess_Faris",
-         "vote":"Decente",
-         "reason":"Extremely versatile and strong at damn near everything, but not required for anything and slightly outclassed as BBspam crit buffer"
-      },
-      {
-         "name":"God Engineer Garnan",
-         "icon":"http://tinyurl.com/ndv7p5p",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
-         "vote":"Decente",
-         "reason":"He's absolutely usable if you have nothing better, but has no real niche of his own and is outperformed even by his own batch"
-      },
-      {
-         "name":"Brave God Hogar",
-         "icon":"http://tinyurl.com/o4emxmb",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
-         "vote":"Buona",
-         "reason":"Tremendous versatility and top-tier damage, a highly underrated but devastatingly powerful unit"
-      },
-      {
-         "name":"Inferno Goddess Elza",
-         "icon":"http://tinyurl.com/odc3bke",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Inferno_Goddess_Elza",
-         "vote":"Ottima",
-         "reason":"She is basically best-in-slot at... everything. Her synergy with Maxwell is unreal to boot."
-      }
-   ],
    "team":[
       {
          "name":"BB Spam",
@@ -351,362 +307,48 @@
          ]
       }
    ],
-   "groups":[
+   "next":[
       {
-         "name":"Ottime",
-         "units":[
-            {
-               "name":"Darvanshell il guardiano",
-               "icon":"http://tinyurl.com/nefoxz3"
-            },
-            {
-               "name":"Dea Eir",
-               "icon":"http://tinyurl.com/pev4s9z"
-            },
-            {
-               "name":"Zelnite dio dei ladri",
-               "icon":"http://tinyurl.com/qbfygtv",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
-            },
-            {
-               "name":"Cardes il malvagio",
-               "icon":"http://tinyurl.com/qaap2l3",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
-            },
-            {
-               "name":"Lilly Matah la tiranna",
-               "icon":"http://tinyurl.com/prt9en2"
-            },
-            {
-               "name":"Dea Tilith",
-               "icon":"http://tinyurl.com/qdnzbeo"
-            },
-            {
-               "name":"Maxwell Creatore",
-               "icon":"http://tinyurl.com/oecdvel",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
-            },
-            {
-               "name":"Michele dea ascia",
-               "icon":"http://tinyurl.com/ogh826o"
-            },
-            {
-               "name":"Duel-SGX ",
-               "icon":"http://tinyurl.com/nbouk2j"
-            }
-         ]
+         "name":"God Emperor Orwen",
+         "icon":"http://tinyurl.com/nsye48j",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/God_Emperor_Orwen",
+         "vote":"Scarsa",
+         "reason":"Summon if you like his looks, but you can do better"
       },
       {
-         "name":"Buone",
-         "units":[
-            {
-               "name":"Dea Svafa",
-               "icon":"http://tinyurl.com/pscsgum"
-            },
-            {
-               "name":"Felneus",
-               "icon":"http://tinyurl.com/nf2glf5",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
-            },
-            {
-               "name":"Oulu forte gelo",
-               "icon":"http://tinyurl.com/pjk469e"
-            },
-            {
-               "name":"Elimo mago saggio",
-               "icon":"http://tinyurl.com/q6jxd6r",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123"
-            },
-            {
-               "name":"Exvehl la Belva",
-               "icon":"http://tinyurl.com/nqjp44s"
-            },
-            {
-               "name":"Lodin drago",
-               "icon":"http://tinyurl.com/netxca9"
-            },
-            {
-               "name":"Dea Thrud",
-               "icon":"http://tinyurl.com/qdetb4x"
-            },
-            {
-               "name":"Altri Albero alfa",
-               "icon":"http://tinyurl.com/q85an2n",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69984744"
-            },
-            {
-               "name":"Douglas il Beato",
-               "icon":"http://tinyurl.com/nvkqe69",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
-            },
-            {
-               "name":"Legatus Melchio",
-               "icon":"http://tinyurl.com/oeq3e3d"
-            },
-            {
-               "name":"Lilith Devastante",
-               "icon":"http://tinyurl.com/q8aaoc7",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71057194"
-            },
-            {
-               "name":"Zebra Dio folle",
-               "icon":"http://tinyurl.com/p76bkq2"
-            },
-            {
-               "name":"LlewxaM sacra",
-               "icon":"http://tinyurl.com/qz3ypf9"
-            },
-            {
-               "name":"Mare ardente",
-               "icon":"http://tinyurl.com/ploudvh"
-            },
-            {
-               "name":"Zurg dio rovina",
-               "icon":"http://tinyurl.com/p5g3kk8"
-            },
-            {
-               "name":"Grahdens",
-               "icon":"http://tinyurl.com/o4dhnd3"
-            }
-         ]
+         "name":"Ice God Arius",
+         "icon":"http://tinyurl.com/pso5jsx",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
+         "vote":"Decente",
+         "reason":"He's not bad but you don't need him for anything"
       },
       {
-         "name":"Decenti",
-         "units":[
-            {
-               "name":"Farlon spadarossa",
-               "icon":"http://tinyurl.com/p8go74d"
-            },
-            {
-               "name":"Lava fiamma sacra",
-               "icon":"http://tinyurl.com/qzrudfx",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70435453"
-            },
-            {
-               "name":"Aisha ang. draghi",
-               "icon":"http://tinyurl.com/ood28m4"
-            },
-            {
-               "name":"Bordebegia",
-               "icon":"http://tinyurl.com/nls2pcz",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
-            },
-            {
-               "name":"Dia princ. inferi",
-               "icon":"http://tinyurl.com/nkx2h3x"
-            },
-            {
-               "name":"Luther dio audace",
-               "icon":"http://tinyurl.com/nkgstqj",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
-            },
-            {
-               "name":"Lancia super chef",
-               "icon":"http://tinyurl.com/p99rfft",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819"
-            },
-            {
-               "name":"Rickel due armi",
-               "icon":"http://tinyurl.com/pqvzfsz"
-            },
-            {
-               "name":"Mariudeth dio delle asce",
-               "icon":"http://tinyurl.com/ojqh4lz"
-            },
-            {
-               "name":"Dilma pugno fiero",
-               "icon":"http://tinyurl.com/ojrkk8b"
-            },
-            {
-               "name":"Azael il serafino",
-               "icon":"http://tinyurl.com/o3qlpff"
-            },
-            {
-               "name":"Dea Alvitr",
-               "icon":"http://tinyurl.com/pfsbfle"
-            },
-            {
-               "name":"Selfia Lame Sacre",
-               "icon":"http://tinyurl.com/po2bj97",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
-            },
-            {
-               "name":"Kikuri dio morte",
-               "icon":"http://tinyurl.com/p3jemug",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
-            },
-            {
-               "name":"Magress empio",
-               "icon":"http://tinyurl.com/pxfeeef",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69828700"
-            }
-         ]
+         "name":"Flora Goddess Faris",
+         "icon":"http://tinyurl.com/o4detnm",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Flora_Goddess_Faris",
+         "vote":"Decente",
+         "reason":"Extremely versatile and strong at damn near everything, but not required for anything and slightly outclassed as BBspam crit buffer"
       },
       {
-         "name":"Scarse",
-         "units":[
-            {
-               "name":"Vargas sacrofuoco",
-               "icon":"http://tinyurl.com/ngdbfor"
-            },
-            {
-               "name":"Zegar Re bestia",
-               "icon":"http://tinyurl.com/osq9def"
-            },
-            {
-               "name":"Dalimaone",
-               "icon":"http://tinyurl.com/q8ydjuw"
-            },
-            {
-               "name":"Agni eroe magma",
-               "icon":"http://tinyurl.com/qzjdxun"
-            },
-            {
-               "name":"Fenice rinata",
-               "icon":"http://tinyurl.com/qh4lde2",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70019778"
-            },
-            {
-               "name":"Galant supremo",
-               "icon":"http://tinyurl.com/o8uhk8m"
-            },
-            {
-               "name":"Sapiente Lorand",
-               "icon":"http://tinyurl.com/ont8svz"
-            },
-            {
-               "name":"Seria Dea spade",
-               "icon":"http://tinyurl.com/p8nr4zo"
-            },
-            {
-               "name":"Freya sib. lame",
-               "icon":"http://tinyurl.com/o9uyqrc"
-            },
-            {
-               "name":"Vishra signore",
-               "icon":"http://tinyurl.com/o999455"
-            },
-            {
-               "name":"Reed re delle spade",
-               "icon":"http://tinyurl.com/ohwssjd"
-            },
-            {
-               "name":"Ramna samba fuoco",
-               "icon":"http://tinyurl.com/ntmg4cn"
-            },
-            {
-               "name":"Perfida Skalmold",
-               "icon":"http://tinyurl.com/o9tsyu8"
-            },
-            {
-               "name":"Selena gelo sacro",
-               "icon":"http://tinyurl.com/pgaqsh7"
-            },
-            {
-               "name":"Lance terra sacra",
-               "icon":"http://tinyurl.com/qfo75vl"
-            },
-            {
-               "name":"Eze tuono sacro",
-               "icon":"http://tinyurl.com/o4mewv2"
-            },
-            {
-               "name":"Atro luce sacra",
-               "icon":"http://tinyurl.com/odc7wfq",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69831206"
-            },
-            {
-               "name":"Alice mietitrice",
-               "icon":"http://tinyurl.com/osgzep4",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70412574"
-            },
-            {
-               "name":"Zegar Re bestia",
-               "icon":"http://tinyurl.com/osq9def"
-            },
-            {
-               "name":"Edea di Gaia",
-               "icon":"http://tinyurl.com/o9rrgbf"
-            },
-            {
-               "name":"Luna la santa",
-               "icon":"http://tinyurl.com/qdxp36o"
-            },
-            {
-               "name":"Heidt pistolero",
-               "icon":"http://tinyurl.com/pgjfsrv"
-            },
-            {
-               "name":"Gilnea con chiave",
-               "icon":"http://tinyurl.com/pm6rbgm"
-            },
-            {
-               "name":"Jona leggendaria",
-               "icon":"http://tinyurl.com/nen2yyy"
-            },
-            {
-               "name":"Duelmex",
-               "icon":"http://tinyurl.com/o2xuwx9",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69997916"
-            },
-            {
-               "name":"Sola sib. raggio",
-               "icon":"http://tinyurl.com/nuyd33o"
-            },
-            {
-               "name":"Alma l'impavida",
-               "icon":"http://tinyurl.com/q7axffo"
-            },
-            {
-               "name":"Will guardia",
-               "icon":"http://tinyurl.com/ohuqde5"
-            },
-            {
-               "name":"Aem spadaccino",
-               "icon":"http://tinyurl.com/pneg2uj"
-            },
-            {
-               "name":"Leorone",
-               "icon":"http://tinyurl.com/okxebvt"
-            },
-            {
-               "name":"Sodis capo guard.",
-               "icon":"http://tinyurl.com/pm4r7wc"
-            },
-            {
-               "name":"Contessa Magena",
-               "icon":"http://tinyurl.com/q934axd"
-            },
-            {
-               "name":"Vanila angelo",
-               "icon":"http://tinyurl.com/nh7mlcr"
-            },
-            {
-               "name":"Ryujin Mifune",
-               "icon":"http://tinyurl.com/omar2ok"
-            },
-            {
-               "name":"Shida esecutrice",
-               "icon":"http://tinyurl.com/q3mkgkm"
-            },
-            {
-               "name":"Legione",
-               "icon":"http://tinyurl.com/pddjk7w"
-            },
-            {
-               "name":"Dilias infernale",
-               "icon":"http://tinyurl.com/pcqn3eq",
-               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70059581"
-            },
-            {
-               "name":"Madia sib. notte",
-               "icon":"http://tinyurl.com/q9vaqrw"
-            },
-            {
-               "name":"Lemia delle anime",
-               "icon":"http://tinyurl.com/qeajdb4"
-            }
-         ]
+         "name":"God Engineer Garnan",
+         "icon":"http://tinyurl.com/ndv7p5p",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
+         "vote":"Decente",
+         "reason":"He's absolutely usable if you have nothing better, but has no real niche of his own and is outperformed even by his own batch"
+      },
+      {
+         "name":"Brave God Hogar",
+         "icon":"http://tinyurl.com/o4emxmb",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
+         "vote":"Buona",
+         "reason":"Tremendous versatility and top-tier damage, a highly underrated but devastatingly powerful unit"
+      },
+      {
+         "name":"Inferno Goddess Elza",
+         "icon":"http://tinyurl.com/odc3bke",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Inferno_Goddess_Elza",
+         "vote":"Ottima",
+         "reason":"She is basically best-in-slot at... everything. Her synergy with Maxwell is unreal to boot."
       }
    ],
    "next6eu":[
@@ -1005,6 +647,373 @@
          "icon":"http://tinyurl.com/ovo4as8"
       }
    ],
+   "groups":[
+      {
+         "name":"Ottime",
+         "units":[
+            {
+               "name":"Darvanshell il guardiano",
+               "icon":"http://tinyurl.com/nefoxz3"
+            },
+            {
+               "name":"Dea Eir",
+               "icon":"http://tinyurl.com/pev4s9z"
+            },
+            {
+               "name":"Zelnite dio dei ladri",
+               "icon":"http://tinyurl.com/qbfygtv",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
+            },
+            {
+               "name":"Cardes il malvagio",
+               "icon":"http://tinyurl.com/qaap2l3",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
+            },
+            {
+               "name":"Lilly Matah la tiranna",
+               "icon":"http://tinyurl.com/prt9en2"
+            },
+            {
+               "name":"Dea Tilith",
+               "icon":"http://tinyurl.com/qdnzbeo"
+            },
+            {
+               "name":"Maxwell Creatore",
+               "icon":"http://tinyurl.com/oecdvel",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672"
+            },
+            {
+               "name":"Michele dea ascia",
+               "icon":"http://tinyurl.com/ogh826o"
+            },
+            {
+               "name":"Duel-SGX ",
+               "icon":"http://tinyurl.com/nbouk2j"
+            }
+         ]
+      },
+      {
+         "name":"Buone",
+         "units":[
+            {
+               "name":"Dea Svafa",
+               "icon":"http://tinyurl.com/pscsgum"
+            },
+            {
+               "name":"Felneus",
+               "icon":"http://tinyurl.com/nf2glf5",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
+            },
+            {
+               "name":"Oulu forte gelo",
+               "icon":"http://tinyurl.com/pjk469e"
+            },
+            {
+               "name":"Elimo mago saggio",
+               "icon":"http://tinyurl.com/q6jxd6r",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123"
+            },
+            {
+               "name":"Exvehl la Belva",
+               "icon":"http://tinyurl.com/nqjp44s"
+            },
+            {
+               "name":"Lodin drago",
+               "icon":"http://tinyurl.com/netxca9"
+            },
+            {
+               "name":"Dea Thrud",
+               "icon":"http://tinyurl.com/qdetb4x"
+            },
+            {
+               "name":"Altri Albero alfa",
+               "icon":"http://tinyurl.com/q85an2n",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69984744"
+            },
+            {
+               "name":"Douglas il Beato",
+               "icon":"http://tinyurl.com/nvkqe69",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
+            },
+            {
+               "name":"Legatus Melchio",
+               "icon":"http://tinyurl.com/oeq3e3d"
+            },
+            {
+               "name":"Lilith Devastante",
+               "icon":"http://tinyurl.com/q8aaoc7",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71057194"
+            },
+            {
+               "name":"Zebra Dio folle",
+               "icon":"http://tinyurl.com/p76bkq2"
+            },
+            {
+               "name":"LlewxaM sacra",
+               "icon":"http://tinyurl.com/qz3ypf9"
+            },
+            {
+               "name":"Mare ardente",
+               "icon":"http://tinyurl.com/ploudvh"
+            },
+            {
+               "name":"Zurg dio rovina",
+               "icon":"http://tinyurl.com/p5g3kk8"
+            },
+            {
+               "name":"Grahdens",
+               "icon":"http://tinyurl.com/o4dhnd3"
+            }
+         ]
+      },
+      {
+         "name":"Decenti",
+         "units":[
+            {
+               "name":"Farlon spadarossa",
+               "icon":"http://tinyurl.com/p8go74d"
+            },
+            {
+               "name":"Lava fiamma sacra",
+               "icon":"http://tinyurl.com/qzrudfx",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70435453"
+            },
+            {
+               "name":"Aisha ang. draghi",
+               "icon":"http://tinyurl.com/ood28m4"
+            },
+            {
+               "name":"Bordebegia",
+               "icon":"http://tinyurl.com/nls2pcz",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765251"
+            },
+            {
+               "name":"Dia princ. inferi",
+               "icon":"http://tinyurl.com/nkx2h3x"
+            },
+            {
+               "name":"Luther dio audace",
+               "icon":"http://tinyurl.com/nkgstqj",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+            },
+            {
+               "name":"Lancia super chef",
+               "icon":"http://tinyurl.com/p99rfft",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819"
+            },
+            {
+               "name":"Rickel due armi",
+               "icon":"http://tinyurl.com/pqvzfsz"
+            },
+            {
+               "name":"Mariudeth dio delle asce",
+               "icon":"http://tinyurl.com/ojqh4lz"
+            },
+            {
+               "name":"Dilma pugno fiero",
+               "icon":"http://tinyurl.com/ojrkk8b"
+            },
+            {
+               "name":"Azael il serafino",
+               "icon":"http://tinyurl.com/o3qlpff"
+            },
+            {
+               "name":"Dea Alvitr",
+               "icon":"http://tinyurl.com/pfsbfle"
+            },
+            {
+               "name":"Zellha dea rovine",
+               "icon":"http://tinyurl.com/polkvmz",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
+            },
+            {
+               "name":"Deemo e la ragazza (Evoluzione)",
+               "icon":"http://tinyurl.com/pp5wj6h"
+            },
+            {
+               "name":"Selfia Lame Sacre",
+               "icon":"http://tinyurl.com/po2bj97",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
+            },
+            {
+               "name":"Kikuri dio morte",
+               "icon":"http://tinyurl.com/p3jemug",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
+            },
+            {
+               "name":"Magress empio",
+               "icon":"http://tinyurl.com/pxfeeef",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69828700"
+            }
+         ]
+      },
+      {
+         "name":"Scarse",
+         "units":[
+            {
+               "name":"Vargas sacrofuoco",
+               "icon":"http://tinyurl.com/ngdbfor"
+            },
+            {
+               "name":"Zegar Re bestia",
+               "icon":"http://tinyurl.com/osq9def"
+            },
+            {
+               "name":"Dalimaone",
+               "icon":"http://tinyurl.com/q8ydjuw"
+            },
+            {
+               "name":"Agni eroe magma",
+               "icon":"http://tinyurl.com/qzjdxun"
+            },
+            {
+               "name":"Fenice rinata",
+               "icon":"http://tinyurl.com/qh4lde2",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70019778"
+            },
+            {
+               "name":"Galant supremo",
+               "icon":"http://tinyurl.com/o8uhk8m"
+            },
+            {
+               "name":"Sapiente Lorand",
+               "icon":"http://tinyurl.com/ont8svz"
+            },
+            {
+               "name":"Seria Dea spade",
+               "icon":"http://tinyurl.com/p8nr4zo"
+            },
+            {
+               "name":"Freya sib. lame",
+               "icon":"http://tinyurl.com/o9uyqrc"
+            },
+            {
+               "name":"Vishra signore",
+               "icon":"http://tinyurl.com/o999455"
+            },
+            {
+               "name":"Reed re delle spade",
+               "icon":"http://tinyurl.com/ohwssjd"
+            },
+            {
+               "name":"Ramna samba fuoco",
+               "icon":"http://tinyurl.com/ntmg4cn"
+            },
+            {
+               "name":"Perfida Skalmold",
+               "icon":"http://tinyurl.com/o9tsyu8"
+            },
+            {
+               "name":"Selena gelo sacro",
+               "icon":"http://tinyurl.com/pgaqsh7"
+            },
+            {
+               "name":"Lance terra sacra",
+               "icon":"http://tinyurl.com/qfo75vl"
+            },
+            {
+               "name":"Eze tuono sacro",
+               "icon":"http://tinyurl.com/o4mewv2"
+            },
+            {
+               "name":"Atro luce sacra",
+               "icon":"http://tinyurl.com/odc7wfq",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69831206"
+            },
+            {
+               "name":"Alice mietitrice",
+               "icon":"http://tinyurl.com/osgzep4",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70412574"
+            },
+            {
+               "name":"Zegar Re bestia",
+               "icon":"http://tinyurl.com/osq9def"
+            },
+            {
+               "name":"Edea di Gaia",
+               "icon":"http://tinyurl.com/o9rrgbf"
+            },
+            {
+               "name":"Luna la santa",
+               "icon":"http://tinyurl.com/qdxp36o"
+            },
+            {
+               "name":"Heidt pistolero",
+               "icon":"http://tinyurl.com/pgjfsrv"
+            },
+            {
+               "name":"Gilnea con chiave",
+               "icon":"http://tinyurl.com/pm6rbgm"
+            },
+            {
+               "name":"Jona leggendaria",
+               "icon":"http://tinyurl.com/nen2yyy"
+            },
+            {
+               "name":"Duelmex",
+               "icon":"http://tinyurl.com/o2xuwx9",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=69997916"
+            },
+            {
+               "name":"Sola sib. raggio",
+               "icon":"http://tinyurl.com/nuyd33o"
+            },
+            {
+               "name":"Alma l'impavida",
+               "icon":"http://tinyurl.com/q7axffo"
+            },
+            {
+               "name":"Will guardia",
+               "icon":"http://tinyurl.com/ohuqde5"
+            },
+            {
+               "name":"Aem spadaccino",
+               "icon":"http://tinyurl.com/pneg2uj"
+            },
+            {
+               "name":"Leorone",
+               "icon":"http://tinyurl.com/okxebvt"
+            },
+            {
+               "name":"Sodis capo guard.",
+               "icon":"http://tinyurl.com/pm4r7wc"
+            },
+            {
+               "name":"Contessa Magena",
+               "icon":"http://tinyurl.com/q934axd"
+            },
+            {
+               "name":"Vanila angelo",
+               "icon":"http://tinyurl.com/nh7mlcr"
+            },
+            {
+               "name":"Ryujin Mifune",
+               "icon":"http://tinyurl.com/omar2ok"
+            },
+            {
+               "name":"Shida esecutrice",
+               "icon":"http://tinyurl.com/q3mkgkm"
+            },
+            {
+               "name":"Legione",
+               "icon":"http://tinyurl.com/pddjk7w"
+            },
+            {
+               "name":"Dilias infernale",
+               "icon":"http://tinyurl.com/pcqn3eq",
+               "card":"http://bravefrontieritaliafan.forumfree.it/?t=70059581"
+            },
+            {
+               "name":"Madia sib. notte",
+               "icon":"http://tinyurl.com/q9vaqrw"
+            },
+            {
+               "name":"Lemia delle anime",
+               "icon":"http://tinyurl.com/qeajdb4"
+            }
+         ]
+      }
+   ],
    "unranked":[
       {
          "name":"EtudreV sacro",
@@ -1292,15 +1301,6 @@
       {
          "name":"Themis eterno",
          "icon":"http://tinyurl.com/o6wdoeg"
-      },
-      {
-         "name":"Zellha dea rovine",
-         "icon":"http://tinyurl.com/polkvmz",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
-      },
-      {
-         "name":"Deemo e la ragazza (Evoluzione)",
-         "icon":"http://tinyurl.com/pp5wj6h"
       }
    ]
 }
