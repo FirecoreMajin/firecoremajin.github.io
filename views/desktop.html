@@ -42,25 +42,30 @@
 						<table border="0" style="width: 100%;">
 							<tbody>
 								<tr ng-repeat="x in next | filter:filterGroups3">
-									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
-										href="{{x.link}}" target="_blank"> <img src="{{x.icon}}"
-											style="display: block;" /> <span style="display: block;">{{x.name}}</span>
-									</a><span class="label label-primary">{{'- ' +
-											x.vote + ' -'}}</span><br /> <br /> <span style="display: block;">{{x.reason}}</span></td>
-									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
-										href="{{next[x._index+1].link}}" target="_blank"> <img
-											src="{{next[x._index+1].icon}}" style="display: block;" /> <span
-											style="display: block;">{{next[x._index+1].name}}</span>
-									</a><span class="label label-primary">{{'- ' +
-											next[x._index+1].vote + ' -'}}</span><br /> <br /> <span
-										style="display: block;">{{next[x._index+1].reason}}</span></td>
-									<td valign="top" align="center" width="33%" style="padding: 5px;"><a
-										href="{{next[x._index+2].link}}" target="_blank"> <img
-											src="{{next[x._index+2].icon}}" style="display: block;" /> <span
-											style="display: block;">{{next[x._index+2].name}}</span>
-									</a><span class="label label-primary">{{'- ' +
-											next[x._index+2].vote + ' -'}}</span><br /> <br /> <span
-										style="display: block;">{{next[x._index+2].reason}}</span></td>
+									<td valign="top" align="center" width="33%" style="padding: 5px;">
+										<a href="{{x.link}}" target="_blank">
+											<img src="{{x.icon}}" style="display: block;" />
+											<div>{{x.name}}</div>
+										</a>
+										<div class="label label-primary">{{'- ' +	x.vote + ' -'}}</div>
+										<div ng-bind-html="x.reason | unsafe"></div>
+									</td>
+									<td valign="top" align="center" width="33%" style="padding: 5px;">
+										<a href="{{next[x._index+1].link}}" target="_blank">
+											<img src="{{next[x._index+1].icon}}" style="display: block;" />
+											<div>{{next[x._index+1].name}}</div>
+										</a>
+										<div class="label label-primary">{{'- ' + next[x._index+1].vote + ' -'}}</div>
+										<div ng-bind-html="next[x._index+1].reason | unsafe"></div>
+									</td>
+									<td valign="top" align="center" width="33%" style="padding: 5px;">
+										<a href="{{next[x._index+2].link}}" target="_blank">
+											<img src="{{next[x._index+2].icon}}" style="display: block;" />
+											<div>{{next[x._index+2].name}}</div>
+										</a>
+										<div class="label label-primary">{{'- ' + next[x._index+2].vote + ' -'}}</div>
+										<div ng-bind-html="next[x._index+2].reason | unsafe"></div>
+									</td>
 								</tr>
 							</tbody>
 						</table>

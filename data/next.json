@@ -1,18 +1,25 @@
 {  
   "next":[  
     {  
-      "name":"God Emperor Orwen",
+      "name":"Imperat. dio Orwen",
       "icon":"http://tinyurl.com/nsye48j",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/God_Emperor_Orwen",
-      "vote":"Scarsa",
-      "reason":"Evocate se vi piace esteticamente...ma c'è di meglio"
+      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Imperat._dio_Orwen",
+      "vote":"Discreta",
+      "reason":"LS che ignora la difesa (15% prob) e aumenta il BB attaccando (50% prob x 5 BC). Un SBB10 che oltre ad attaccare boosta l'attacco alleato e aggiunge ignora difesa per 2 turni."
     },
     {  
       "name":"Ice God Arius",
       "icon":"http://tinyurl.com/pso5jsx",
       "link":"http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
       "vote":"Decente",
-      "reason":"Non è malvagia ma non è necessaria a nulla."
+      "reason":"Un discreto supporto che attacca, con SBB10 che cura da 2000 a 2300 HP e con l'Ls aumenta l'efficacia degli HC."
+    },
+    {  
+      "name":"Brave God Hogar",
+      "icon":"http://tinyurl.com/o4emxmb",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
+      "vote":"Buona",
+      "reason":"LS che aumenta del 75% i danni durante Spark e SBB che boosta l'attacco alleato, aumentando il proprio rilascio di BC sull SBB e del Critical Chance"
     },
     {  
       "name":"Flora Goddess Faris",
@@ -27,13 +34,6 @@
       "link":"http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
       "vote":"Decente",
       "reason":"Utilizzabilissima se non si ha di meglio, ma non ha un suo vero e proprio ruolo ed è surclassato dal resto del batch."
-    },
-    {  
-      "name":"Brave God Hogar",
-      "icon":"http://tinyurl.com/o4emxmb",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
-      "vote":"Buona",
-      "reason":"Versatile e tra i top damage, un'unità altamente sottovalutata ma di una potenza devastante."
     },
     {  
       "name":"Inferno Goddess Elza",

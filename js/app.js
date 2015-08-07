@@ -53,6 +53,13 @@ app.controller('BFUnitMainCtrl', function($scope, $route) {
 			$scope.menuOpen = ($scope.menuOpen == 'true') ? 'false' : 'true';
 		}
 	});
+
+});
+
+app.filter('unsafe', function($sce) {
+    return function(val) {
+        return $sce.trustAsHtml(val);
+    };
 });
 
 app.controller('BFUnitMobileCtrl', function($scope, $http) {
