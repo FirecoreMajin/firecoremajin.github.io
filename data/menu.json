@@ -1,0 +1,14 @@
+[
+  {"label": "Menu 1"},
+  {"label": "Menu 2"},
+  {
+    "label": "Menu 3",
+    "items": [
+      {"label": "Menu 3.1"},
+      {"label": "Menu 3.2"},
+      {"label": "Menu 3.3"}
+      ]
+  },
+  {"label": "Menu 4"},
+  {"label": "Menu 5"}
+]
