@@ -1,9 +1,9 @@
 {"mitems":[
 	{"label":"Home", "id":"home"},
 	{"label":"Unit Update", "submenu":{"mitems":[
-		{"label":"Next 6✩ EU", "id":"eu6"},
-		{"label":"Next 6✩ GL", "id":"gl6"},
-		{"label":"Next 7✩ GL", "id":"gl7"}	
+		{"label":"Next 6✩ EU", "id":"next6eu"},
+		{"label":"Next 6✩ GL", "id":"next6gl"},
+		{"label":"Next 7✩ GL", "id":"next7gl"}	
 	]}},
 	{"label":"Team tips", "submenu":{"mitems":[
 		{"label":"BB Spam", "id":"tbbspam"},
