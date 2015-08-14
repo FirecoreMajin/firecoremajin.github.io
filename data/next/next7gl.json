@@ -1,0 +1,67 @@
+{  
+  "units":[  
+    {  
+      "name":"Dark Legend Magress",
+      "icon":"http://tinyurl.com/oa44po6",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Earth Legend Lance",
+      "icon":"http://tinyurl.com/q4fbxre",
+      "vote":"Decente"
+    },
+    {  
+      "name":"Flame Legend Vargas",
+      "icon":"http://tinyurl.com/nzuntbr",
+      "vote":"Decente"
+    },
+    {  
+      "name":"Light Legend Atro",
+      "icon":"http://tinyurl.com/q5hueod",
+      "vote":"Buona"
+    },
+    {  
+      "name":"Ice Legend Selena",
+      "icon":"http://tinyurl.com/o436mqc",
+      "vote":"Ottima",
+      "description":"Guadagna il voto di ottima solo per l'utilità in arena"
+    },
+    {  
+      "name":"Thunder Legend Eze",
+      "icon":"http://tinyurl.com/pem3mud",
+      "vote":"Scarsa"
+    },
+    {  
+      "name":"Angelic Blades Selfia",
+      "icon":"http://tinyurl.com/q3s5s6y"
+    },
+    {  
+      "name":"Celestial Archer Loch",
+      "icon":"http://tinyurl.com/ntmxm8p"
+    },
+    {  
+      "name":"Demonic Idol Kikuri",
+      "icon":"http://tinyurl.com/oqd5sq7"
+    },
+    {  
+      "name":"Flora Aegis Edea",
+      "icon":"http://tinyurl.com/n9woakb",
+      "description":"Sentendo in giro diventerà un'unità quasi essenziale, utile in molte occasioni",
+      "vote":"Ottima"
+    },
+    {  
+      "name":"Inferno Princess Alice",
+      "icon":"http://tinyurl.com/phznj9z"
+    },
+    {  
+      "name":"Leviathan Sage Elimo",
+      "icon":"http://tinyurl.com/o4t5qct",
+      "description":"Fa da healer, DM, Def Buff e Ails Remover tutto in uno. Senza contare che la UBB mitiga il 75% per 3 turni",
+      "vote":"Eccezionale"
+    },
+    {  
+      "name":"Phoenix Wings Lava",
+      "icon":"http://tinyurl.com/ovo4as8"
+    }
+  ]
+}

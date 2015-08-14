@@ -1,0 +1,46 @@
+{  
+  "units":[  
+    {  
+      "name":"Imperat. dio Orwen",
+      "icon":"http://tinyurl.com/nsye48j",
+      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Imperat._dio_Orwen",
+      "vote":"Decente",
+      "description":"LS che ignora la difesa (15% prob) e aumenta il BB attaccando (50% prob x 5 BC). Un SBB10 che oltre ad attaccare boosta l'attacco alleato e aggiunge ignora difesa per 2 turni."
+    },
+    {  
+      "name":"Ice God Arius",
+      "icon":"http://tinyurl.com/pso5jsx",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Ice_God_Arius",
+      "vote":"Decente",
+      "description":"Un discreto supporto che attacca, con SBB10 che cura da 2000 a 2300 HP e con l'Ls aumenta l'efficacia degli HC."
+    },
+    {  
+      "name":"Brave God Hogar",
+      "icon":"http://tinyurl.com/o4emxmb",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar",
+      "vote":"Buona",
+      "description":"LS che aumenta del 75% i danni durante Spark e SBB che boosta l'attacco alleato, aumentando il proprio rilascio di BC sull SBB e del Critical Chance"
+    },
+    {  
+      "name":"Flora Goddess Faris",
+      "icon":"http://tinyurl.com/o4detnm",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Flora_Goddess_Faris",
+      "vote":"Decente",
+      "description":"LS che aumenta l'efficacia dei BC, BB con 30 hit di terra su un solo nemico e SBB con 20 hit di terra su tutti con boost del critical chance per 3 turni, sia BB che SBB aumentano il rilascio di HC solo per lei."
+    },
+    {  
+      "name":"God Engineer Garnan",
+      "icon":"http://tinyurl.com/ndv7p5p",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/God_Engineer_Garnan",
+      "vote":"Decente",
+      "description":"LS che aumenta il danno e la produzione di BC durante gli Spark, SBB con 13 hit di tuono su tutti, boost del critical chance e del danno durante lo Spark."
+    },
+    {  
+      "name":"Inferno Goddess Elza",
+      "icon":"http://tinyurl.com/odc3bke",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Inferno_Goddess_Elza",
+      "vote":"Ottima",
+      "description":"LS che aumenta l'efficacia dei BC e SBB con 30 hit di Oscurità su tutti, probabilità di applicare maledizione e boost del danno durante gli Spark per 3 turni."
+    }
+  ]
+ }

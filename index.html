@@ -1,20 +1,50 @@
 <!doctype html>
-<html ng-app="BFUnitApp" lang="it" ng-controller="BFUnitMainCtrl">
+<html>
 	<head>
-		<title>Brave Frontier Unit Europa</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<script type="text/javascript" src="angular-1.4.1/angular.min.js"></script>
-		<script type="text/javascript" src="angular-1.4.1/angular-route.min.js"></script>
-		<script type="text/javascript" src="bootstrap-3.3.5/js/jquery-1.11.3.min.js"></script>
-		<script type="text/javascript" src="bootstrap-3.3.5/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/app.js"></script>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">		
 		
-		<link rel="stylesheet" ng-href="{{_css}}" ng-repeat="_css in css">
+		<title>Brave Frontier Unit Europa</title>
+
+		<style>
+			/** Example rules used by the template application (remove for your app) */
+			h1 {
+			  font-size: 2em;
+			  font-weight: bold;
+			  color: #777777;
+			  margin: 40px 0px 70px;
+			  text-align: center;
+			}
+			
+			.sendButton {
+			  display: block;
+			  font-size: 16pt;
+			}
+			
+			/** Most GWT widgets already have a style name defined */
+			.gwt-DialogBox {
+			  width: 400px;
+			}
+			
+			.dialogVPanel {
+			  margin: 5px;
+			}
+			
+			.serverResponseLabelError {
+			  color: red;
+			}
+			
+			/** Set ids using widget.getElement().setId("idOfElement") */
+			#closeButton {
+			  margin: 15px 6px 6px;
+			}
+		
+		</style>
+		<script src="./bfuniteu/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+		<script type="text/javascript" src="bfuniteu/bfuniteu.nocache.js"></script>
+		
 	</head>
-	
+		
 	<body>
-		<div ng-view></div>
 	</body>
 </html>
