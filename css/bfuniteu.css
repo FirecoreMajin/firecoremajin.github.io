@@ -1,0 +1,139 @@
+body {
+	padding-bottom: 2.5em;
+	width: 100%;
+}
+
+.banner {
+	max-height: 10em;
+	width: 100%;
+}
+
+nav {
+	width: 100%;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 2em;
+	background: #fff;
+	padding-left: 2em;
+}
+
+.unit-list {
+	width: 100%;
+	display: -webkit-flex !important;
+	display: flex;
+	flex-flow: row wrap;
+	-webkit-flex-flow: row wrap;
+	justify-content: center;
+	-webkit-justify-content: center;
+	align-items: stretch;
+	-webkit-align-items: stretch;
+}
+
+.unit-panel {
+	margin: 1em;
+	min-width: 31em;
+	max-width: 31em;
+}
+
+.panel-body .well {
+	margin-top: 1em;
+	margin-bottom: 0;
+	font-size: .9em;
+}
+
+.unit-header {
+	width: 100%;
+	display: -webkit-flex;
+	display: flex;
+	flex-flow: row nowrap;
+	-webkit-flex-flow: row nowrap;
+}
+
+.unit-title {
+	font-size: 1.5em;
+	flex: 1;
+	-webkit-flex: 1;
+	margin-left: .7em;
+	margin-top: -0.1em;
+}
+
+.unit-title-label {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.unit-title-label:hover {
+	text-decoration: underline;
+}
+
+.unit-title .badge {
+	margin-top: -0.1em;
+	color: #F9C710;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.unit-subtitle {
+	margin-top: -0.4em;
+	font-size: 0.6em;
+	display: block;
+}
+
+.unit-links div {
+	margin: 0.2em 0;
+	cursor: pointer;
+	cursor: hand;
+}
+
+@media screen and (min-width: 59.8em) and (max-width: 89em) {
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+	}
+}
+
+@media only screen and (min-width: 59.8em) {
+	body {
+		display: -webkit-flex;
+		display: flex;
+		flex-flow: column wrap;
+		-webkit-flex-flow: column wrap;
+	}
+	nav {
+		position: relative !important;
+	}
+	.unit-list {
+		flex: 2;
+		-webkit-flex: 2;
+		-webkit-flex-grow: 2;
+	}
+}
+
+@media only screen and (max-width: 59.8em) {
+	.banner {
+		height: 5em
+	}
+	body {
+		padding-top: 10em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+	.banner {
+		height: 5em
+	}
+	body {
+		padding-top: 10em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+}

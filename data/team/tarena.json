@@ -3,6 +3,35 @@
       {  
          "name":"Ofelia reg. lotta",
          "icon":"http://tinyurl.com/nt3ofap"
+      },
+      {  
+         "name":"Zurg dio rovina",
+         "subtitle":"Leader",
+         "vote":"★★★",
+         "icon":"http://tinyurl.com/p5g3kk8",
+         "description":"LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% "
+      },
+      {  
+         "name":"Dia princ. inferi",
+         "icon":"http://tinyurl.com/nkx2h3x"
+      },
+      {  
+         "name":"Luther dio audace",
+         "icon":"http://tinyurl.com/nkgstqj",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+      },
+      {  
+         "name":"Zefiro sign. nero",
+         "icon":"http://tinyurl.com/qj86uau"
+      },
+      {  
+         "name":"Uda dio violento",
+         "icon":"http://tinyurl.com/q3ms8cu"
+      },
+      {  
+         "name":"Brave God Hogar",
+         "icon":"http://tinyurl.com/o4emxmb",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar"
       }
    ]
 }
