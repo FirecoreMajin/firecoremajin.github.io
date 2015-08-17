@@ -184,6 +184,7 @@ footer {
 @media only screen and (min-device-width : 320px) and (max-device-width
 	: 568px) {
 	.unit-panel {
+		font-size: .9em;
 		min-width: 100%;
 		max-width: 100%;
 	}
