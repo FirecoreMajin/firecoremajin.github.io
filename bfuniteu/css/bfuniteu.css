@@ -166,6 +166,10 @@ footer {
 }
 
 @media only screen and (max-width: 59.8em) {
+	.unit-panel {
+		min-width: 100%;
+		max-width: 100%;
+	}
 	.banner {
 		height: 5em
 	}
@@ -179,6 +183,10 @@ footer {
 
 @media only screen and (min-device-width : 320px) and (max-device-width
 	: 568px) {
+	.unit-panel {
+		min-width: 100%;
+		max-width: 100%;
+	}
 	.banner {
 		height: 5em
 	}
