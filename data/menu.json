@@ -5,7 +5,7 @@
 		{"label":"Prossime 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
 		{"label":"Prossime 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
 	]}},
-	{"label":"Category", "submenu":{"mitems":[
+	{"label":"Categorie", "submenu":{"mitems":[
 		{"label":"Mitigatori", "id":"mitigator"},	
 		{"label":"Curatori", "id":"healer"}	
 	]}},
