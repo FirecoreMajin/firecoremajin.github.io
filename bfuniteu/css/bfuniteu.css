@@ -34,6 +34,8 @@ footer {
 .unit-list {
 	width: 100%;
 
+		background-color: white;
+
 	display: flex;
 	display: -webkit-box;
 	display: -moz-box;
@@ -303,7 +305,7 @@ footer {
 @media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3)    {
 	.unit-title {
 		font-size: 1em;
-		background-color: red;
+		background-color: white;
 	}
 	.unit-panel {
 		font-size: .9em;
