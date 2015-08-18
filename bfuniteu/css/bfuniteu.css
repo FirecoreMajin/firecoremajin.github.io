@@ -248,6 +248,7 @@ footer {
 
 @media screen and (min-device-width: 1280px) and (max-width: 59.8em) {
 	.unit-panel {
+		min-width: 0;
 		max-width: none;
 	}
 	.banner {
