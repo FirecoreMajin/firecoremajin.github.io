@@ -1,15 +1,15 @@
 {"mitems":[
-	{"label":"Next Batch", "id":"next"},
-	{"label":"Unit Update", "submenu":{"mitems":[
-		{"label":"Next 6<b style=color:#F9C710>★</b> EU", "id":"next6eu"},
-		{"label":"Next 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
-		{"label":"Next 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
+	{"label":"Prossimo Batch", "id":"next"},
+	{"label":"Aggiornamenti", "submenu":{"mitems":[
+		{"label":"Prossime 6<b style=color:#F9C710>★</b> EU", "id":"next6eu"},
+		{"label":"Prossime 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
+		{"label":"Prossime 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
 	]}},
 	{"label":"Category", "submenu":{"mitems":[
 		{"label":"Mitigatori", "id":"mitigator"},	
 		{"label":"Curatori", "id":"healer"}	
 	]}},
-	{"label":"Team tips", "submenu":{"mitems":[
+	{"label":"Consigli sui team", "submenu":{"mitems":[
 		{"label":"BB Spam", "id":"tbbspam"},
 		{"label":"Crit Team", "id":"tcrit"},
 		{"label":"Tank Team", "id":"ttank"},
