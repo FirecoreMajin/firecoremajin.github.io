@@ -7,9 +7,14 @@
       {  
          "name":"Zurg dio rovina",
          "subtitle":"Leader",
-         "vote":"★★★",
-         "icon":"http://tinyurl.com/p5g3kk8",
-         "description":"LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% "
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
+         "description":"Molto utile in arena con la sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti",
+         "vote":"★★",
+         "votearena":"★★★★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "name":"Dia princ. inferi",
