@@ -6,7 +6,8 @@
 		{"label":"Next 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
 	]}},
 	{"label":"Category", "submenu":{"mitems":[
-		{"label":"Healer", "id":"healer"}	
+		{"label":"Mitigatori", "id":"mitigator"},	
+		{"label":"Curatori", "id":"healer"}	
 	]}},
 	{"label":"Team tips", "submenu":{"mitems":[
 		{"label":"BB Spam", "id":"tbbspam"},
