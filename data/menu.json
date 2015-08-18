@@ -1,5 +1,5 @@
 {"mitems":[
-	{"label":"Prossimo Batch", "id":"next"},
+	{"label":"Pross. Batch", "id":"next"},
 	{"label":"Aggiornamenti", "submenu":{"mitems":[
 		{"label":"Prossime 6<b style=color:#F9C710>★</b> EU", "id":"next6eu"},
 		{"label":"Prossime 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
@@ -9,10 +9,13 @@
 		{"label":"Mitigatori", "id":"mitigator"},	
 		{"label":"Curatori", "id":"healer"}	
 	]}},
-	{"label":"Consigli sui team", "submenu":{"mitems":[
+	{"label":"Team", "submenu":{"mitems":[
 		{"label":"BB Spam", "id":"tbbspam"},
 		{"label":"Crit Team", "id":"tcrit"},
 		{"label":"Tank Team", "id":"ttank"},
 		{"label":"Arena Team", "id":"tarena"}	
+	]}},
+	{"label":"Tutte le unità", "submenu":{"mitems":[
+		{"label":"Oscurità", "id":"dark"}
 	]}}
 ]}

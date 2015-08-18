@@ -13,7 +13,10 @@ nav {
 }
 
 nav .container {
+	font-size: .9em;
 	margin-left: 0;
+	margin-right: 0;
+	padding-right:0;
 }
 
 nav .navbar-brand, nav .nav-item {
@@ -205,6 +208,7 @@ footer {
 	margin: 0.2em 0;
 	cursor: pointer;
 	cursor: hand;
+	width: 5em;
 }
 
 @media screen and (min-device-width: 1280px) and (min-width: 59.8em) {
