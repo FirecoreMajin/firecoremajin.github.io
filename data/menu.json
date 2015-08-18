@@ -5,6 +5,9 @@
 		{"label":"Next 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
 		{"label":"Next 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
 	]}},
+	{"label":"Category", "submenu":{"mitems":[
+		{"label":"Healer", "id":"healer"}	
+	]}},
 	{"label":"Team tips", "submenu":{"mitems":[
 		{"label":"BB Spam", "id":"tbbspam"},
 		{"label":"Crit Team", "id":"tcrit"},
