@@ -192,11 +192,16 @@ footer {
 	.unit-list {
 		flex-flow: column nowrap;
 		-webkit-flex-flow: column nowrap;
+		justify-content: center;
+		-webkit-justify-content: center;
 	}
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px),
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px),
-@media only screen and (min-device-width : 320px) and (max-device-width: 568px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.unit-title {
+		font-size: 1em;
+	}
 	.unit-panel {
 		font-size: .9em;
 		min-width: 100%;
