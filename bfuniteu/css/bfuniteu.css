@@ -103,6 +103,10 @@ footer {
 	-webkit-flex-grow: 2;
 }
 
+.unit-panel .panel-body .well-sm {
+	padding: 2px
+}
+
 .unit-header {
 	width: 100%;
 	display: -webkit-flex;
@@ -190,7 +194,8 @@ footer {
 		-webkit-flex-flow: column nowrap;
 	}
 }
-
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px),
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px),
 @media only screen and (min-device-width : 320px) and (max-device-width: 568px) {
 	.unit-panel {
 		font-size: .9em;
