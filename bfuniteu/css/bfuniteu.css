@@ -34,8 +34,6 @@ footer {
 .unit-list {
 	width: 100%;
 
-		background-color: red;
-
 	display: flex;
 	display: -webkit-box;
 	display: -moz-box;
@@ -209,7 +207,44 @@ footer {
 	cursor: hand;
 }
 
-@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) and (min-width: 59.8em),
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) and (min-width: 59.8em) {
+	body {
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		flex-flow: column wrap;
+		-webkit-flex-flow: column wrap;
+		-webkit-box-flex-flow: column wrap;
+		-moz-flex-flow: column wrap;
+		-ms-flex-flow: column wrap;
+	}
+	nav {
+		position: relative !important;
+	}
+	
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-box-justify-content: flex-start;
+		-moz-justify-content: flex-start;
+		-ms-justify-content: flex-start;
+		
+		flex: 2;
+		-webkit-flex: 2;
+		-webkit-box-flex: 2;
+		-moz-flex: 2;
+		-ms-flex: 2;
+		
+		flex-grow: 2;
+		-webkit-flex-grow: 2;
+		-webkit-box-flex-grow: 2;
+		-moz-flex-grow: 2;
+		-ms-flex-grow: 2;
+	}
+}
+
 @media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) and (min-width: 59.8em) {
 	body {
 		display: -webkit-box;
@@ -248,7 +283,35 @@ footer {
 	}
 }
 
-@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) and (max-width: 59.8em),
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) and (max-width: 59.8em) {
+	.unit-panel {
+		max-width: none;
+	}
+	.banner {
+		height: 5em
+	}
+	body {
+		padding-top: 10em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		flex-flow: column nowrap;
+		-webkit-flex-flow: column nowrap;
+		-webkit-box-flex-flow: column nowrap;
+		-moz-flex-flow: column nowrap;
+		-ms-flex-flow: column nowrap;
+
+		justify-content: center;
+		-webkit-justify-content: center;
+		-webkit-box-justify-content: center;
+		-moz-justify-content: center;
+		-ms-justify-content: center;
+	}
+}
+
+
 @media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) and (max-width: 59.8em) {
 	.unit-panel {
 		max-width: none;
@@ -277,10 +340,85 @@ footer {
 	}
 }
 
-@media (min-device-width: 800px) and (max-device-width: 1280px),
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1),
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2),
-@media screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332),  
+@media (min-device-width: 800px) and (max-device-width: 1280px) {
+	.banner {
+		height: 15em
+	}
+	body {
+		padding-top: 15em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-box-justify-content: flex-start;
+		-moz-justify-content: flex-start;
+		-ms-justify-content: flex-start;
+	}
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+	.banner {
+		height: 15em
+	}
+	body {
+		padding-top: 15em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-box-justify-content: flex-start;
+		-moz-justify-content: flex-start;
+		-ms-justify-content: flex-start;
+	}
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+	.banner {
+		height: 15em
+	}
+	body {
+		padding-top: 15em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-box-justify-content: flex-start;
+		-moz-justify-content: flex-start;
+		-ms-justify-content: flex-start;
+	}
+}
+
+
+@media screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) {
+	.banner {
+		height: 15em
+	}
+	body {
+		padding-top: 15em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		justify-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-box-justify-content: flex-start;
+		-moz-justify-content: flex-start;
+		-ms-justify-content: flex-start;
+	}
+}
+
 @media only screen and (min-device-width: 800px) and (max-device-width: 1280px) and (-webkit-min-device-pixel-ratio: 1.5) {
 	.banner {
 		height: 15em
@@ -300,12 +438,71 @@ footer {
 	}
 } 
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px),
-@media only screen and (min-device-width : 414px) and (max-device-width : 736px),
-@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3)    {
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
 	.unit-title {
 		font-size: 1em;
-		background-color: white;
+	}
+	.unit-panel {
+		font-size: .9em;
+		min-width: 0;
+		max-width: none;
+	}
+	.unit-list.container {
+		padding: 0;
+		margin:0;
+	}
+	.banner {
+		height: 5em
+	}
+	body {
+		padding-top: 10em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		flex-flow: column nowrap;
+		-webkit-flex-flow: column nowrap;
+		-ms-flex-flow: column nowrap;
+		-moz-flex-flow: column nowrap;
+		-webkit-box-flex-flow: column nowrap;
+	}
+}
+
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
+	.unit-title {
+		font-size: 1em;
+	}
+	.unit-panel {
+		font-size: .9em;
+		min-width: 0;
+		max-width: none;
+	}
+	.unit-list.container {
+		padding: 0;
+		margin:0;
+	}
+	.banner {
+		height: 5em
+	}
+	body {
+		padding-top: 10em;
+	}
+	footer {
+		padding-left: .7em;
+	}
+	.unit-list {
+		flex-flow: column nowrap;
+		-webkit-flex-flow: column nowrap;
+		-ms-flex-flow: column nowrap;
+		-moz-flex-flow: column nowrap;
+		-webkit-box-flex-flow: column nowrap;
+	}
+}
+
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+	.unit-title {
+		font-size: 1em;
 	}
 	.unit-panel {
 		font-size: .9em;
