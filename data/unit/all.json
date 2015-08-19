@@ -1,0 +1,1006 @@
+{  
+   "units":[  
+      {  
+         "id":"317",
+         "name":"Zebra Dio folle",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/9/9a/Unit_ills_thum_60234.png/revision/latest/scale-to-width-down/42?cb=20141105163415&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zebra_Dio_folle"
+      },
+      {  
+         "id":"319",
+         "name":"Seria Dea spade",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/7/7c/Unit_ills_thum_10234.png/revision/latest/scale-to-width-down/42?cb=20141026220242&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Seria_Dea_spade"
+      },
+      {  
+         "id":"320",
+         "name":"Zegar Re bestia",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/6/63/Unit_ills_thum_10024.png/revision/latest/scale-to-width-down/42?cb=20141026220247&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zegar_Re_bestia"
+      },
+      {  
+         "id":"321",
+         "name":"Zephu eroe draghi",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/fa/Unit_ills_thum_20024.png/revision/latest/scale-to-width-down/42?cb=20141027153151&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zephu_eroe_draghi"
+      },
+      {  
+         "id":"322",
+         "name":"Lario Dio arco",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/9c/Unit_ills_thum_30024.png/revision/latest/scale-to-width-down/42?cb=20141106101934&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lario_Dio_arco"
+      },
+      {  
+         "id":"323",
+         "name":"Generale Weiss",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/1/16/Unit_ills_thum_40024.png/revision/latest/scale-to-width-down/42?cb=20141106102447&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Generale_Weiss"
+      },
+      {  
+         "id":"324",
+         "name":"Luna la santa",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/66/Unit_ills_thum_50024.png/revision/latest/scale-to-width-down/42?cb=20141106143227&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Luna_la_santa"
+      },
+      {  
+         "id":"325",
+         "name":"Ryujin Mifune",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/b2/Unit_ills_thum_60024.png/revision/latest/scale-to-width-down/42?cb=20141106144731&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ryujin_Mifune"
+      },
+      {  
+         "id":"335",
+         "name":"Karl guerriero",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/0/00/Unit_ills_thum_20234.png/revision/latest/scale-to-width-down/42?cb=20141106164320&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Karl_guerriero"
+      },
+      {  
+         "id":"337",
+         "name":"Lugina Re di Gaia",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/27/Unit_ills_thum_30234.png/revision/latest/scale-to-width-down/42?cb=20141106164709&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lugina_Re_di_Gaia"
+      },
+      {  
+         "id":"338",
+         "name":"Vargas sacrofuoco",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/8/8e/Unit_ills_thum_10015.png/revision/latest/scale-to-width-down/42?cb=20141026220302&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Vargas_sacrofuoco"
+      },
+      {  
+         "id":"339",
+         "name":"Selena gelo sacro",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/a/a5/Unit_ills_thum_20015.png/revision/latest/scale-to-width-down/42?cb=20141027141924&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Selena_gelo_sacro"
+      },
+      {  
+         "id":"340",
+         "name":"Lance terra sacra",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/e/e2/Unit_ills_thum_30015.png/revision/latest/scale-to-width-down/42?cb=20141107094600&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lance_terra_sacra"
+      },
+      {  
+         "id":"341",
+         "name":"Eze tuono sacro",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/c7/Unit_ills_thum_40015.png/revision/latest/scale-to-width-down/42?cb=20141107095555&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eze_tuono_sacro"
+      },
+      {  
+         "id":"342",
+         "name":"Atro luce sacra",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/f9/Unit_ills_thum_50015.png/revision/latest/scale-to-width-down/42?cb=20141107095822&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Atro_luce_sacra"
+      },
+      {  
+         "id":"343",
+         "name":"Magress empio",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/7/76/Unit_ills_thum_60015.png/revision/latest/scale-to-width-down/42?cb=20141107100036&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Magress_empio",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69828700"
+      },
+      {  
+         "id":"344",
+         "name":"Gilnea con chiave",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/e4/Unit_ills_thum_50344.png/revision/latest/scale-to-width-down/42?cb=20150209205209&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gilnea_con_chiave"
+      },
+      {  
+         "id":"364",
+         "name":"Dalimaone",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/a/ac/Unit_ills_thum_10094.png/revision/latest/scale-to-width-down/42?cb=20150119153323&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dalimaone"
+      },
+      {  
+         "id":"365",
+         "name":"Meltia",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/3/37/Unit_ills_thum_20094.png/revision/latest/scale-to-width-down/42?cb=20150119153332&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Meltia"
+      },
+      {  
+         "id":"366",
+         "name":"Lemenara",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/1/14/Unit_ills_thum_30094.png/revision/latest/scale-to-width-down/42?cb=20150119153345&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lemenara"
+      },
+      {  
+         "id":"367",
+         "name":"Zazabis",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/c3/Unit_ills_thum_40094.png/revision/latest/scale-to-width-down/42?cb=20150119153352&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zazabis"
+      },
+      {  
+         "id":"368",
+         "name":"Jona leggendaria",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/c/cf/Unit_ills_thum_50084.png/revision/latest/scale-to-width-down/42?cb=20150119153407&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Jona_leggendaria"
+      },
+      {  
+         "id":"369",
+         "name":"Legione",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_60084.png/revision/latest/scale-to-width-down/42?cb=20150119153417&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Legione"
+      },
+      {  
+         "id":"370",
+         "name":"Fenice rinata",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/3/3f/Unit_ills_thum_10115.png/revision/latest/scale-to-width-down/42?cb=20150119152429&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Fenice_rinata"
+      },
+      {  
+         "id":"371",
+         "name":"Felneus",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/a/a8/Unit_ills_thum_20115.png/revision/latest/scale-to-width-down/42?cb=20150119152438&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Felneus",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
+      },
+      {  
+         "id":"372",
+         "name":"Altri Albero alfa",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/12/Unit_ills_thum_30115.png/revision/latest/scale-to-width-down/42?cb=20150119152459&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Altri_Albero_alfa",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69984744",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votearena":"★"
+      },
+      {  
+         "id":"373",
+         "name":"Behemoth omega",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/a/a3/Unit_ills_thum_40115.png/revision/latest/scale-to-width-down/42?cb=20150119152509&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Behemoth_omega"
+      },
+      {  
+         "id":"374",
+         "name":"Duelmex",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/1d/Unit_ills_thum_50105.png/revision/latest/scale-to-width-down/42?cb=20150119152518&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Duelmex"
+      },
+      {  
+         "id":"375",
+         "name":"Dilias infernale",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/a/af/Unit_ills_thum_60105.png/revision/latest/scale-to-width-down/42?cb=20150119152526&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dilias_infernale",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70059581"
+      },
+      {  
+         "id":"376",
+         "name":"Grahdens",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/0/0f/Unit_ills_thum_60324.png/revision/latest/scale-to-width-down/42?cb=20150409093407&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Grahdens"
+      },
+      {  
+         "id":"390",
+         "name":"Paris guardia",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/8/89/Unit_ills_thum_40234.png/revision/latest/scale-to-width-down/42?cb=20150208175430&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Paris_guardia"
+      },
+      {  
+         "id":"392",
+         "name":"Freya sib. lame",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/f/f8/Unit_ills_thum_10244.png/revision/latest/scale-to-width-down/42?cb=20150310135152&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Freya_sib._lame"
+      },
+      {  
+         "id":"394",
+         "name":"Eliza sib. neve",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/2a/Unit_ills_thum_20244.png/revision/latest/scale-to-width-down/42?cb=20150310215642&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eliza_sib._neve"
+      },
+      {  
+         "id":"396",
+         "name":"Paula sib. rosa",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/ed/Unit_ills_thum_30244.png/revision/latest/scale-to-width-down/42?cb=20150310215651&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Paula_sib._rosa"
+      },
+      {  
+         "id":"398",
+         "name":"Zele sib. lampo",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d5/Unit_ills_thum_40244.png/revision/latest/scale-to-width-down/42?cb=20150310215702&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zele_sib._lampo"
+      },
+      {  
+         "id":"400",
+         "name":"Sola sib. raggio",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/ba/Unit_ills_thum_50264.png/revision/latest/scale-to-width-down/42?cb=20150310215730&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Sola_sib._raggio"
+      },
+      {  
+         "id":"402",
+         "name":"Madia sib. notte",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/7/72/Unit_ills_thum_60244.png/revision/latest/scale-to-width-down/42?cb=20150310215748&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Madia_sib._notte"
+      },
+      {  
+         "id":"428",
+         "name":"Dea Tilith",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/1f/Unit_ills_thum_50254.png/revision/latest/scale-to-width-down/42?cb=20150421221442&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Tilith"
+      },
+      {  
+         "id":"435",
+         "name":"Galant supremo",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_10144.png/revision/latest/scale-to-width-down/42?cb=20150225215801&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Galant_supremo"
+      },
+      {  
+         "id":"436",
+         "name":"Stya madre neve",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/39/Unit_ills_thum_20144.png/revision/latest/scale-to-width-down/42?cb=20150225215811&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Stya_madre_neve"
+      },
+      {  
+         "id":"437",
+         "name":"Nemia pugno sisma",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_30144.png/revision/latest/scale-to-width-down/42?cb=20150225215823&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Nemia_pugno_sisma"
+      },
+      {  
+         "id":"438",
+         "name":"Zeln del fulmine",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/6/64/Unit_ills_thum_40144.png/revision/latest/scale-to-width-down/42?cb=20150225215833&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zeln_del_fulmine"
+      },
+      {  
+         "id":"439",
+         "name":"Alma l'impavida",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/b/bb/Unit_ills_thum_50144.png/revision/latest/scale-to-width-down/42?cb=20150225215852&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Alma_l%27impavida"
+      },
+      {  
+         "id":"440",
+         "name":"Oboro ombra rossa",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/2/2e/Unit_ills_thum_60154.png/revision/latest/scale-to-width-down/42?cb=20150225215859&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Oboro_ombra_rossa"
+      },
+      {  
+         "id":"441",
+         "name":"Lava fiamma sacra",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/dd/Unit_ills_thum_10125.png/revision/latest/scale-to-width-down/42?cb=20150225220122&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lava_fiamma_sacra"
+      },
+      {  
+         "id":"442",
+         "name":"Re del mare Mega",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/d4/Unit_ills_thum_20125.png/revision/latest/scale-to-width-down/42?cb=20150225220129&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Re_del_mare_Mega"
+      },
+      {  
+         "id":"443",
+         "name":"Douglas sacro",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/3/38/Unit_ills_thum_30125.png/revision/latest/scale-to-width-down/42?cb=20150225220136&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Douglas_sacro",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
+      },
+      {  
+         "id":"444",
+         "name":"Emilia sacra",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/e8/Unit_ills_thum_40125.png/revision/latest/scale-to-width-down/42?cb=20150225220146&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Emilia_sacra"
+      },
+      {  
+         "id":"445",
+         "name":"Will guardia",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/fa/Unit_ills_thum_50115.png/revision/latest/scale-to-width-down/42?cb=20150225220158&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Will_guardia"
+      },
+      {  
+         "id":"446",
+         "name":"Alice mietitrice",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/e7/Unit_ills_thum_60115.png/revision/latest/scale-to-width-down/42?cb=20150225220206&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Alice_mietitrice",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70412574"
+      },
+      {  
+         "id":"471",
+         "name":"Lancia super chef",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/1/1f/Unit_ills_thum_10155.png/revision/latest/scale-to-width-down/42?cb=20150415202623&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lancia_super_chef",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819",
+         "vote":"★★",
+         "votetrial":"★★",
+         "votevortex":"★★",
+         "votearena":"★★"
+      },
+      {  
+         "id":"472",
+         "name":"Elimo mago saggio",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/a/ae/Unit_ills_thum_20155.png/revision/latest/scale-to-width-down/42?cb=20150415202632&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Elimo_mago_saggio",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votearena":"★★"
+      },
+      {  
+         "id":"473",
+         "name":"Leore lord",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/5/55/Unit_ills_thum_30155.png/revision/latest/scale-to-width-down/42?cb=20150415202640&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Leore_lord"
+      },
+      {  
+         "id":"474",
+         "name":"Elulu mazza tesla",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/23/Unit_ills_thum_40155.png/revision/latest/scale-to-width-down/42?cb=20150415202648&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Elulu_mazza_tesla"
+      },
+      {  
+         "id":"475",
+         "name":"Aem spadaccino",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/2/20/Unit_ills_thum_50155.png/revision/latest/scale-to-width-down/42?cb=20150415202657&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Aem_spadaccino"
+      },
+      {  
+         "id":"476",
+         "name":"Lemia delle anime",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/b9/Unit_ills_thum_60165.png/revision/latest/scale-to-width-down/42?cb=20150415202705&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lemia_delle_anime"
+      },
+      {  
+         "id":"477",
+         "name":"Sapiente Lorand",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_10165.png/revision/latest/scale-to-width-down/42?cb=20150415202714&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Sapiente_Lorand"
+      },
+      {  
+         "id":"478",
+         "name":"Dean maestro",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/c/cf/Unit_ills_thum_20165.png/revision/latest/scale-to-width-down/42?cb=20150415202721&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dean_maestro"
+      },
+      {  
+         "id":"479",
+         "name":"Edea di Gaia",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/d/de/Unit_ills_thum_30165.png/revision/latest/scale-to-width-down/42?cb=20150415202728&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Edea_di_Gaia"
+      },
+      {  
+         "id":"480",
+         "name":"Loch arco celeste",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/6/6d/Unit_ills_thum_40165.png/revision/latest/scale-to-width-down/42?cb=20150415202736&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Loch_arco_celeste"
+      },
+      {  
+         "id":"482",
+         "name":"Aisha ang. draghi",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/e/ef/Unit_ills_thum_10215.png/revision/latest/scale-to-width-down/42?cb=20150409094158&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Aisha_ang._draghi"
+      },
+      {  
+         "id":"483",
+         "name":"Rickel due armi",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/e/ee/Unit_ills_thum_20215.png/revision/latest/scale-to-width-down/42?cb=20150409094213&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rickel_due_armi"
+      },
+      {  
+         "id":"484",
+         "name":"Gaians Il e Mina",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/d/da/Unit_ills_thum_30215.png/revision/latest/scale-to-width-down/42?cb=20150409094222&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gaians_Il_e_Mina"
+      },
+      {  
+         "id":"485",
+         "name":"Amy fulm. celeste",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_40215.png/revision/latest/scale-to-width-down/42?cb=20150409094230&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Amy_fulm._celeste"
+      },
+      {  
+         "id":"486",
+         "name":"Sefia lame sacre",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/eb/Unit_ills_thum_50165.png/revision/latest/scale-to-width-down/42?cb=20150409094237&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Sefia_lame_sacre",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
+      },
+      {  
+         "id":"487",
+         "name":"Kikuri dio morte",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/3a/Unit_ills_thum_60175.png/revision/latest/scale-to-width-down/42?cb=20150409094245&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Kikuri_dio_morte",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
+      },
+      {  
+         "id":"488",
+         "name":"Bordebegia",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/c9/Unit_ills_thum_10275.png/revision/latest/scale-to-width-down/42?cb=20150415202744&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Bordebegia"
+      },
+      {  
+         "id":"489",
+         "name":"Oulu forte gelo",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/6/61/Unit_ills_thum_20275.png/revision/latest/scale-to-width-down/42?cb=20150415202750&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Oulu_forte_gelo",
+         "vote":"★★★",
+         "votetrial":"★★★",
+         "votevortex":"★★★",
+         "votearena":"★"
+      },
+      {  
+         "id":"490",
+         "name":"Gravion",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/bd/Unit_ills_thum_30275.png/revision/latest/scale-to-width-down/42?cb=20150415202759&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gravion"
+      },
+      {  
+         "id":"491",
+         "name":"Ronel angelo caos",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/1/12/Unit_ills_thum_40275.png/revision/latest/scale-to-width-down/42?cb=20150415202810&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ronel_angelo_caos",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70765273"
+      },
+      {  
+         "id":"492",
+         "name":"Leorone",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/de/Unit_ills_thum_50305.png/revision/latest/scale-to-width-down/42?cb=20150415202846&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Leorone"
+      },
+      {  
+         "id":"493",
+         "name":"Lira mangia dèi",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/0/0a/Unit_ills_thum_60275.png/revision/latest/scale-to-width-down/42?cb=20150415202853&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lira_mangia_dèi"
+      },
+      {  
+         "id":"494",
+         "name":"Farlon spadarossa",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/9/9a/Unit_ills_thum_10335.png/revision/latest/scale-to-width-down/42?cb=20150415202901&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Farlon_spadarossa"
+      },
+      {  
+         "id":"495",
+         "name":"Signas reg. neve",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/9/95/Unit_ills_thum_20325.png/revision/latest/scale-to-width-down/42?cb=20150415202910&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Signas_reg._neve"
+      },
+      {  
+         "id":"496",
+         "name":"Luly dea caos",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/5/5e/Unit_ills_thum_30315.png/revision/latest/scale-to-width-down/42?cb=20150415202929&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Luly_dea_caos"
+      },
+      {  
+         "id":"497",
+         "name":"Rina regina oro",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/9/9c/Unit_ills_thum_40315.png/revision/latest/scale-to-width-down/42?cb=20150415202936&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lunaris_loto_nero"
+      },
+      {  
+         "id":"498",
+         "name":"Sodis capo guard.",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/1/17/Unit_ills_thum_50385.png/revision/latest/scale-to-width-down/42?cb=20150415202943&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Sodis_capo_guard."
+      },
+      {  
+         "id":"499",
+         "name":"Lunaris loto nero",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/f/f4/Unit_ills_thum_60315.png/revision/latest/scale-to-width-down/42?cb=20150415203051&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lunaris_loto_nero"
+      },
+      {  
+         "id":"502",
+         "name":"Ramna samba fuoco",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/b/bf/Unit_ills_thum_10365.png/revision/latest/scale-to-width-down/42?cb=20150415204008&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ramna_samba_fuoco"
+      },
+      {  
+         "id":"505",
+         "name":"Raydn re lancia",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/ec/Unit_ills_thum_20355.png/revision/latest/scale-to-width-down/42?cb=20150415204028&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Raydn_re_lancia"
+      },
+      {  
+         "id":"508",
+         "name":"Ofelia reg. lotta",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/6/6e/Unit_ills_thum_30345.png/revision/latest/scale-to-width-down/42?cb=20150415204119&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ofelia_reg._lotta"
+      },
+      {  
+         "id":"511",
+         "name":"Grybe dio mech",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/1/1a/Unit_ills_thum_40345.png/revision/latest/scale-to-width-down/42?cb=20150415204142&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Grybe_dio_mech"
+      },
+      {  
+         "id":"514",
+         "name":"Alyut luce divina",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_50405.png/revision/latest/scale-to-width-down/42?cb=20150415204213&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Alyut_luce_divina"
+      },
+      {  
+         "id":"517",
+         "name":"Zefiro sign. nero",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/e7/Unit_ills_thum_60355.png/revision/latest/scale-to-width-down/42?cb=20150415204237&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zefiro_sign._nero"
+      },
+      {  
+         "id":"524",
+         "name":"Michele dea ascia",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/f1/Unit_ills_thum_10255.png/revision/latest/scale-to-width-down/42?cb=20150511140717&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Michele_dea_ascia"
+      },
+      {  
+         "id":"525",
+         "name":"Tiara definitiva",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/ba/Unit_ills_thum_20255.png/revision/latest/scale-to-width-down/42?cb=20150529192412&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Tiara_definitiva"
+      },
+      {  
+         "id":"526",
+         "name":"Zelban imp. spade",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/b6/Unit_ills_thum_30255.png/revision/latest/scale-to-width-down/42?cb=20150529192412&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zelban_imp._spade"
+      },
+      {  
+         "id":"527",
+         "name":"Lodin drago",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/ba/Unit_ills_thum_40255.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lodin_drago"
+      },
+      {  
+         "id":"528",
+         "name":"Legatus Melchio",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/3/39/Unit_ills_thum_50275.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Legatus_Melchio"
+      },
+      {  
+         "id":"529",
+         "name":"Duel-SGX",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/28/Unit_ills_thum_60255.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Duel-SGX"
+      },
+      {  
+         "id":"532",
+         "name":"Dia princ. inferi",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fc/Unit_ills_thum_10375.png/revision/latest/scale-to-width-down/42?cb=20150528144417&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dia_princ._inferi"
+      },
+      {  
+         "id":"535",
+         "name":"Lucina dea blu",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/c/c2/Unit_ills_thum_20365.png/revision/latest/scale-to-width-down/42?cb=20150528144519&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lucina_dea_blu"
+      },
+      {  
+         "id":"538",
+         "name":"Darvan impavido",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/0/0a/Unit_ills_thum_30355.png/revision/latest/scale-to-width-down/42?cb=20150601214156&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Darvan_impavido"
+      },
+      {  
+         "id":"541",
+         "name":"Bran saggio fuoco",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/a/af/Unit_ills_thum_40355.png/revision/latest/scale-to-width-down/42?cb=20150601214157&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Bran_saggio_fuoco"
+      },
+      {  
+         "id":"544",
+         "name":"Themis eterno",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/f/f0/Unit_ills_thum_50415.png/revision/latest/scale-to-width-down/42?cb=20150528144608&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Themis_eterno"
+      },
+      {  
+         "id":"547",
+         "name":"Eric assolo tetro",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/9/98/Unit_ills_thum_60365.png/revision/latest/scale-to-width-down/42?cb=20150601214158&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eric_assolo_tetro"
+      },
+      {  
+         "id":"549",
+         "name":"Mare ardente",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/19/Unit_ills_thum_60484.png/revision/latest/scale-to-width-down/42?cb=20150511144946&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mare_ardente"
+      },
+      {  
+         "id":"555",
+         "name":"Vishra signore",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/c/cd/Unit_ills_thum_10285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Vishra_signore"
+      },
+      {  
+         "id":"556",
+         "name":"Reeze gigantron",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/5/59/Unit_ills_thum_20285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Reeze_gigantron"
+      },
+      {  
+         "id":"557",
+         "name":"Dilma pugno fiero",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/7/7a/Unit_ills_thum_30285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dilma_pugno_fiero"
+      },
+      {  
+         "id":"558",
+         "name":"Rashil mago cielo",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/e5/Unit_ills_thum_40285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rashil_mago_cielo"
+      },
+      {  
+         "id":"559",
+         "name":"Lilith devastante",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/b8/Unit_ills_thum_50315.png/revision/latest/scale-to-width-down/42?cb=20150601215856&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lilith_devastante"
+      },
+      {  
+         "id":"560",
+         "name":"Logan lame inferi",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/8/8f/Unit_ills_thum_60285.png/revision/latest/scale-to-width-down/42?cb=20150601215856&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Logan_lame_inferi"
+      },
+      {  
+         "id":"563",
+         "name":"Luther dio audace",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/6/65/Unit_ills_thum_10445.png/revision/latest/scale-to-width-down/42?cb=20150616144218&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Luther_dio_audace",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+      },
+      {  
+         "id":"566",
+         "name":"Phee dea tiranna",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/94/Unit_ills_thum_20435.png/revision/latest/scale-to-width-down/42?cb=20150616144219&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Phee_dea_tiranna"
+      },
+      {  
+         "id":"569",
+         "name":"Nalmika dea edera",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/fe/Unit_ills_thum_30425.png/revision/latest/scale-to-width-down/42?cb=20150616145144&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Nalmika_dea_edera"
+      },
+      {  
+         "id":"572",
+         "name":"Uda dio violento",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/cb/Unit_ills_thum_40425.png/revision/latest/scale-to-width-down/42?cb=20150616145145&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Uda_dio_violento"
+      },
+      {  
+         "id":"575",
+         "name":"Zellha dea rovine",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/8/87/Unit_ills_thum_50475.png/revision/latest/scale-to-width-down/42?cb=20150616144220&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zellha_dea_rovine",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
+      },
+      {  
+         "id":"578",
+         "name":"Kajah dio male",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/0f/Unit_ills_thum_60475.png/revision/latest/scale-to-width-down/42?cb=20150616152616&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Kajah_dio_male"
+      },
+      {  
+         "id":"591",
+         "name":"Maxwell creatore",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/0/02/Unit_ills_thum_50525.png/revision/latest/scale-to-width-down/42?cb=20150616155422&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Maxwell_creatore",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70999672",
+         "vote":"★★★★",
+         "votearena":"★★★★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
+      },
+      {  
+         "id":"612",
+         "name":"Darvanshel il guardiano",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/4/4c/Unit_ills_thum_10465.png/revision/latest/scale-to-width-down/42?cb=20150708140942&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Darvanshel_il_guardiano",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71233215"
+      },
+      {  
+         "id":"615",
+         "name":"Mariudeth dio delle asce",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/1/1c/Unit_ills_thum_20455.png/revision/latest/scale-to-width-down/42?cb=20150708143001&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mariudeth_dio_delle_asce"
+      },
+      {  
+         "id":"618",
+         "name":"Zelnite dio dei ladri",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/2/25/Unit_ills_thum_30445.png/revision/latest/scale-to-width-down/42?cb=20150714212522&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zelnite_dio_dei_ladri",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
+      },
+      {  
+         "id":"621",
+         "name":"Exvehl la Belva",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/c/c6/Unit_ills_thum_40445.png/revision/latest/scale-to-width-down/42?cb=20150714212524&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Exvehl_la_Belva"
+      },
+      {  
+         "id":"624",
+         "name":"Azael il serafino",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/0/00/Unit_ills_thum_50485.png/revision/latest/scale-to-width-down/42?cb=20150708143609&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Azael_il_serafino"
+      },
+      {  
+         "id":"627",
+         "name":"Lilly Matah la tiranna",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/2c/Unit_ills_thum_60495.png/revision/latest/scale-to-width-down/42?cb=20150714212527&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lilly_Matah_la_tiranna"
+      },
+      {  
+         "id":"676",
+         "name":"Zurg dio rovina",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
+         "vote":"★★",
+         "votearena":"★★★★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
+      },
+      {  
+         "id":"642",
+         "name":"Deemo e la ragazza (Evoluzione)",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/5/5f/Unit_ills_thum_50564.png/revision/latest/scale-to-width-down/42?cb=20150626142626&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Deemo_e_la_ragazza_(Evoluzione)"
+      },
+      {  
+         "id":"644",
+         "name":"Reed re delle spade",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/8/8b/Unit_ills_thum_10294.png/revision/latest/scale-to-width-down/42?cb=20150627121406&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Reed_re_delle_spade"
+      },
+      {  
+         "id":"646",
+         "name":"Rhein dio degli artigli",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/fc/Unit_ills_thum_20294.png/revision/latest/scale-to-width-down/42?cb=20150701012317&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rhein_dio_degli_artigli"
+      },
+      {  
+         "id":"648",
+         "name":"Aneil dio leale",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/8/8e/Unit_ills_thum_30294.png/revision/latest/scale-to-width-down/42?cb=20150709125935&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Aneil_dio_leale"
+      },
+      {  
+         "id":"650",
+         "name":"Lucana dea veloce",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_40294.png/revision/latest/scale-to-width-down/42?cb=20150714212523&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lucana_dea_veloce"
+      },
+      {  
+         "id":"652",
+         "name":"Nevsky il dio corazzato",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fa/Unit_ills_thum_50324.png/revision/latest/scale-to-width-down/42?cb=20150714212525&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Nevsky_il_dio_corazzato"
+      },
+      {  
+         "id":"654",
+         "name":"Eru il dio lamadoppia",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/3/39/Unit_ills_thum_60294.png/revision/latest/scale-to-width-down/42?cb=20150714212525&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eru_il_dio_lamadoppia"
+      },
+      {  
+         "id":"657",
+         "name":"Imperat. dio Orwen",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/bf/Unit_ills_thum_10495.png/revision/latest/scale-to-width-down/42?cb=20150804171437&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Imperat._dio_Orwen"
+      },
+      {  
+         "id":"660",
+         "name":"Arius dio ghiaccio",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/9/94/Unit_ills_thum_20475.png/revision/latest/scale-to-width-down/42?cb=20150804171438&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Arius_dio_ghiaccio"
+      },
+      {  
+         "id":"663",
+         "name":"Faris dea flora",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_30465.png/revision/latest/scale-to-width-down/42?cb=20150806163650&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Faris_dea_flora"
+      },
+      {  
+         "id":"666",
+         "name":"Garnan dio ingegn.",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/2/23/Unit_ills_thum_40465.png/revision/latest/scale-to-width-down/42?cb=20150806163651&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Garnan_dio_ingegn."
+      },
+      {  
+         "id":"669",
+         "name":"Hogar dio coraggio",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/5/55/Unit_ills_thum_50505.png/revision/latest/scale-to-width-down/42?cb=20150804214313&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Hogar_dio_coraggio"
+      },
+      {  
+         "id":"672",
+         "name":"Elza dea inferi",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/4/40/Unit_ills_thum_60525.png/revision/latest/scale-to-width-down/42?cb=20150806163653&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Elza_dea_inferi"
+      },
+      {  
+         "id":"705",
+         "name":"Cardes il malvagio",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/6/69/Unit_ills_thum_60425.png/revision/latest/scale-to-width-down/42?cb=20150717141319&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Cardes_il_malvagio",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71169004"
+      },
+      {  
+         "id":"709",
+         "name":"Blazing Knight Agni",
+         "icon":"http://img2.wikia.nocookie.net/__cb20141014175845/bravefrontierglobal/images/thumb/0/03/Unit_ills_thum_10105.png/42px-Unit_ills_thum_10105.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Blazing_Knight_Agni"
+      },
+      {  
+         "id":"710",
+         "name":"Ice Angel Sergio",
+         "icon":"http://img2.wikia.nocookie.net/__cb20141014175846/bravefrontierglobal/images/thumb/4/4a/Unit_ills_thum_20105.png/42px-Unit_ills_thum_20105.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Ice_Angel_Sergio"
+      },
+      {  
+         "id":"711",
+         "name":"Goddess Lidith",
+         "icon":"http://img1.wikia.nocookie.net/__cb20141014175846/bravefrontierglobal/images/thumb/1/1e/Unit_ills_thum_30105.png/42px-Unit_ills_thum_30105.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Goddess_Lidith"
+      },
+      {  
+         "id":"712",
+         "name":"Sky God Falma",
+         "icon":"http://img2.wikia.nocookie.net/__cb20141014175848/bravefrontierglobal/images/thumb/c/c5/Unit_ills_thum_40105.png/42px-Unit_ills_thum_40105.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Sky_God_Falma"
+      },
+      {  
+         "id":"713",
+         "name":"Sacred Gunner Heidt",
+         "icon":"http://img4.wikia.nocookie.net/__cb20141014175849/bravefrontierglobal/images/thumb/c/c8/Unit_ills_thum_50095.png/42px-Unit_ills_thum_50095.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Sacred_Gunner_Heidt"
+      },
+      {  
+         "id":"714",
+         "name":"Death God Shida",
+         "icon":"http://img1.wikia.nocookie.net/__cb20141014175850/bravefrontierglobal/images/thumb/0/0b/Unit_ills_thum_60095.png/42px-Unit_ills_thum_60095.png",
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Death_God_Shida"
+      },
+      {  
+         "id":"731",
+         "name":"EtudreV sacro",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/a/a9/Unit_ills_thum_710134.png/revision/latest/scale-to-width-down/42?cb=20150512231812&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/EtudreV_sacro"
+      },
+      {  
+         "id":"733",
+         "name":"AymarkS sacra",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/9b/Unit_ills_thum_720134.png/revision/latest/scale-to-width-down/42?cb=20150603164546&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/AymarkS_sacra"
+      },
+      {  
+         "id":"735",
+         "name":"SotnarG sacro",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_730134.png/revision/latest/scale-to-width-down/42?cb=20150514232155&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/SotnarG_sacro"
+      },
+      {  
+         "id":"737",
+         "name":"OssoloC sacro",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d1/Unit_ills_thum_740134.png/revision/latest/scale-to-width-down/42?cb=20150603164615&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/OssoloC_sacro"
+      },
+      {  
+         "id":"739",
+         "name":"LlewxaM sacra",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/62/Unit_ills_thum_750134.png/revision/latest/scale-to-width-down/42?cb=20150514232155&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/LlewxaM_sacra"
+      },
+      {  
+         "id":"741",
+         "name":"ArbeZ sacro",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/64/Unit_ills_thum_760134.png/revision/latest/scale-to-width-down/42?cb=20150603164633&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/ArbeZ_sacro"
+      },
+      {  
+         "id":"7022",
+         "name":"Dea Skalmold",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_710115.png/revision/latest/scale-to-width-down/42?cb=20150709123330&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Perfida_Skalmold"
+      },
+      {  
+         "id":"7025",
+         "name":"Dea Svafa",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/0/0b/Unit_ills_thum_720115.png/revision/latest/scale-to-width-down/42?cb=20150709123340&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Svafa"
+      },
+      {  
+         "id":"7028",
+         "name":"Dea Eir",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/4/4c/Unit_ills_thum_730115.png/revision/latest/scale-to-width-down/42?cb=20150709123348&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Eir",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71240890",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votearena":"★"
+      },
+      {  
+         "id":"7031",
+         "name":"Dea Thrud",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/7/72/Unit_ills_thum_740115.png/revision/latest/scale-to-width-down/42?cb=20150709123357&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Thrud"
+      },
+      {  
+         "id":"7034",
+         "name":"Dea Alvitr",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/9/9a/Unit_ills_thum_750115.png/revision/latest/scale-to-width-down/42?cb=20150709123408&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Alvitr"
+      },
+      {  
+         "id":"7037",
+         "name":"Dea Geirdriful",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/f/f5/Unit_ills_thum_760115.png/revision/latest/scale-to-width-down/42?cb=20150709123417&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Geirdriful"
+      },
+      {  
+         "id":"7061",
+         "name":"Conte Heinrich",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/20/Unit_ills_thum_710144.png/revision/latest/scale-to-width-down/42?cb=20150724005514&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Conte_Heinrich"
+      },
+      {  
+         "id":"7064",
+         "name":"Conte Cornelius",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/4/43/Unit_ills_thum_720144.png/revision/latest/scale-to-width-down/42?cb=20150724005534&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Conte_Cornelius"
+      },
+      {  
+         "id":"7067",
+         "name":"Contessa Jade",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/4/42/Unit_ills_thum_730144.png/revision/latest/scale-to-width-down/42?cb=20150724005551&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Contessa_Jade"
+      },
+      {  
+         "id":"7073",
+         "name":"Contessa Magena",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/22/Unit_ills_thum_750144.png/revision/latest/scale-to-width-down/42?cb=20150724005621&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Contessa_Magena"
+      },
+      {  
+         "id":"8002",
+         "name":"Lico spada demon.",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/e5/Unit_ills_thum_860005.png/revision/latest/scale-to-width-down/42?cb=20141215150310&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lico_spada_demon"
+      },
+      {  
+         "id":"8005",
+         "name":"Cayena guerriera",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/20/Unit_ills_thum_810005.png/revision/latest/scale-to-width-down/42?cb=20141215145937&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Cayena_guerriera"
+      },
+      {  
+         "id":"8008",
+         "name":"Serin dea armi",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/5/5a/Unit_ills_thum_820005.png/revision/latest/scale-to-width-down/42?cb=20141215150051&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Serin_dea_armi"
+      },
+      {  
+         "id":"8011",
+         "name":"Bayley selvaggia",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/ec/Unit_ills_thum_830005.png/revision/latest/scale-to-width-down/42?cb=20141215150147&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Bayley_selvaggia"
+      },
+      {  
+         "id":"8014",
+         "name":"Fennia fulmine",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_840005.png/revision/latest/scale-to-width-down/42?cb=20141215150212&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Fennia_fulmine"
+      },
+      {  
+         "id":"8017",
+         "name":"Vanila angelo",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/c/ca/Unit_ills_thum_850005.png/revision/latest/scale-to-width-down/42?cb=20141215150244&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Vanila_angelo"
+      }
+   ]
+}

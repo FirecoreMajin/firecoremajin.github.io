@@ -1,48 +1,16 @@
 {  
    "units":[  
       {  
-         "name":"Dea Eir",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/4/4c/Unit_ills_thum_730115.png/revision/latest/scale-to-width-down/42?cb=20150709123348&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Eir",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71240890",
-         "description":"",
-         "vote":"★★★★",
-         "votetrial":"★★★★",
-         "votevortex":"★★★★",
-         "votearena":"★"
+         "id":"7028"
       },
       {  
-         "name":"Altri Albero alfa",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/12/Unit_ills_thum_30115.png/revision/latest/scale-to-width-down/42?cb=20150119152459&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Altri_Albero_alfa",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69984744",
-         "description":"",
-         "vote":"★★★★",
-         "votetrial":"★★★★",
-         "votevortex":"★★★★",
-         "votearena":"★"
+         "id":"372"
       },
       {  
-         "name":"Elimo mago saggio",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/a/ae/Unit_ills_thum_20155.png/revision/latest/scale-to-width-down/42?cb=20150415202632&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Elimo_mago_saggio",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70862123",
-         "description":"",
-         "vote":"★★★★",
-         "votetrial":"★★★★",
-         "votevortex":"★★★★",
-         "votearena":"★★"
+         "id":"472"
       },
       {  
-         "name":"Lancia super chef",
-         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/1/1f/Unit_ills_thum_10155.png/revision/latest/scale-to-width-down/42?cb=20150415202623&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lancia_super_chef",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819",
-         "description":"",
-         "vote":"★★",
-         "votetrial":"★★",
-         "votevortex":"★★",
-         "votearena":"★★"
+         "id":"471"
       }
    ]
 }

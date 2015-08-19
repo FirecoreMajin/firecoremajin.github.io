@@ -1,21 +1,27 @@
 {"mitems":[
 	{"label":"Pross. Batch", "id":"next"},
-	{"label":"Aggiornamenti", "submenu":{"mitems":[
-		{"label":"Prossime 6<b style=color:#F9C710>★</b> EU", "id":"next6eu"},
-		{"label":"Prossime 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
-		{"label":"Prossime 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
+	{"label":"Aggiornamenti", "category":"updates", "submenu":{"mitems":[
+		{"label":"Esclusive 6<b style=color:#F9C710>★</b> EU", "id":"next6eu"},
+		{"label":"Unità con 6<b style=color:#F9C710>★</b> GL", "id":"next6gl"},
+		{"label":"Unità con 7<b style=color:#F9C710>★</b> GL", "id":"next7gl"}	
 	]}},
-	{"label":"Categorie", "submenu":{"mitems":[
+	{"label":"Categorie", "category":"categories", "submenu":{"mitems":[
 		{"label":"Mitigatori", "id":"mitigator"},	
 		{"label":"Curatori", "id":"healer"}	
 	]}},
-	{"label":"Team", "submenu":{"mitems":[
+	{"label":"Team", "category":"teams", "submenu":{"mitems":[
+		{"label":"Arena Team", "id":"tarena"},
+		{"label":"Frontier Hunter", "id":"tfh"},
 		{"label":"BB Spam", "id":"tbbspam"},
 		{"label":"Crit Team", "id":"tcrit"},
-		{"label":"Tank Team", "id":"ttank"},
-		{"label":"Arena Team", "id":"tarena"}	
+		{"label":"Tank Team", "id":"ttank"}
 	]}},
-	{"label":"Tutte le unità", "submenu":{"mitems":[
+	{"label":"Tutte le unità", "category":"units", "submenu":{"mitems":[
+		{"label":"Fuoco", "id":"fire"},
+		{"label":"Acqua", "id":"water"},
+		{"label":"Fulmine", "id":"thunder"},
+		{"label":"Terra", "id":"earth"},
+		{"label":"Luce", "id":"light"},
 		{"label":"Oscurità", "id":"dark"}
 	]}}
 ]}

@@ -1,42 +1,27 @@
 {  
    "units":[  
       {  
-         "name":"Ofelia reg. lotta",
-         "icon":"http://tinyurl.com/nt3ofap"
+         "id":"508"
       },
       {  
-         "name":"Zurg dio rovina",
+         "id":"676",
          "subtitle":"Leader",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
-         "description":"Molto utile in arena con la sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti",
-         "vote":"★★",
-         "votearena":"★★★★",
-         "votefh":"★",
-         "votevortex":"★",
-         "votetrial":"★"
+         "description":"Molto utile in arena con la sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti"
       },
       {  
-         "name":"Dia princ. inferi",
-         "icon":"http://tinyurl.com/nkx2h3x"
+         "id":"532"
       },
       {  
-         "name":"Luther dio audace",
-         "icon":"http://tinyurl.com/nkgstqj",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+         "id":"563"
       },
       {  
-         "name":"Zefiro sign. nero",
-         "icon":"http://tinyurl.com/qj86uau"
+         "id":"517"
       },
       {  
-         "name":"Uda dio violento",
-         "icon":"http://tinyurl.com/q3ms8cu"
+         "id":"572"
       },
       {  
-         "name":"Brave God Hogar",
-         "icon":"http://tinyurl.com/o4emxmb",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Brave_God_Hogar"
+         "id":"669"
       }
    ]
 }
