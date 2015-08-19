@@ -539,7 +539,12 @@
          "id":"505",
          "name":"Raydn re lancia",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/ec/Unit_ills_thum_20355.png/revision/latest/scale-to-width-down/42?cb=20150415204028&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Raydn_re_lancia"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Raydn_re_lancia",
+         "vote":"★★★",
+         "votearena":"★★",
+         "votefh":"★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★"
       },
       {  
          "id":"508",
@@ -586,7 +591,12 @@
          "id":"526",
          "name":"Zelban imp. spade",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/b6/Unit_ills_thum_30255.png/revision/latest/scale-to-width-down/42?cb=20150529192412&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zelban_imp._spade"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zelban_imp._spade",
+         "vote":"★★",
+         "votearena":"★",
+         "votefh":"★★★",
+         "votevortex":"★★★",
+         "votetrial":"★★★"
       },
       {  
          "id":"527",
@@ -625,7 +635,12 @@
          "id":"532",
          "name":"Dia princ. inferi",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fc/Unit_ills_thum_10375.png/revision/latest/scale-to-width-down/42?cb=20150528144417&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dia_princ._inferi"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dia_princ._inferi",
+         "vote":"★★",
+         "votearena":"★★",
+         "votefh":"★★",
+         "votevortex":"★★★",
+         "votetrial":"★★"
       },
       {  
          "id":"535",
@@ -679,7 +694,12 @@
          "id":"557",
          "name":"Dilma pugno fiero",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/7/7a/Unit_ills_thum_30285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dilma_pugno_fiero"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dilma_pugno_fiero",
+         "vote":"★★★",
+         "votearena":"★★★",
+         "votefh":"★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★"
       },
       {  
          "id":"558",
@@ -691,13 +711,23 @@
          "id":"559",
          "name":"Lilith devastante",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/b8/Unit_ills_thum_50315.png/revision/latest/scale-to-width-down/42?cb=20150601215856&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lilith_devastante"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lilith_devastante",
+         "vote":"★★★",
+         "votearena":"★★",
+         "votefh":"★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
       },
       {  
          "id":"560",
          "name":"Logan lame inferi",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/8/8f/Unit_ills_thum_60285.png/revision/latest/scale-to-width-down/42?cb=20150601215856&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Logan_lame_inferi"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Logan_lame_inferi",
+         "vote":"★★",
+         "votearena":"★★★",
+         "votefh":"★★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"563",
@@ -727,14 +757,24 @@
          "id":"572",
          "name":"Uda dio violento",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/cb/Unit_ills_thum_40425.png/revision/latest/scale-to-width-down/42?cb=20150616145145&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Uda_dio_violento"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Uda_dio_violento",
+         "vote":"★★★",
+         "votearena":"★★★★",
+         "votefh":"★★",
+         "votevortex":"★★★",
+         "votetrial":"★★"
       },
       {  
          "id":"575",
          "name":"Zellha dea rovine",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/8/87/Unit_ills_thum_50475.png/revision/latest/scale-to-width-down/42?cb=20150616144220&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zellha_dea_rovine",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71032772",
+         "vote":"★★★",
+         "votearena":"★★★",
+         "votefh":"★★",
+         "votevortex":"★★★",
+         "votetrial":"★★"
       },
       {  
          "id":"578",
@@ -1047,7 +1087,12 @@
          "id":"7037",
          "name":"Dea Geirdriful",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/f/f5/Unit_ills_thum_760115.png/revision/latest/scale-to-width-down/42?cb=20150709123417&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Geirdriful"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Geirdriful",
+         "vote":"★★★",
+         "votetrial":"★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"7061",

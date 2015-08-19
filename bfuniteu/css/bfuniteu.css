@@ -36,7 +36,7 @@ footer {
 
 .unit-list {
 	width: 100%;
-
+	
 	display: flex;
 	display: -webkit-box;
 	display: -moz-box;
@@ -158,6 +158,7 @@ footer {
 
 .unit-header {
 	width: 100%;
+	min-height: 3.4em;
 	display: flex;
 	display: -webkit-box;
 	display: -moz-box;
@@ -177,6 +178,14 @@ footer {
 	margin-left: .5em;
 }
 
+.unit-avatar {
+	text-align: center;
+	cursor: pointer;
+	cursor: hand;
+	position:relative;
+	padding: 0 0.5em 0;
+}
+
 .unit-title-label {
 	cursor: pointer;
 	cursor: hand;
@@ -186,16 +195,17 @@ footer {
 	text-decoration: underline;
 }
 
-.avatar {
-	text-align: center;
-}
-
-.badge {
-	margin-top: -0.4em;
+.unit-badge {
+	position: absolute;
+	bottom: -0.4em;
+	left: 0;
+	right: 0;
 	display: block;
-	font-size: .7em;
-	color: #F9C710;
+	font-size: .8em;
 	cursor: pointer;
+	cursor: hand;
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+	color:#f0d270;
 }
 
 .unit-subtitle {
@@ -205,10 +215,11 @@ footer {
 }
 
 .unit-links div {
-	margin: 0.2em 0;
+	margin: 0.3em 0;
 	cursor: pointer;
 	cursor: hand;
-	width: 5em;
+	padding: 0.4em 0.6em;
+	width: 6em;
 }
 
 @media screen and (min-device-width: 1280px) and (min-width: 59.8em) {
