@@ -704,7 +704,12 @@
          "name":"Luther dio audace",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/6/65/Unit_ills_thum_10445.png/revision/latest/scale-to-width-down/42?cb=20150616144218&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Luther_dio_audace",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71036115",
+         "vote":"★★★",
+         "votearena":"★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
       },
       {  
          "id":"566",
@@ -759,13 +764,18 @@
          "votetrial":"★★★★",
          "votevortex":"★★★★",
          "votefh":"★★★★",
-         "votearena":"★★★★"
+         "votearena":"★"
       },
       {  
          "id":"615",
          "name":"Mariudeth dio delle asce",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/1/1c/Unit_ills_thum_20455.png/revision/latest/scale-to-width-down/42?cb=20150708143001&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mariudeth_dio_delle_asce"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mariudeth_dio_delle_asce",
+         "vote":"★★★",
+         "votetrial":"★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★",
+         "votearena":"★"
       },
       {  
          "id":"618",
@@ -935,10 +945,10 @@
          "icon":"http://img1.wikia.nocookie.net/__cb20141014175850/bravefrontierglobal/images/thumb/0/0b/Unit_ills_thum_60095.png/42px-Unit_ills_thum_60095.png",
          "link":"http://bravefrontierglobal.wikia.com/wiki/Death_God_Shida",
          "vote":"★★★★",
-         "votearena":"★★★",
+         "votearena":"★★",
          "votefh":"★★★★★",
          "votevortex":"★★★★",
-         "votetrial":"★"
+         "votetrial":"★★★"
       },
       {  
          "id":"731",
@@ -980,13 +990,23 @@
          "id":"7022",
          "name":"Dea Skalmold",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_710115.png/revision/latest/scale-to-width-down/42?cb=20150709123330&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Perfida_Skalmold"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Perfida_Skalmold",
+         "vote":"★",
+         "votetrial":"★",
+         "votevortex":"★",
+         "votefh":"★",
+         "votearena":"★★"
       },
       {  
          "id":"7025",
          "name":"Dea Svafa",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/0/0b/Unit_ills_thum_720115.png/revision/latest/scale-to-width-down/42?cb=20150709123340&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Svafa"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Svafa",
+         "vote":"★★",
+         "votetrial":"★",
+         "votevortex":"★",
+         "votefh":"★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"7028",
@@ -1004,13 +1024,24 @@
          "id":"7031",
          "name":"Dea Thrud",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/7/72/Unit_ills_thum_740115.png/revision/latest/scale-to-width-down/42?cb=20150709123357&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Thrud"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Thrud",
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71215463",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"7034",
          "name":"Dea Alvitr",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/9/9a/Unit_ills_thum_750115.png/revision/latest/scale-to-width-down/42?cb=20150709123408&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Alvitr"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Alvitr",
+         "vote":"★★★",
+         "votetrial":"★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★",
+         "votearena":"★★"
       },
       {  
          "id":"7037",
