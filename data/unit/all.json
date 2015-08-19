@@ -150,7 +150,12 @@
          "name":"Felneus",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/a/a8/Unit_ills_thum_20115.png/revision/latest/scale-to-width-down/42?cb=20150119152438&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Felneus",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=69993955",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
       },
       {  
          "id":"372",
@@ -161,6 +166,7 @@
          "vote":"★★★★",
          "votetrial":"★★★★",
          "votevortex":"★★★★",
+         "votefh":"★★★",
          "votearena":"★"
       },
       {  
@@ -186,7 +192,12 @@
          "id":"376",
          "name":"Grahdens",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/0/0f/Unit_ills_thum_60324.png/revision/latest/scale-to-width-down/42?cb=20150409093407&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Grahdens"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Grahdens",
+         "vote":"★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★",
+         "votefh":"★★★",
+         "votearena":"★★"
       },
       {  
          "id":"390",
@@ -234,7 +245,12 @@
          "id":"428",
          "name":"Dea Tilith",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/1f/Unit_ills_thum_50254.png/revision/latest/scale-to-width-down/42?cb=20150421221442&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Tilith"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_Tilith",
+         "vote":"★★★★★",
+         "votetrial":"★★★★★",
+         "votevortex":"★★★★★",
+         "votefh":"★★★★",
+         "votearena":"★"
       },
       {  
          "id":"435",
@@ -289,7 +305,12 @@
          "name":"Douglas sacro",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/3/38/Unit_ills_thum_30125.png/revision/latest/scale-to-width-down/42?cb=20150225220136&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Douglas_sacro",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70408776",
+         "vote":"★★★★",
+         "votetrial":"★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"444",
@@ -318,6 +339,7 @@
          "card":"http://bravefrontieritaliafan.forumfree.it/?t=70898819",
          "vote":"★★",
          "votetrial":"★★",
+         "votefh":"★★",
          "votevortex":"★★",
          "votearena":"★★"
       },
@@ -330,7 +352,8 @@
          "vote":"★★★★",
          "votetrial":"★★★★",
          "votevortex":"★★★★",
-         "votearena":"★★"
+         "votefh":"★★★★",
+         "votearena":"★"
       },
       {  
          "id":"473",
@@ -409,14 +432,24 @@
          "name":"Sefia lame sacre",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/eb/Unit_ills_thum_50165.png/revision/latest/scale-to-width-down/42?cb=20150409094237&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Sefia_lame_sacre",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70669473",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"487",
          "name":"Kikuri dio morte",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/3a/Unit_ills_thum_60175.png/revision/latest/scale-to-width-down/42?cb=20150409094245&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Kikuri_dio_morte",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=70693865",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"488",
@@ -432,6 +465,7 @@
          "vote":"★★★",
          "votetrial":"★★★",
          "votevortex":"★★★",
+         "votefh":"★★★★",
          "votearena":"★"
       },
       {  
@@ -535,7 +569,12 @@
          "id":"524",
          "name":"Michele dea ascia",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/f1/Unit_ills_thum_10255.png/revision/latest/scale-to-width-down/42?cb=20150511140717&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Michele_dea_ascia"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Michele_dea_ascia",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"525",
@@ -553,19 +592,34 @@
          "id":"527",
          "name":"Lodin drago",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/ba/Unit_ills_thum_40255.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lodin_drago"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lodin_drago",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★"
       },
       {  
          "id":"528",
          "name":"Legatus Melchio",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/3/39/Unit_ills_thum_50275.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Legatus_Melchio"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Legatus_Melchio",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"529",
          "name":"Duel-SGX",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/28/Unit_ills_thum_60255.png/revision/latest/scale-to-width-down/42?cb=20150529192413&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Duel-SGX"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Duel-SGX",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"532",
@@ -700,7 +754,12 @@
          "name":"Darvanshel il guardiano",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/4/4c/Unit_ills_thum_10465.png/revision/latest/scale-to-width-down/42?cb=20150708140942&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Darvanshel_il_guardiano",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71233215"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71233215",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"615",
@@ -713,7 +772,12 @@
          "name":"Zelnite dio dei ladri",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/2/25/Unit_ills_thum_30445.png/revision/latest/scale-to-width-down/42?cb=20150714212522&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zelnite_dio_dei_ladri",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71199107",
+         "vote":"★★★★",
+         "votetrial":"★★★★",
+         "votevortex":"★★★★",
+         "votefh":"★★★★",
+         "votearena":"★★★★"
       },
       {  
          "id":"621",
@@ -738,8 +802,8 @@
          "name":"Zurg dio rovina",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
-         "vote":"★★",
-         "votearena":"★★★★",
+         "vote":"★★★",
+         "votearena":"★★★★★",
          "votefh":"★",
          "votevortex":"★",
          "votetrial":"★"
@@ -821,7 +885,12 @@
          "name":"Elza dea inferi",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/4/40/Unit_ills_thum_60525.png/revision/latest/scale-to-width-down/42?cb=20150806163653&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Elza_dea_inferi",
-         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71244167"
+         "card":"http://bravefrontieritaliafan.forumfree.it/?t=71244167",
+         "vote":"★★★★",
+         "votearena":"★★★★",
+         "votefh":"★★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★"
       },
       {  
          "id":"705",
@@ -864,7 +933,12 @@
          "id":"714",
          "name":"Death God Shida",
          "icon":"http://img1.wikia.nocookie.net/__cb20141014175850/bravefrontierglobal/images/thumb/0/0b/Unit_ills_thum_60095.png/42px-Unit_ills_thum_60095.png",
-         "link":"http://bravefrontierglobal.wikia.com/wiki/Death_God_Shida"
+         "link":"http://bravefrontierglobal.wikia.com/wiki/Death_God_Shida",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★"
       },
       {  
          "id":"731",
@@ -923,6 +997,7 @@
          "vote":"★★★★",
          "votetrial":"★★★★",
          "votevortex":"★★★★",
+         "votefh":"★★★★",
          "votearena":"★"
       },
       {  
