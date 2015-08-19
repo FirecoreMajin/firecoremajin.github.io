@@ -129,7 +129,8 @@ footer {
 }
 
 .partial-vote .pvalue {
-	color: #F9C710;
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+	color:#f0d270;
 	text-align: left;
 	padding-left: 3em;
 	width: 50%;
