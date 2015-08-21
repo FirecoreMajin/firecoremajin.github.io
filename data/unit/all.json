@@ -4,13 +4,25 @@
          "id":"317",
          "name":"Zebra Dio folle",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/9/9a/Unit_ills_thum_60234.png/revision/latest/scale-to-width-down/42?cb=20141105163415&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zebra_Dio_folle"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zebra_Dio_folle",
+         "description":"Pochi CB/attacco e BB costosa per essere molto utile. L'LS con +300% danno critico è l'unica cosa buona ma non basta per renderla una buona unità, soprattutto ora che ci sono molte altre unità utili come leader.",
+         "vote":"★★",
+         "votearena":"★",
+         "votefh":"★★",
+         "votevortex":"★★",
+         "votetrial":"★"
       },
       {  
          "id":"319",
          "name":"Seria Dea spade",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/7/7c/Unit_ills_thum_10234.png/revision/latest/scale-to-width-down/42?cb=20141026220242&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Seria_Dea_spade"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Seria_Dea_spade",
+         "description":"Purtroppo è ancora ferma alle 5<b style=text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;>★</b>, pochi CB/attacco, BB un po' debole e LS che buffa attacco e difesa del 20%",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"320",
@@ -710,7 +722,12 @@
          "id":"558",
          "name":"Rashil mago cielo",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/e/e5/Unit_ills_thum_40285.png/revision/latest/scale-to-width-down/42?cb=20150601215855&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rashil_mago_cielo"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rashil_mago_cielo",
+         "vote":"★",
+         "votearena":"★★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"559",
