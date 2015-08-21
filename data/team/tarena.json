@@ -11,6 +11,11 @@
           "description":"Un buon 50% di attacco per i rainbow team e un aumento del BB fill. 20 CB per attacco normale non sono male ma ci sono filler migliori e BB e SBB leggermente costosi (BB 22, SBB 30)."
       },
       {  
+         "id":"563"
+          "subtitle":"Leader - BB Filler, BB Spam",
+          "description": "LS con +30% CB e 50% danno durante gli Spark, 20 CB per attacco normale e una BB con ricarica rapida (15CB), ma un SBB con ricarica molto lenta (30CB)"
+      },
+      {  
          "id":"528",
          "subtitle":"Unit - BB Filler",
          "description": "39 CB per attacco normale e SBB poco costosa (BB 15~10, SBB 20) che fa danno fuoco, acqua, terra, tuono e luce"
@@ -29,9 +34,6 @@
          "id":"508",
          "subtitle":"Unit - BB Spam",
          "description": "Col suo BB super rapido è molto valida in arena"
-      },
-      {  
-         "id":"563"
       },
       {  
          "id":"517"
