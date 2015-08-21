@@ -550,7 +550,12 @@
          "id":"508",
          "name":"Ofelia reg. lotta",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/6/6e/Unit_ills_thum_30345.png/revision/latest/scale-to-width-down/42?cb=20150415204119&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ofelia_reg._lotta"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ofelia_reg._lotta",
+         "vote":"★★★",
+         "votearena":"★★★★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"511",

@@ -6,6 +6,11 @@
          "description":"La sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti lo rende perfertto per l'arena."
       },
       {  
+         "id":"532",
+          "subtitle":"Leader",
+          "description":"Un buon 50% di attacco per i rainbow team e un aumento del BB fill. 20 CB per attacco normale non sono male ma ci sono filler migliori e BB e SBB leggermente costosi (BB 22, SBB 30)."
+      },
+      {  
          "id":"528",
          "subtitle":"Unit - BB Filler",
          "description": "39 CB per attacco normale e SBB poco costosa (BB 15~10, SBB 20) che fa danno fuoco, acqua, terra, tuono e luce"
@@ -22,11 +27,8 @@
       },
       {  
          "id":"508",
-         "subtitle":"Unit",
+         "subtitle":"Unit - BB Spam",
          "description": "Col suo BB super rapido è molto valida in arena"
-      },
-      {  
-         "id":"532"
       },
       {  
          "id":"563"
