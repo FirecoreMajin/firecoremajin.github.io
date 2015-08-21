@@ -1,12 +1,29 @@
 {  
-   "units":[  
-      {  
-         "id":"508"
-      },
+   "units":[
       {  
          "id":"676",
          "subtitle":"Leader",
-         "description":"Molto utile in arena con la sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti"
+         "description":"La sua LS che aumenta l'ATT in proporzione ai PS rimanenti[(PS restanti/PS massimi)*100]% dando così un +100% al primo turno a tutti lo rende perfertto per l'arena."
+      },
+      {  
+         "id":"528",
+         "subtitle":"Unit - BB Filler",
+         "description": "39 CB per attacco normale e SBB poco costosa (BB 15~10, SBB 20) che fa danno fuoco, acqua, terra, tuono e luce"
+      },
+      {  
+         "id":"672",
+         "subtitle":"Unit - BB Filler",
+         "description": "30 CB per attacco normale, rispetto ad altri filler ha BB e SBB di poco più costosi (BB 25,SBB 20)...ma l'SBB da 30 colpi che aggiunge danno allo spark per 3 turni...shotta tutti"
+      },
+      {  
+         "id":"529",
+         "subtitle":"Unit - BB Filler",
+         "description": "30 CB per attacco normale, BB e SBB con costi medi (BB 22~20, SBB 13~10 ), ma l'SBB da 30 colpi e aumenta il critico a tutto il team (oltre ad aggiungere l'elemento oscurità)"
+      },
+      {  
+         "id":"508",
+         "subtitle":"Unit",
+         "description": "Col suo BB super rapido è molto valida in arena"
       },
       {  
          "id":"532"
