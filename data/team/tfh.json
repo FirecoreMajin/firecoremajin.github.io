@@ -5,7 +5,8 @@
       },
       {  
          "id":"443",
-         "description":"SBB da 30 colpi, ottimo per sparkare, e aumenta il danno durante lo spark del 50% per 3 turni"
+         "description":"SBB da 30 colpi, ottimo per sparkare, e aumenta il danno durante lo spark del 50% per 3 turni",
+         "subtitle":"sub-unit"
       },
       {  
          "id":"524"
@@ -21,26 +22,35 @@
       },
       {  
          "id":"591",
-         "description":"SBB da 33 colpi, ottimo per sparkare"
+         "description":"SBB da 33 colpi, ottimo per sparkare",
+         "subtitle":"sub-unit"
       },
       {  
          "id":"618"
       },
       {  
          "id":"642",
-         "description":"Nonostante le 5<b style='color:#F9C710;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;'>★</b> è ancora un leader validissimo per FH, data la sua LS che permettere di ricaricare le BB di 2-3CB durante lo spark"
+         "description":"Nonostante le 5<b style='color:#F9C710;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;'>★</b> è ancora un leader validissimo per FH, data la sua LS che permettere di ricaricare le BB di 2-3CB durante lo spark",
+         "subtitle":"leader"
+      },
+      {  
+         "id":"672",
+         "description":"LS che aumenta l'efficacia dei CB del 50% e SBB con 30 colpi, ottima per sparkare, che aumenta i danni durante lo spark del 70% per 3 turni"
       },
       {  
          "id":"705",
-         "description":"LS con riduzione costo CB del 25/30% e SBB da 33 colpi...ottimo per sparkare"
+         "description":"LS con riduzione costo CB del 25/30% e SBB da 33 colpi...ottimo per sparkare",
+         "subtitle":"leader, sub-unit"
       },
       {  
          "id":"714",
-         "description":"SBB che aggiunge tutti gli elementi all'attacco della squadra e BB con 25 colpi...perfetto per fare punti"
+         "description":"SBB che aggiunge tutti gli elementi all'attacco della squadra e BB con 25 colpi...perfetto per fare punti",
+         "subtitle":"sub-unit"
       },
       {  
          "id":"7031",
-         "description":"SBB da 30 colpi, ottimo per sparkare"
+         "description":"SBB da 30 colpi, ottimo per sparkare",
+         "subtitle":"sub-unit"
       }
    ]
 }
