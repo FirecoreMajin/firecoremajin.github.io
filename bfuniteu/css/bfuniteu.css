@@ -123,12 +123,8 @@ footer {
 
 .unit-title {
 	font-size: 1.3em;
-	flex: 1 0 auto;
-	-webkit-flex: 1 0 auto;
-	margin-left: .5em;
-	text-overflow: ellipsis;
-	overflow:hidden;
-	white-space:nowrap;
+	flex: 1 1 auto;
+	-webkit-flex: 1 1 auto;
 }
 
 .unit-avatar {
@@ -137,11 +133,16 @@ footer {
 	cursor: hand;
 	position:relative;
 	padding: 0 0.5em 0;
+	min-width: 4em;
+	max-width: 4em;
 }
 
 .unit-title-label {
 	cursor: pointer;
 	cursor: hand;
+	text-overflow: ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
 }
 
 .unit-title-label:hover {
