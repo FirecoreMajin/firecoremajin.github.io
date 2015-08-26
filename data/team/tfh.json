@@ -21,6 +21,11 @@
          "id":"529"
       },
       {  
+         "id":"575",
+         "description":"LS che riduce del 25% il costo di BB/SBB e SBB da 33 colpi, ottimo per sparkare",
+         "subtitle":"leader, sub-unit"
+      },
+      {  
          "id":"591",
          "description":"SBB da 33 colpi, ottimo per sparkare",
          "subtitle":"sub-unit"
@@ -35,7 +40,8 @@
       },
       {  
          "id":"672",
-         "description":"LS che aumenta l'efficacia dei CB del 50% e SBB con 30 colpi, ottima per sparkare, che aumenta i danni durante lo spark del 70% per 3 turni"
+         "description":"LS che aumenta l'efficacia dei CB del 50% e SBB con 30 colpi, ottima per sparkare, che aumenta i danni durante lo spark del 70% per 3 turni",
+         "subtitle":"leader, sub-unit"
       },
       {  
          "id":"705",
