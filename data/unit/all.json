@@ -304,7 +304,8 @@
          "id":"441",
          "name":"Lava fiamma sacra",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/dd/Unit_ills_thum_10125.png/revision/latest/scale-to-width-down/42?cb=20150225220122&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lava_fiamma_sacra"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lava_fiamma_sacra",
+         "description":"Stats solidissime, ottime e ben equilibrate, una LS comunque interessante (sebbene non ai livelli della Eccellenza di Ares), un Mod Danni ottimo sia alla BB che soprattutto alla SBB, dove è condito con un Crit Buff che finalmente ci offre un'alternativa decente (ma comunque un'alternativa e nulla più) a Duel per un Crit Team"
       },
       {  
          "id":"442",
@@ -425,13 +426,15 @@
          "id":"483",
          "name":"Rickel due armi",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/e/ee/Unit_ills_thum_20215.png/revision/latest/scale-to-width-down/42?cb=20150409094213&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rickel_due_armi"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rickel_due_armi",
+         "description":"Un attacco stellare accompagnato al solito delirante Mod Danni dei Single Target e ad un Hit Count/DCC tra i più alti visti finora fanno di lei la principale scelta se vi serve un Boss Killer come si deve. ;) Anche la LS non delude, unendo il danno alla produzione di CB renderanno i vostri Spark Team molto più versatili. Chiaramente non una prima scelta per un BB Spam per via del BB Single Target ma un'ottima scelta per Spark, Mono e Rainbow."
       },
       {  
          "id":"484",
          "name":"Gaians Il e Mina",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/d/da/Unit_ills_thum_30215.png/revision/latest/scale-to-width-down/42?cb=20150409094222&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gaians_Il_e_Mina"
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gaians_Il_e_Mina",
+         "description":"Ottime sia in attacco che in difesa, non hanno alcun punto debole e la cura che forniscono con la SBB ci permette di poter fare a meno di un healer vero e proprio, sfruttando il 100% del potere offensivo del nostro team. :) Anche come leader possono dare molto in situazioni complicate, proteggendo il team da tutte le intemperie che potrebbero infliggere i vostri nemici. Non sarà un top in nessun ambito, come molto spesso accade alle unità equilibrate, ma state pur certi che non vi deluderà in nessun tipo di ambito, garantito"
       },
       {  
          "id":"485",
