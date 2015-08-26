@@ -176,6 +176,11 @@ footer {
 	width: 6em;
 }
 
+.unit-links {
+	min-width:4.5em;
+	max-width:4.5em;
+}
+
 @media screen and (min-device-width: 1280px) and (min-width: 59.8em) {
 	body {
 		display: flex;
