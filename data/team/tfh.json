@@ -4,7 +4,8 @@
          "id":"371"
       },
       {  
-         "id":"443"
+         "id":"443",
+         "description":"SBB da 30 colpi, ottimo per sparkare, e aumenta il danno durante lo spark del 50% per 3 turni"
       },
       {  
          "id":"524"
@@ -19,7 +20,8 @@
          "id":"529"
       },
       {  
-         "id":"591"
+         "id":"591",
+         "description":"SBB da 33 colpi, ottimo per sparkare"
       },
       {  
          "id":"618"
@@ -34,11 +36,11 @@
       },
       {  
          "id":"714",
-         "description":"SBB che aggiunge tutti gli elementi all'attacco della squadra e BB con 20 hit...perfetto per fare punti"
+         "description":"SBB che aggiunge tutti gli elementi all'attacco della squadra e BB con 25 colpi...perfetto per fare punti"
       },
       {  
          "id":"7031",
-         "description":"SBB da 30 colpi, utile per sparkare"
+         "description":"SBB da 30 colpi, ottimo per sparkare"
       }
    ]
 }
