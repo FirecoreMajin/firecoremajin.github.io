@@ -127,6 +127,8 @@ footer {
 	-webkit-flex: 1 0 auto;
 	margin-left: .5em;
 	text-overflow: ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
 }
 
 .unit-avatar {
