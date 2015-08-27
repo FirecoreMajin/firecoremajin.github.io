@@ -183,6 +183,68 @@ footer {
 	max-width:4.5em;
 }
 
+.team-fh {
+	padding: .7em 1em 0;
+}
+
+.team-list {
+	width: 100%;
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: row;
+	-webkit-flex-direction: row;
+	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	justify-content: start;
+	-webkit-justify-content: start;
+	align-items: stretch;
+	-webkit-align-items: stretch;
+}
+
+.team-badge {
+	margin: 0.7em 1.5em;
+	width: 30em;
+}
+
+.team-table {
+	background: url(team.png) ;
+	border: 1px solid black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+	border-radius: 3px;
+	oveflow: hidden;
+	width: 290px;
+	float: left;
+	margin-bottom: 0.5em;
+}
+
+.team-points {
+	float:right;
+	font-size: 1.7em;
+	padding: .6em .1em;
+	margin-left: 1em;
+	color:#777;
+	border: 1px solid #777;
+	
+}
+
+.team-description {
+	clear: both;
+}
+
+.team-table td {
+	padding: 11px 0px 10px;
+}
+
+.team-table td:first-child {
+	padding: 11px 7px 10px 9px;
+}
+.team-table td:last-child {
+	padding: 11px 6px 10px 7px;
+}
+
+
 @media screen and (min-device-width: 1280px) and (min-width: 59.8em) {
 	body {
 		display: flex;
