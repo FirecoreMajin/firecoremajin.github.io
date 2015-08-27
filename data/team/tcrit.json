@@ -6,9 +6,9 @@
          "description":"L'SBB aumenta il crit chance del 30%, l'LS aumenta il danno critico del 125% e il 100% di danno agli elementi deboli."
       },
       {  
-         "id":"739",
+         "id":"7058",
          "subtitle":"Leader - Crit Dmg Boost",
-         "description":"L'LS aumenta del 300% il danno critico"
+         "description":"L'LS aumenta del 150% il danno critico e aumenta i danni durante lo Spark"
       },
       {  
          "id":"317",

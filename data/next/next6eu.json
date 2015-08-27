@@ -1,49 +1,16 @@
 {  
   "units":[  
     {  
-      "name":"LlewxaM sacra",
-      "icon":"http://tinyurl.com/qz3ypf9",
-      "description":"30 powerful Light and Dark attack on all enemies and possible injury and poison effect"
+      "name":"Re Jason",
+      "description":"LS: +100% Crit Damage e +10% Crit Chance<br>BB: 20 hit di tuono su un solo nemico, ignora-difesa per tutti gli alleati per 2 turni<br>SBB: Combo incredibilmente potente di 1 ATT di tuono su tutti (25% CRIT e +50% CB per se stessi), ignora-difesa per tutti per 2 turni e +80% danno durante gli Spark per 3 turni"
     },
     {  
-      "name":"EtudreV sacro",
-      "icon":"http://tinyurl.com/ovjqjbv",
-      "description":"18 combo Fire attack on all enemies & Reduces damage taken for 1 turns& adds Fire elements to attack for 3 turns"
+      "name":"Regina Lavinia",
+      "description":"LS: 15% prob di infliggere Ferita, Malattia o Debolezza. 10% Veleno, Maledizione o Paralisi<br>BB: 12 hit di tenebra su tutti con 40% prob di infliggere anomalia casuale<br>SBB: 16 hit di tenebra su tutti con 60% prob di infliggere anomalia casualee  che rimuove anomalie da tutti gli alleati."
     },
     {  
-      "name":"AymarkS sacra",
-      "icon":"http://tinyurl.com/p2eoolj",
-      "description":"20 combo Water Attack on all enemies & Boosts critical hit rate & Probable Paralysis effect"
-    },
-    {  
-      "name":"SotnarG sacro",
-      "icon":"http://tinyurl.com/neuxcnr",
-      "description":"13 combo massive Earth attack on all enemies & own Def decreased by half and massive boost to Atk power for 3 turns"
-    },
-    {  
-      "name":"OssoloC sacro",
-      "icon":"http://tinyurl.com/oat8cvf",
-      "description":"17 combo Thunder powerful attack on all enemies, adds Thunder and Light elements to attack for 3 turns & increase in damage dealt during Spark for 3 turns"
-    },
-    {  
-      "name":"ArbeZ sacro",
-      "icon":"http://tinyurl.com/o4ux2kh",
-      "description":"16 combo massive Dark attack on single enemy & fills own BB gauge to max​"
-    },
-    {  
-      "name":"Re Heinrich",
-      "icon":"http://tinyurl.com/nu32olq",
-      "description":"Combo di 24 attacchi di fuoco su tutti i nemici, recupero dei propri PS per 3 turni e bonus DIF agli alleati per 3 turni (100%)"
-    },
-    {  
-      "name":"Re Cornelius",
-      "icon":"http://tinyurl.com/q3dmzzt",
-      "description":"Combo di 24 attacchi di elemento Acqua ed Oscurità su tutti i nemici, aumento dell'attacco per le unità Acqua ed Oscurità per 3 turni (80%) e probabile Ferita sui nemici (60%)"
-    },
-    {  
-      "name":"Regina Magena",
-      "icon":"http://tinyurl.com/q934axd",
-      "description":"Rimuove e nega gli status alterati, rigenera gradualmente la barra BB per 3 turni (5 BC/turno) e aumenta il REC (70%) di tutta la squadra per 3 turni"
+      "name":"Lucy e il Grande Babau",
+      "description":"LS: +3 CB/turno e +40% velocità riempimento barra<br>BB: 30 hit di tenebra e tuono su tutti +5CB per 3 turni<br>SBB: 33 hit di tenebra e tuono su tutti, +62% barra BB +30% CB per 3 turni"
     }
   ]
 }

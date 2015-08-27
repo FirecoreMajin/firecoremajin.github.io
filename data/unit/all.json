@@ -1018,42 +1018,6 @@
          "votetrial":"★★★"
       },
       {  
-         "id":"731",
-         "name":"EtudreV sacro",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/a/a9/Unit_ills_thum_710134.png/revision/latest/scale-to-width-down/42?cb=20150512231812&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/EtudreV_sacro"
-      },
-      {  
-         "id":"733",
-         "name":"AymarkS sacra",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/9b/Unit_ills_thum_720134.png/revision/latest/scale-to-width-down/42?cb=20150603164546&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/AymarkS_sacra"
-      },
-      {  
-         "id":"735",
-         "name":"SotnarG sacro",
-         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/d/d9/Unit_ills_thum_730134.png/revision/latest/scale-to-width-down/42?cb=20150514232155&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/SotnarG_sacro"
-      },
-      {  
-         "id":"737",
-         "name":"OssoloC sacro",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d1/Unit_ills_thum_740134.png/revision/latest/scale-to-width-down/42?cb=20150603164615&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/OssoloC_sacro"
-      },
-      {  
-         "id":"739",
-         "name":"LlewxaM sacra",
-         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/62/Unit_ills_thum_750134.png/revision/latest/scale-to-width-down/42?cb=20150514232155&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/LlewxaM_sacra"
-      },
-      {  
-         "id":"741",
-         "name":"ArbeZ sacro",
-         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/64/Unit_ills_thum_760134.png/revision/latest/scale-to-width-down/42?cb=20150603164633&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/ArbeZ_sacro"
-      },
-      {  
          "id":"7022",
          "name":"Dea Skalmold",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_710115.png/revision/latest/scale-to-width-down/42?cb=20150709123330&path-prefix=it",
@@ -1122,28 +1086,64 @@
          "votearena":"★★★"
       },
       {  
-         "id":"7061",
-         "name":"Conte Heinrich",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/20/Unit_ills_thum_710144.png/revision/latest/scale-to-width-down/42?cb=20150724005514&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Conte_Heinrich"
+         "id":"7054",
+         "name":"Dio etudreV",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/7/7a/Unit_ills_thum_710135.png/revision/latest/scale-to-width-down/42?cb=20150827162930&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dio_etudreV"
       },
       {  
-         "id":"7064",
-         "name":"Conte Cornelius",
-         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/4/43/Unit_ills_thum_720144.png/revision/latest/scale-to-width-down/42?cb=20150724005534&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Conte_Cornelius"
+         "id":"7055",
+         "name":"Dea aymarkS",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/3/34/Unit_ills_thum_720135.png/revision/latest/scale-to-width-down/42?cb=20150827162944&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_aymarkS"
       },
       {  
-         "id":"7067",
-         "name":"Contessa Jade",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/4/42/Unit_ills_thum_730144.png/revision/latest/scale-to-width-down/42?cb=20150724005551&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Contessa_Jade"
+         "id":"7056",
+         "name":"Dio sotnarG",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/3/36/Unit_ills_thum_730135.png/revision/latest/scale-to-width-down/42?cb=20150827162959&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dio_sotnarG"
+      },
+       {  
+         "id":"7057",
+         "name":"Dio ossoloC",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/5/5c/Unit_ills_thum_740135.png/revision/latest/scale-to-width-down/42?cb=20150827163011&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dio_ossoloC"
       },
       {  
-         "id":"7073",
-         "name":"Contessa Magena",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/2/22/Unit_ills_thum_750144.png/revision/latest/scale-to-width-down/42?cb=20150724005621&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Contessa_Magena"
+         "id":"7058",
+         "name":"Dea llewxaM",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/a/a9/Unit_ills_thum_750135.png/revision/latest/scale-to-width-down/42?cb=20150827154750&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dea_llewxaM"
+      },
+      {  
+         "id":"7059",
+         "name":"Dio arbeZ",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/7/7b/Unit_ills_thum_760135.png/revision/latest/scale-to-width-down/42?cb=20150827161924&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Dio_arbeZ"
+      },
+      {  
+         "id":"7062",
+         "name":"Re Heinrich",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/2/2b/Unit_ills_thum_710145.png/revision/latest/scale-to-width-down/42?cb=20150827164529&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Re_Heinrich"
+      },
+      {  
+         "id":"7065",
+         "name":"Re Cornelius",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/c/c1/Unit_ills_thum_720145.png/revision/latest/scale-to-width-down/42?cb=20150827164237&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Re_Cornelius"
+      },
+      {  
+         "id":"7068",
+         "name":"Regina Jade",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/4/42/Unit_ills_thum_730145.png/revision/latest/scale-to-width-down/42?cb=20150827164542&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Regina_Jade"
+      },
+      {  
+         "id":"7074",
+         "name":"Regina Magena",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/3/3e/Unit_ills_thum_750145.png/revision/latest/scale-to-width-down/42?cb=20150827164556&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Regina_Magena"
       },
       {  
          "id":"8002",
