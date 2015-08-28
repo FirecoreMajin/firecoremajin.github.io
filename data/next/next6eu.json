@@ -1,16 +1,4 @@
 {  
   "units":[  
-    {  
-      "name":"Re Jason",
-      "description":"LS: +100% Crit Damage e +10% Crit Chance<br>BB: 20 hit di tuono su un solo nemico, ignora-difesa per tutti gli alleati per 2 turni<br>SBB: Combo incredibilmente potente di 1 ATT di tuono su tutti (25% CRIT e +50% CB per se stessi), ignora-difesa per tutti per 2 turni e +80% danno durante gli Spark per 3 turni"
-    },
-    {  
-      "name":"Regina Lavinia",
-      "description":"LS: 15% prob di infliggere Ferita, Malattia o Debolezza. 10% Veleno, Maledizione o Paralisi<br>BB: 12 hit di tenebra su tutti con 40% prob di infliggere anomalia casuale<br>SBB: 16 hit di tenebra su tutti con 60% prob di infliggere anomalia casualee  che rimuove anomalie da tutti gli alleati."
-    },
-    {  
-      "name":"Lucy e il Grande Babau",
-      "description":"LS: +3 CB/turno e +40% velocità riempimento barra<br>BB: 30 hit di tenebra e tuono su tutti +5CB per 3 turni<br>SBB: 33 hit di tenebra e tuono su tutti, +62% propria barra BB e +30% CB per 3 turni"
-    }
   ]
 }
