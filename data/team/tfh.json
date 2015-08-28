@@ -39,6 +39,11 @@
          "subtitle":"Leader"
       },
       {  
+         "id":"663",
+         "description":"Alto numero di hits della SBB AoE e ottimo 30 Hits TgT della BB per nemici singoli.",
+         "subtitle":"sub-unit"
+      },
+      {  
          "id":"672",
          "description":"LS che aumenta l'efficacia dei CB del 50% e SBB con 30 colpi, ottima per sparkare, che aumenta i danni durante lo spark del 70% per 3 turni",
          "subtitle":"Leader, sub-unit"
