@@ -1715,7 +1715,7 @@
          "name":"Regina Magena",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/3/3e/Unit_ills_thum_750145.png/revision/latest/scale-to-width-down/42?cb=20150827164556&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Regina_Magena",
-         "description":"Un LS (+30% HP, reduce damage 15%) che può stackare con gli altri mitigatori fino a ridurre del 70/75%, buon DC (22CB), BB che rimuove e previene le anomalie e ricarica 5CB per 3 turni e SBB che aggiunge tutti gli elementi e ricarica 6CB per 3 turni, con il 30% di probabilità di riduzione del 50% dell'attacco nemico. L'unica pecca è che non attacca.",
+         "description":"Un LS (+30% HP, -15% DMG) che può stackare con altri DM fino a -70/75% DMG. Buon DC (22CB), BB Null/Remove Ails e +5CB per 3 turni e SBB che aggiunge Fuoco,Fulmine,Terra e Acqua e +6CB per 3 turni, con -50% ATT nemico (30% prob). L'unica pecca è che non attacca.",
          "vote":"★★★",
          "votearena":"★",
          "votefh":"★★★",
