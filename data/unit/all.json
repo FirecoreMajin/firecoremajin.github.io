@@ -29,44 +29,48 @@
          "name":"Zegar Re bestia",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/6/63/Unit_ills_thum_10024.png/revision/latest/scale-to-width-down/42?cb=20141026220247&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zegar_Re_bestia",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Non va oltre alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. Pochi CB/attacco, LS che boosta il danno durante lo Spark (50%) e BB da 9 colpi che può infliggere ferita. Nulla di che per ora",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"321",
          "name":"Zephu eroe draghi",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/f/fa/Unit_ills_thum_20024.png/revision/latest/scale-to-width-down/42?cb=20141027153151&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zephu_eroe_draghi",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Non va oltre alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. Pochi CB/attacco, LS che boosta il danno durante lo Spark (50%) e BB da 9 colpi che può infliggere debolezza. Nulla di che per ora",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"322",
          "name":"Lario Dio arco",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/9c/Unit_ills_thum_30024.png/revision/latest/scale-to-width-down/42?cb=20141106101934&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lario_Dio_arco",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Non va oltre alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. Pochi CB/attacco, LS che aumenta i CB durante lo Spark (70%) e BB da 8 colpi. Nulla di che per ora",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"323",
          "name":"Generale Weiss",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/1/16/Unit_ills_thum_40024.png/revision/latest/scale-to-width-down/42?cb=20141106102447&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Generale_Weiss",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Non va oltre alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. Pochi CB/attacco, LS che aumenta i CB durante lo Spark (70%) e BB che boosta l'ATK per 3 turni (+100%). Può essere usato se non si ha nulla di meglio",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"324",
