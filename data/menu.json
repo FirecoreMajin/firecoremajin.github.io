@@ -20,8 +20,8 @@
 	{"label":"Tutte le unità", "category":"units", "submenu":{"mitems":[
 		{"label":"Fuoco", "id":"fire"},
 		{"label":"Acqua", "id":"water"},
-		{"label":"Fulmine", "id":"thunder"},
 		{"label":"Terra", "id":"earth"},
+		{"label":"Fulmine", "id":"thunder"},
 		{"label":"Luce", "id":"light"},
 		{"label":"Oscurità", "id":"dark"}
 	]}}
