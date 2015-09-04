@@ -53,7 +53,7 @@
          "name":"Lario Dio arco",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/9/9c/Unit_ills_thum_30024.png/revision/latest/scale-to-width-down/42?cb=20141106101934&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lario_Dio_arco",
-         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (14CB), LS con +70% CB durante Spark ma BB scarso.",
+         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (14CB), LS con +70% CB durante Spark ma BB scarso (8 hit terra).",
          "vote":"★",
          "votearena":"★",
          "votefh":"★",
@@ -77,22 +77,24 @@
          "name":"Luna la santa",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/6/66/Unit_ills_thum_50024.png/revision/latest/scale-to-width-down/42?cb=20141106143227&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Luna_la_santa",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (10CB), LS con +70% CB durante Spark ma BB scarso (6 hit luce).",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"325",
          "name":"Ryujin Mifune",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/b2/Unit_ills_thum_60024.png/revision/latest/scale-to-width-down/42?cb=20141106144731&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ryujin_Mifune",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (15CB), LS con +50% danno durante Spark e BB scarso (6 hit oscurità).",
+         "vote":"★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
       },
       {  
          "id":"335",
