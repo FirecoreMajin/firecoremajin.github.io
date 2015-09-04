@@ -1,8 +1,7 @@
 {"mitems":[
 	{"label":"Pross. Batch", "id":"next"},
 	{"label":"FH 7", "id":"tfhnext"},
-	{"label":"Aggiornamenti", "category":"updates", "submenu":{"mitems":[
-		{"label":"Esclusive 6<b style='color:#F9C710;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;'>★</b> EU", "id":"next6eu"},
+	{"label":"Prossimanente", "category":"updates", "submenu":{"mitems":[
 		{"label":"Unità con 6<b style='color:#F9C710;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;'>★</b> GL", "id":"next6gl"},
 		{"label":"Unità con 7<b style='color:#F9C710;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;'>★</b> GL", "id":"next7gl"}	
 	]}},
