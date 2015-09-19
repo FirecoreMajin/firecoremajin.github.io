@@ -207,26 +207,17 @@ footer {
 }
 
 .team-table {
-	background: url(team.png) ;
-	border: 1px solid black;
 	background-size: cover;
 	background-repeat: no-repeat;
 	box-sizing: border-box;
 	border-radius: 3px;
 	oveflow: hidden;
-	width: 290px;
-	float: left;
 	margin-bottom: 0.5em;
 }
 
 .team-points {
-	float:right;
-	font-size: 1.7em;
-	padding: .6em .1em;
-	margin-left: 1em;
 	color:#777;
 	border: 1px solid #777;
-	
 }
 
 .team-description {
