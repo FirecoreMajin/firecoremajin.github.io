@@ -1,46 +1,46 @@
 {  
   "units":[  
     {  
-      "name":"Fire Goddess Ulkina",
-      "icon":"http://img4.wikia.nocookie.net/__cb20140924143451/bravefrontierglobal/images/thumb/c/c3/Unit_ills_thum_10505.png/42px-Unit_ills_thum_10505.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Fire_Goddess_Ulkina",
-      "vote":"★★★★",
-      "description":"Annulla e rimuove le alterazioni con SBB e inoltre cura tantissimo e rimuove le alterazioni con la BB. Multitasking"
+      "name":"Fiora incant. brace",
+      "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/b/bd/Unit_ills_thum_10545.png/revision/latest/scale-to-width-down/42?cb=20150912130236&path-prefix=it",
+      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Fiora_incant._brace",
+      "vote":"?",
+      "description":""
     },
     {  
-      "name":"Aqua Goddess Kuhla",
-      "icon":"http://img2.wikia.nocookie.net/__cb20140924143453/bravefrontierglobal/images/thumb/0/03/Unit_ills_thum_20485.png/42px-Unit_ills_thum_20485.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Aqua_Goddess_Kuhla",
-      "vote":"★★",
-      "description":"Buon filler. Con la BB riempe le barre istantaneamente del team (dunque ottima skill in Arena), con la SBB le riempe a turni, ed entrambe sono AoE"
+      "name":"Eve dea pirata",
+      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fd/Unit_ills_thum_20515.png/revision/latest/scale-to-width-down/42?cb=20150912130237&path-prefix=it",
+      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eve_dea_pirata",
+      "vote":"?",
+      "description":""
     },
     {  
-      "name":"Guardian Goddess Tia",
-      "icon":"http://img3.wikia.nocookie.net/__cb20140924143455/bravefrontierglobal/images/thumb/4/4b/Unit_ills_thum_30475.png/42px-Unit_ills_thum_30475.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Guardian_Goddess_Tia",
-      "vote":"★★",
-      "description":"Healer istantanea e a turni assieme"
+      "name":"Yujeh angelo arcob.",
+      "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/6/63/Unit_ills_thum_50585.png/revision/latest/scale-to-width-down/42?cb=20150912130240&path-prefix=it",
+      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Yujeh_angelo_arcob.",
+      "vote":"?",
+      "description":""
     },
     {  
-      "name":"Lightning Gun Rowgen",
-      "icon":"http://img1.wikia.nocookie.net/__cb20140924143503/bravefrontierglobal/images/thumb/b/bd/Unit_ills_thum_40475.png/42px-Unit_ills_thum_40475.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Lightning_Gun_Rowgen",
-      "vote":"★★★★",
-      "description":"Damage Dealer con SBB infinita, Mod Danni alto e 1 Hit, che è terribilmente facile da sparkare dunque da massimizzare in termini di danno"
+      "name":"Zeus Whip Orna",
+      "icon":"http://vignette2.wikia.nocookie.net/bravefrontierglobal/images/2/24/Unit_ills_thum_40495.png/revision/latest/scale-to-width-down/42?cb=20141023171248",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Zeus_Whip_Orna",
+      "vote":"?",
+      "description":""
     },
     {  
-      "name":"Mad God Narza",
-      "icon":"http://img2.wikia.nocookie.net/__cb20140924143505/bravefrontierglobal/images/thumb/8/81/Unit_ills_thum_50515.png/42px-Unit_ills_thum_50515.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Mad_God_Narza",
-      "vote":"★★★",
-      "description":"Mitiga e rimuove le alterazioni ma senza attaccare"
+      "name":"Deity Ruler Lucca",
+      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierglobal/images/1/17/Unit_ills_thum_30505.png/revision/latest/scale-to-width-down/42?cb=20141023171245",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Deity_Ruler_Lucca",
+      "vote":"?",
+      "description":""
     },
     {  
-      "name":"Master Assassin Kuda",
-      "icon":"http://img4.wikia.nocookie.net/__cb20140924143507/bravefrontierglobal/images/thumb/5/5d/Unit_ills_thum_60535.png/42px-Unit_ills_thum_60535.png",
-      "link":"http://bravefrontierglobal.wikia.com/wiki/Master_Assassin_Kuda",
-      "vote":"★★★",
-      "description":"Doppio buff Crit + Att ma come tutte le unità multitasking non da buff eccelsi. Buoni ma superabili"
+      "name":"Dark Demigod Ardin",
+      "icon":"http://vignette4.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_60595.png/revision/latest/scale-to-width-down/42?cb=20141023171256",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Dark_Demigod_Ardin",
+      "vote":"?",
+      "description":""
     }
   ]
  }
