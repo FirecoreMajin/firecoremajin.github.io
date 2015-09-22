@@ -1,19 +1,24 @@
 {  
    "units":[  
       {  
-         "id":"472"
+         "id":"472",
+         "subtitle":"sub-unit"
       },
       {  
-         "id":"489"
+         "id":"489",
+         "subtitle":"Leader, sub-unit"
       },
       {  
-         "id":"526"
+         "id":"526",
+         "subtitle":"sub-unit"
       },
       {  
-         "id":"612"
+         "id":"612",
+         "subtitle":"Leader, sub-unit"
       },
       {  
-         "id":"7074"
+         "id":"7074",
+         "subtitle":"Leader"
       }
    ]
 }
