@@ -1306,17 +1306,6 @@
          "votetrial":"?"
       },
       {  
-         "id":"676",
-         "name":"Zurg dio rovina",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
-         "vote":"★★★",
-         "votearena":"★★★★★",
-         "votefh":"★",
-         "votevortex":"★",
-         "votetrial":"★"
-      },
-      {  
          "id":"642",
          "name":"Deemo e la ragazza (Evoluzione)",
          "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/5/5f/Unit_ills_thum_50564.png/revision/latest/scale-to-width-down/42?cb=20150626142626&path-prefix=it",
@@ -1460,6 +1449,85 @@
          "votefh":"★★★★★",
          "votevortex":"★★★★",
          "votetrial":"★★★"
+      },
+      {  
+         "id":"676",
+         "name":"Zurg dio rovina",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/04/Unit_ills_thum_60544.png/revision/latest/scale-to-width-down/42?cb=20150722092102&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Zurg_dio_rovina",
+         "vote":"★★★",
+         "votearena":"★★★★★",
+         "votefh":"★",
+         "votevortex":"★",
+         "votetrial":"★"
+      },
+      {  
+         "id":"683",
+         "name":"Ulkina dea fuoco",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/c/c3/Unit_ills_thum_10505.png/revision/latest/scale-to-width-down/42?cb=20150903164326&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Ulkina_dea_fuoco",
+         "description":"Un healer che attacca seriamente e gestisce le anomalie, DC bassino (18CB) ma un LS che boosta ATK e riduce del 15% il costo attivazione BB, una BB che cura ed elimina le anomalie e un SBB da 17 hit di fuoco (440% DMG), elimina le anomalie e le nega per tre turni.",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
+      },
+      {  
+         "id":"686",
+         "name":"Kuhla dea acqua",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/0/03/Unit_ills_thum_20485.png/revision/latest/scale-to-width-down/42?cb=20150903164327&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Kuhla_dea_acqua",
+         "description":"Un buon BB filler, ma non va oltre a questo. DC basso (16CB), l'LS aumenta del 30% gli HP e ne rigenera 200-400 ogni turno, un BB da 12 hit d'acqua (250% DMG) che da 8CB a tutti e un SBB da 16 hit d'acqua (450% DMG) che da +4CB e aumenta l'ATK del 115% per 3 turni",
+         "vote":"★★★",
+         "votearena":"★★",
+         "votefh":"★★★",
+         "votevortex":"★★★",
+         "votetrial":"★★★"
+      },
+      {  
+         "id":"689",
+         "name":"Tia dea guardiana",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/4/4b/Unit_ills_thum_30475.png/revision/latest/scale-to-width-down/42?cb=20150904203143&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Tia_dea_guardiana",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"692",
+         "name":"Rowgen pist. fulmine",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/b/bd/Unit_ills_thum_40475.png/revision/latest/scale-to-width-down/42?cb=20150904203144&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Rowgen_pist._fulmine",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"695",
+         "name":"Narza dio folle",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/8/81/Unit_ills_thum_50515.png/revision/latest/scale-to-width-down/42?cb=20150903164328&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Narza_dio_folle",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"698",
+         "name":"Kuda maestro assass.",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/5/5d/Unit_ills_thum_60535.png/revision/latest/scale-to-width-down/42?cb=20150904203145&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Kuda_maestro_assass.",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
       },
       {  
          "id":"705",
