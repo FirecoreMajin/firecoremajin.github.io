@@ -1,46 +1,67 @@
 {  
   "units":[  
     {  
-      "name":"Fiora incant. brace",
-      "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/b/bd/Unit_ills_thum_10545.png/revision/latest/scale-to-width-down/42?cb=20150912130236&path-prefix=it",
-      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Fiora_incant._brace",
-      "vote":"?",
-      "description":""
-    },
-    {  
-      "name":"Eve dea pirata",
-      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fd/Unit_ills_thum_20515.png/revision/latest/scale-to-width-down/42?cb=20150912130237&path-prefix=it",
-      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eve_dea_pirata",
-      "vote":"?",
-      "description":""
-    },
-    {  
-      "name":"Yujeh angelo arcob.",
-      "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/6/63/Unit_ills_thum_50585.png/revision/latest/scale-to-width-down/42?cb=20150912130240&path-prefix=it",
-      "link":"http://it.bravefrontierrpg.wikia.com/wiki/Yujeh_angelo_arcob.",
-      "vote":"?",
-      "description":""
-    },
-    {  
       "name":"Zeus Whip Orna",
       "icon":"http://vignette2.wikia.nocookie.net/bravefrontierglobal/images/2/24/Unit_ills_thum_40495.png/revision/latest/scale-to-width-down/42?cb=20141023171248",
       "link":"http://bravefrontierglobal.wikia.com/wiki/Zeus_Whip_Orna",
-      "vote":"?",
-      "description":""
+      "vote":"★★★★",
+      "description":"un crit buff quasi massimo (50%) più doppio add, nei Raid specialmente molto molto utile"
     },
     {  
       "name":"Deity Ruler Lucca",
       "icon":"http://vignette3.wikia.nocookie.net/bravefrontierglobal/images/1/17/Unit_ills_thum_30505.png/revision/latest/scale-to-width-down/42?cb=20141023171245",
       "link":"http://bravefrontierglobal.wikia.com/wiki/Deity_Ruler_Lucca",
-      "vote":"?",
-      "description":""
+      "vote":"★★★",
+      "description":"Una versione potenziata di Michele, un DC alto (25CB) un LS da BB Filler e un SBB da 19 hit di terra che boosta l'attacco e aggiunge l'elemento terra e acqua"
     },
     {  
       "name":"Dark Demigod Ardin",
       "icon":"http://vignette4.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_60595.png/revision/latest/scale-to-width-down/42?cb=20141023171256",
       "link":"http://bravefrontierglobal.wikia.com/wiki/Dark_Demigod_Ardin",
-      "vote":"?",
-      "description":""
+      "vote":"★★★",
+      "description":"Atk debuff e doppio add"
+    },
+    {  
+      "name":"Phoenix God Arus",
+      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierglobal/images/8/86/Unit_ills_thum_10555.png/revision/latest/scale-to-width-down/42?cb=20141124171926",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Phoenix_God_Arus",
+      "vote":"★★★★",
+      "description":"Ottimo perché DD che con la BB filla le barre, in trial fa veramente una figura porca"
+    },
+    {  
+      "name":"Massacre God Belfura",
+      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_20535.png/revision/latest/scale-to-width-down/42?cb=20141124171928",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Massacre_God_Belfura",
+      "vote":"★★",
+      "description":"Solo discreta perché la SBB non aggiunge molto alla BB"
+    },
+    {  
+      "name":"Priscilla",
+      "icon":"http://vignette3.wikia.nocookie.net/bravefrontierglobal/images/c/c0/Unit_ills_thum_50605.png/revision/latest/scale-to-width-down/42?cb=20141124171932",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Holy_Night_Priscilla",
+      "vote":"★★",
+      "description":"Eccellente contro Cardes per paralizzare Luther.... ma la sua utilità finisce grossomodo li"
+    },
+    {  
+      "name":"Thunder Savior Shera",
+      "icon":"http://vignette1.wikia.nocookie.net/bravefrontierglobal/images/2/25/Unit_ills_thum_40505.png/revision/latest/scale-to-width-down/42?cb=20141124171930",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Thunder_Savior_Shera",
+      "vote":"★★★★★",
+      "description":"Mitigatore con 26 hits AoE, Att buff discreto, eccellenti statistiche, na bomba per FH"
+    },
+    {  
+      "name":"Dragon God Ragshelm",
+      "icon":"http://vignette2.wikia.nocookie.net/bravefrontierglobal/images/b/b3/Unit_ills_thum_30515.png/revision/latest/scale-to-width-down/42?cb=20141124171929",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Dragon_God_Ragshelm",
+      "vote":"★★",
+      "description":"Non è male come LS e come Ails addicter ma ci sarà di meglio... anche se a 7* non mi spiace per nulla"
+    },
+    {  
+      "name":"Demon God Borgeus",
+      "icon":"http://vignette4.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_60595.png/revision/latest/scale-to-width-down/42?cb=20141023171256",
+      "link":"http://bravefrontierglobal.wikia.com/wiki/Dark_Demigod_Ardin",
+      "vote":"★",
+      "description":"Un unità per usi particolari, LS che aumenta il danno sull'elemento debole, BB e SBB che aggiungono Veleno e Maledizione agli attacchi con alti costi in termini di CB rispetto al bassissimo DC (9CB)"
     }
   ]
  }

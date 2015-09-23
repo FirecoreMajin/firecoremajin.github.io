@@ -1623,11 +1623,12 @@
          "name":"Eve dea pirata",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/f/fd/Unit_ills_thum_20515.png/revision/latest/scale-to-width-down/42?cb=20150912130237&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Eve_dea_pirata",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
+         "description":"Una versione potenziata di Zelban, un DC alto (28CB) un LS che aumenta del 30% gli HP e li fa recuperare del 15/20% ogni turno e un SBB da 20 hit d'acqua che boosta le difese e aggiunge l'elemento acqua e terra",
+         "vote":"★★★",
+         "votearena":"★★",
+         "votefh":"★★★",
+         "votevortex":"★★★",
+         "votetrial":"★★★"
       },
       {  
          "id":"723",
