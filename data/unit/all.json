@@ -1471,6 +1471,42 @@
          "votetrial":"?"
       },
       {  
+         "id":"758",
+         "name":"Arus dio fenice",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/8/86/Unit_ills_thum_10555.png/revision/latest/scale-to-width-down/42?cb=20150924142345&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Arus_dio_fenice",
+         "description":"DC buono (20CB), SBB DD e BB che filla le barre.",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
+      },
+      {  
+         "id":"761",
+         "name":"Belfura dea massacro",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/b/b1/Unit_ills_thum_20535.png/revision/latest/scale-to-width-down/42?cb=20150924142347&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Belfura_dea_massacro",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"767",
+         "name":"Shera salvat. tuono",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/2/25/Unit_ills_thum_40505.png/revision/latest/scale-to-width-down/42?cb=20150924142349&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Shera_salvat._tuono",
+         "description":"DC bassino (15CB) ma è un DM con SBB da 26 hit con boost dell'ATK per 3 turni",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
+      },
+      {  
          "id":"792",
          "name":"Zegar belva inferno",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/a/a6/Unit_ills_thum_10025.png/revision/latest/scale-to-width-down/42?cb=20150924212243&path-prefix=it",
