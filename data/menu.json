@@ -7,8 +7,12 @@
 	]}},
 	{"label":"Categorie", "category":"categories", "submenu":{"mitems":[
 		{"label":"Eclusive EU", "id":"exclusive"},	
-		{"label":"Mitigatori", "id":"mitigator"},	
-		{"label":"Curatori", "id":"healer"}	
+		{"label":"Damage Mitigator", "id":"mitigator"},	
+		{"label":"Add Element", "id":"add_element.json"},
+		{"label":"Damage Dealer", "id":"damage_dealer"},
+		{"label":"Null Ails", "id":"null_ails"},
+		{"label":"Ails Remover", "id":"ails_remover"},
+		{"label":"BB Fill", "id":"bb_fill"}
 	]}},
 	{"label":"Team", "category":"teams", "submenu":{"mitems":[
 		{"label":"Arena Team", "id":"tarena"},
