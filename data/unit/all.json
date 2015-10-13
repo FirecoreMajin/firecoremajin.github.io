@@ -1542,6 +1542,18 @@
          "votetrial":"?"
       },
       {  
+         "id":"794",
+         "name":"Lario arco Gaia",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/0d/Unit_ills_thum_30025.png/revision/latest/scale-to-width-down/42?cb=20150924212244&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lario_arco_Gaia",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
          "id":"795",
          "name":"Generale Weiss dorato",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/9/9c/Unit_ills_thum_40025.png/revision/latest/scale-to-width-down/42?cb=20150924212244&path-prefix=it",
@@ -1566,11 +1578,11 @@
          "votetrial":"?"
       },
       {  
-         "id":"752",
-         "name":"Lario arco Gaia",
-         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/0/0d/Unit_ills_thum_30025.png/revision/latest/scale-to-width-down/42?cb=20150924212244&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Lario_arco_Gaia",
-         "description":"",
+         "id":"797",
+         "name":"Mifune samur. ombra",
+         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/13/Unit_ills_thum_60025.png/revision/latest/scale-to-width-down/42?cb=20150924212245&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mifune_samur._ombra",
+         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (15CB), LS con +50% danno durante Spark e BB scarso (6 hit oscurità).",
          "vote":"?",
          "votearena":"?",
          "votefh":"?",
@@ -1637,18 +1649,6 @@
          "name":"Oboro ombra chakra",
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/d/dd/Unit_ills_thum_60155.png/revision/latest/scale-to-width-down/42?cb=20150921092525&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Oboro_ombra_chakra",
-         "vote":"?",
-         "votearena":"?",
-         "votefh":"?",
-         "votevortex":"?",
-         "votetrial":"?"
-      },
-      {  
-         "id":"797",
-         "name":"Mifune samur. ombra",
-         "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/1/13/Unit_ills_thum_60025.png/revision/latest/scale-to-width-down/42?cb=20150924212245&path-prefix=it",
-         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Mifune_samur._ombra",
-         "description":"Ferma alle 5<b style='text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;color:#f0d270;'>★</b> per ora. DC basso (15CB), LS con +50% danno durante Spark e BB scarso (6 hit oscurità).",
          "vote":"?",
          "votearena":"?",
          "votefh":"?",
