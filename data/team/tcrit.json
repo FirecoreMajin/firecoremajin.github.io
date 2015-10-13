@@ -1,4 +1,4 @@
-{  
+	{  
    "units":[  
       {  
          "id":"591",
@@ -6,7 +6,7 @@
          "description":"L'SBB aumenta il crit chance del 30%, l'LS aumenta il danno critico del 125% e il 100% di danno agli elementi deboli."
       },
       {  
-         "id":"7058",
+         "id":"7056",
          "subtitle":"Leader - Crit Dmg Boost",
          "description":"L'LS aumenta del 150% il danno critico e aumenta i danni durante lo Spark"
       },
@@ -31,7 +31,7 @@
          "description":"SBB aumenta i danni da spark ed i critici del 40%. (in sostituzione a Duel-SGX)"
       },
       {  
-         "id":"365",
+         "id":"751",
          "subtitle":"Crit Boost",
          "description":"In mancanza di altri critical boost può essere una buona alternativa, ma solo se il BB è a livello 10, che da +80% def e è 45% crit chance. (in sostituzione a Duel-SGX)"
       },
