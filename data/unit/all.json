@@ -1722,6 +1722,17 @@
          "votetrial":"?"
       },
       {  
+         "id":"7002",
+         "name":"Jack Cavaliere",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/6/60/Unit_ills_thum_710015.png/revision/latest/scale-to-width-down/42?cb=20151028223701&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Jack_Cavaliere",
+         "vote":"?",
+         "votetrial":"?",
+         "votevortex":"?",
+         "votefh":"?",
+         "votearena":"?"
+      },
+      {  
          "id":"7022",
          "name":"Dea Skalmold",
          "icon":"http://vignette2.wikia.nocookie.net/bravefrontierrpg/images/d/d8/Unit_ills_thum_710115.png/revision/latest/scale-to-width-down/42?cb=20150709123330&path-prefix=it",
@@ -1939,6 +1950,54 @@
          "votetrial":"★★★★"
       },
       {  
+         "id":"7083",
+         "name":"Coal Cauldron Signore Guerra",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/c/c3/Unit_ills_thum_710155.png/revision/latest/scale-to-width-down/42?cb=20151030101427&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Coal_Cauldron_Signore_Guerra",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"7086",
+         "name":"Gazolina Splash",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/c/c2/Unit_ills_thum_720155.png/revision/latest/scale-to-width-down/42?cb=20151022162449&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Gazolina_Splash",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"7089",
+         "name":"Voodoo Child Possente",
+         "icon":"http://vignette4.wikia.nocookie.net/bravefrontierrpg/images/e/e4/Unit_ills_thum_730155.png/revision/latest/scale-to-width-down/42?cb=20151030101427&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Voodoo_Child_Possente",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
+         "id":"7092",
+         "name":"Crash Belt Nitro",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/38/Unit_ills_thum_740155.png/revision/latest/scale-to-width-down/42?cb=20151022162453&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Crash_Belt_Nitro",
+         "description":"",
+         "vote":"?",
+         "votearena":"?",
+         "votefh":"?",
+         "votevortex":"?",
+         "votetrial":"?"
+      },
+      {  
          "id":"7101",
          "name":"Bloody Blink Flash",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/30/Unit_ills_thum_750155.png/revision/latest/scale-to-width-down/42?cb=20151022162454&path-prefix=it",
@@ -1956,7 +2015,7 @@
          "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/5/57/Unit_ills_thum_760155.png/revision/latest/scale-to-width-down/42?cb=20151030101429&path-prefix=it",
          "link":"http://it.bravefrontierrpg.wikia.com/wiki/Pig_Bull_Signore_Guerra",
          "description":"Un unità un po' particolare, a volte difficile da usare. Buon DC (24CB), un LS che permette di caricare CB quando attaccati e di assorbire fino all'8% di danno inflitto (50% prob), un SBB con un modificatore di danno assurdo (+955%) concentrati in 2 soli hit quindi facilmente sparkabili. L'SBB però ha un malus, toglie 5000 hp all'unità ma gli applica sopra un Angel Idol.",
-         "vote":"★★★",
+         "vote":"★★★★",
          "votearena":"★",
          "votefh":"★",
          "votevortex":"★★★★",
