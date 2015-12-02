@@ -1939,6 +1939,30 @@
          "votetrial":"★★★★"
       },
       {  
+         "id":"7101",
+         "name":"Bloody Blink Flash",
+         "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/3/30/Unit_ills_thum_750155.png/revision/latest/scale-to-width-down/42?cb=20151022162454&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Bloody_Blink_Flash",
+         "description":"Buon DC (22CB), un LS che può ridurre a 1 il danno subito (15%) e aumenta la rec del 35% e un SBB che aumenta del 130% e poi aumenta l'ATK dell'80% della REC totale. Ottimo ATK booster e con il boost del REC rende spesso inutili gli healer puri.",
+         "vote":"★★★★",
+         "votearena":"★★★",
+         "votefh":"★★★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★★"
+      },
+      {  
+         "id":"7105",
+         "name":"Pig Bull Signore Guerra",
+         "icon":"http://vignette1.wikia.nocookie.net/bravefrontierrpg/images/5/57/Unit_ills_thum_760155.png/revision/latest/scale-to-width-down/42?cb=20151030101429&path-prefix=it",
+         "link":"http://it.bravefrontierrpg.wikia.com/wiki/Pig_Bull_Signore_Guerra",
+         "description":"Un unità un po' particolare, a volte difficile da usare. Buon DC (24CB), un LS che permette di caricare CB quando attaccati e di assorbire fino all'8% di danno inflitto (50% prob), un SBB con un modificatore di danno assurdo (+955%) concentrati in 2 soli hit quindi facilmente sparkabili. L'SBB però ha un malus, toglie 5000 hp all'unità ma gli applica sopra un Angel Idol.",
+         "vote":"★★★★",
+         "votearena":"★",
+         "votefh":"★",
+         "votevortex":"★★★★",
+         "votetrial":"★★★"
+      },
+      {  
          "id":"8002",
          "name":"Lico spada demon.",
          "icon":"http://vignette3.wikia.nocookie.net/bravefrontierrpg/images/e/e5/Unit_ills_thum_860005.png/revision/latest/scale-to-width-down/42?cb=20141215150310&path-prefix=it",
